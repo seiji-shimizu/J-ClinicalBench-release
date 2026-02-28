@@ -1,0 +1,2282 @@
+[
+  {
+    "sample_id": "113C33",
+    "gold": 0,
+    "generated": 0,
+    "generated_text": "0"
+  },
+  {
+    "sample_id": "116C48",
+    "gold": 3,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "114B34",
+    "gold": 4,
+    "generated": 4,
+    "generated_text": "4"
+  },
+  {
+    "sample_id": "116A31",
+    "gold": 1,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "116D75",
+    "gold": 0,
+    "generated": 1,
+    "generated_text": "1, 2, 4"
+  },
+  {
+    "sample_id": "116A28",
+    "gold": 0,
+    "generated": 0,
+    "generated_text": "0"
+  },
+  {
+    "sample_id": "115D34",
+    "gold": 4,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "114D5",
+    "gold": 4,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "113A43",
+    "gold": 0,
+    "generated": 0,
+    "generated_text": "0"
+  },
+  {
+    "sample_id": "113E34",
+    "gold": 0,
+    "generated": 0,
+    "generated_text": "0"
+  },
+  {
+    "sample_id": "112A21",
+    "gold": 1,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "112C48",
+    "gold": 4,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "113A47",
+    "gold": 0,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "114A67",
+    "gold": 1,
+    "generated": 1,
+    "generated_text": "1, 2"
+  },
+  {
+    "sample_id": "116A43",
+    "gold": 2,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "114A24",
+    "gold": 4,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "115A45",
+    "gold": 0,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "113D39",
+    "gold": 1,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "113D27",
+    "gold": 0,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "115E35",
+    "gold": 1,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "115A47",
+    "gold": 3,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "113D29",
+    "gold": 1,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "116D19",
+    "gold": 2,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "115D57",
+    "gold": 3,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "113A24",
+    "gold": 0,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "112A46",
+    "gold": 2,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "113C30",
+    "gold": 0,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "116C49",
+    "gold": 3,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "114B30",
+    "gold": 4,
+    "generated": 4,
+    "generated_text": "4"
+  },
+  {
+    "sample_id": "114D31",
+    "gold": 4,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "116C54",
+    "gold": 2,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "114A30",
+    "gold": 3,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "113A38",
+    "gold": 4,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "114B37",
+    "gold": 3,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "115C45",
+    "gold": 1,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "116B28",
+    "gold": 1,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "113B31",
+    "gold": 1,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "115C49",
+    "gold": 2,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "112A68",
+    "gold": 2,
+    "generated": 2,
+    "generated_text": "2, 4"
+  },
+  {
+    "sample_id": "116A63",
+    "gold": 4,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "116C45",
+    "gold": 1,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "115D25",
+    "gold": 0,
+    "generated": 4,
+    "generated_text": "4"
+  },
+  {
+    "sample_id": "115A24",
+    "gold": 3,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "113E31",
+    "gold": 1,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "115D54",
+    "gold": 3,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "112C35",
+    "gold": 4,
+    "generated": 4,
+    "generated_text": "4"
+  },
+  {
+    "sample_id": "116B27",
+    "gold": 2,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "116C36",
+    "gold": 1,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "114D36",
+    "gold": 1,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "116A26",
+    "gold": 4,
+    "generated": 0,
+    "generated_text": "0"
+  },
+  {
+    "sample_id": "112A18",
+    "gold": 0,
+    "generated": 0,
+    "generated_text": "0"
+  },
+  {
+    "sample_id": "116D39",
+    "gold": 3,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "113A65",
+    "gold": 0,
+    "generated": 1,
+    "generated_text": "01"
+  },
+  {
+    "sample_id": "115A41",
+    "gold": 4,
+    "generated": 4,
+    "generated_text": "4"
+  },
+  {
+    "sample_id": "114D72",
+    "gold": 0,
+    "generated": 123,
+    "generated_text": "0123"
+  },
+  {
+    "sample_id": "114A70",
+    "gold": 2,
+    "generated": 24,
+    "generated_text": "24"
+  },
+  {
+    "sample_id": "115C47",
+    "gold": 2,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "112A37",
+    "gold": 4,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "114A73",
+    "gold": 0,
+    "generated": 12,
+    "generated_text": "012"
+  },
+  {
+    "sample_id": "116A68",
+    "gold": 3,
+    "generated": 13,
+    "generated_text": "13"
+  },
+  {
+    "sample_id": "115D75",
+    "gold": 4,
+    "generated": 0,
+    "generated_text": "0"
+  },
+  {
+    "sample_id": "116D59",
+    "gold": 3,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "114E33",
+    "gold": 4,
+    "generated": 4,
+    "generated_text": "4"
+  },
+  {
+    "sample_id": "113C46",
+    "gold": 4,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "113A49",
+    "gold": 1,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "116C51",
+    "gold": 2,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "114A22",
+    "gold": 4,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "116E35",
+    "gold": 2,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "112B37",
+    "gold": 4,
+    "generated": 4,
+    "generated_text": "4"
+  },
+  {
+    "sample_id": "113C35",
+    "gold": 4,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "116E34",
+    "gold": 2,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "115C48",
+    "gold": 1,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "116E36",
+    "gold": 2,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "113D75",
+    "gold": 0,
+    "generated": 0,
+    "generated_text": "0, 1, 3"
+  },
+  {
+    "sample_id": "112A24",
+    "gold": 3,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "114C39",
+    "gold": 3,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "116D69",
+    "gold": 2,
+    "generated": 1,
+    "generated_text": "1 3"
+  },
+  {
+    "sample_id": "116D63",
+    "gold": 0,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "114C49",
+    "gold": 3,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "113A26",
+    "gold": 1,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "113D70",
+    "gold": 2,
+    "generated": 2,
+    "generated_text": "2, 3"
+  },
+  {
+    "sample_id": "114D19",
+    "gold": 2,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "112A44",
+    "gold": 4,
+    "generated": 4,
+    "generated_text": "4"
+  },
+  {
+    "sample_id": "115A31",
+    "gold": 1,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "116D64",
+    "gold": 1,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "116D18",
+    "gold": 0,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "116D45",
+    "gold": 4,
+    "generated": 4,
+    "generated_text": "4"
+  },
+  {
+    "sample_id": "114A51",
+    "gold": 1,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "114C43",
+    "gold": 1,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "114A64",
+    "gold": 1,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "116E32",
+    "gold": 1,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "112E30",
+    "gold": 3,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "113A57",
+    "gold": 0,
+    "generated": 0,
+    "generated_text": "0"
+  },
+  {
+    "sample_id": "113B27",
+    "gold": 2,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "113C32",
+    "gold": 3,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "116D22",
+    "gold": 0,
+    "generated": 0,
+    "generated_text": "0"
+  },
+  {
+    "sample_id": "112B26",
+    "gold": 1,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "112C34",
+    "gold": 4,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "112A58",
+    "gold": 1,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "112C45",
+    "gold": 4,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "115E39",
+    "gold": 2,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "116A64",
+    "gold": 4,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "112D35",
+    "gold": 2,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "112D28",
+    "gold": 3,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "115D18",
+    "gold": 2,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "116D58",
+    "gold": 0,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "114D47",
+    "gold": 3,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "112B36",
+    "gold": 1,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "116B31",
+    "gold": 1,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "112E29",
+    "gold": 3,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "115A17",
+    "gold": 4,
+    "generated": 4,
+    "generated_text": "4"
+  },
+  {
+    "sample_id": "115D32",
+    "gold": 0,
+    "generated": 0,
+    "generated_text": "0"
+  },
+  {
+    "sample_id": "116A69",
+    "gold": 0,
+    "generated": 2,
+    "generated_text": "2 3"
+  },
+  {
+    "sample_id": "116C58",
+    "gold": 0,
+    "generated": 1,
+    "generated_text": "01"
+  },
+  {
+    "sample_id": "116A16",
+    "gold": 2,
+    "generated": 4,
+    "generated_text": "4"
+  },
+  {
+    "sample_id": "114D67",
+    "gold": 0,
+    "generated": 1,
+    "generated_text": "01"
+  },
+  {
+    "sample_id": "113D44",
+    "gold": 4,
+    "generated": 0,
+    "generated_text": "0"
+  },
+  {
+    "sample_id": "114B33",
+    "gold": 1,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "116D24",
+    "gold": 3,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "116D40",
+    "gold": 3,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "113D46",
+    "gold": 4,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "113D53",
+    "gold": 4,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "116E40",
+    "gold": 3,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "113A36",
+    "gold": 3,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "113E41",
+    "gold": 1,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "112A39",
+    "gold": 1,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "114A68",
+    "gold": 0,
+    "generated": 2,
+    "generated_text": "2 4"
+  },
+  {
+    "sample_id": "116D49",
+    "gold": 4,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "112A26",
+    "gold": 3,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "116E27",
+    "gold": 1,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "114A33",
+    "gold": 0,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "114C41",
+    "gold": 1,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "116A73",
+    "gold": 0,
+    "generated": 1,
+    "generated_text": "1, 3, 4"
+  },
+  {
+    "sample_id": "113C37",
+    "gold": 0,
+    "generated": 0,
+    "generated_text": "0"
+  },
+  {
+    "sample_id": "114E37",
+    "gold": 0,
+    "generated": 0,
+    "generated_text": "0"
+  },
+  {
+    "sample_id": "114E31",
+    "gold": 2,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "115B26",
+    "gold": 3,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "114A69",
+    "gold": 0,
+    "generated": 3,
+    "generated_text": "03"
+  },
+  {
+    "sample_id": "115B27",
+    "gold": 4,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "116B18",
+    "gold": 2,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "114C50",
+    "gold": 3,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "116D35",
+    "gold": 0,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "114A44",
+    "gold": 4,
+    "generated": 4,
+    "generated_text": "4"
+  },
+  {
+    "sample_id": "113C40",
+    "gold": 0,
+    "generated": 0,
+    "generated_text": "0"
+  },
+  {
+    "sample_id": "114D48",
+    "gold": 3,
+    "generated": 0,
+    "generated_text": "0"
+  },
+  {
+    "sample_id": "114B40",
+    "gold": 1,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "116C55",
+    "gold": 4,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "113A17",
+    "gold": 4,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "114C38",
+    "gold": 2,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "115A23",
+    "gold": 0,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "113C42",
+    "gold": 4,
+    "generated": 4,
+    "generated_text": "4"
+  },
+  {
+    "sample_id": "112C28",
+    "gold": 1,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "115D40",
+    "gold": 4,
+    "generated": 4,
+    "generated_text": "4"
+  },
+  {
+    "sample_id": "113D36",
+    "gold": 0,
+    "generated": 0,
+    "generated_text": "0"
+  },
+  {
+    "sample_id": "115B35",
+    "gold": 2,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "113D47",
+    "gold": 4,
+    "generated": 4,
+    "generated_text": "4"
+  },
+  {
+    "sample_id": "116A46",
+    "gold": 1,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "115A51",
+    "gold": 3,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "115D72",
+    "gold": 0,
+    "generated": 2,
+    "generated_text": "2 3"
+  },
+  {
+    "sample_id": "113D55",
+    "gold": 4,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "115C55",
+    "gold": 0,
+    "generated": 2,
+    "generated_text": "2, 3"
+  },
+  {
+    "sample_id": "116D51",
+    "gold": 2,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "113A22",
+    "gold": 0,
+    "generated": 0,
+    "generated_text": "0"
+  },
+  {
+    "sample_id": "114E32",
+    "gold": 4,
+    "generated": 4,
+    "generated_text": "4"
+  },
+  {
+    "sample_id": "114A74",
+    "gold": 0,
+    "generated": 12,
+    "generated_text": "012"
+  },
+  {
+    "sample_id": "113D35",
+    "gold": 1,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "115A39",
+    "gold": 4,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "116C38",
+    "gold": 1,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "115A36",
+    "gold": 2,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "116C41",
+    "gold": 2,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "112B27",
+    "gold": 2,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "115D71",
+    "gold": 1,
+    "generated": 13,
+    "generated_text": "13"
+  },
+  {
+    "sample_id": "114D52",
+    "gold": 0,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "113C43",
+    "gold": 0,
+    "generated": 0,
+    "generated_text": "0"
+  },
+  {
+    "sample_id": "113E29",
+    "gold": 3,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "113E36",
+    "gold": 0,
+    "generated": 0,
+    "generated_text": "0"
+  },
+  {
+    "sample_id": "115B37",
+    "gold": 0,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "112D36",
+    "gold": 1,
+    "generated": 0,
+    "generated_text": "0"
+  },
+  {
+    "sample_id": "115E29",
+    "gold": 4,
+    "generated": 0,
+    "generated_text": "0"
+  },
+  {
+    "sample_id": "115A72",
+    "gold": 3,
+    "generated": 4,
+    "generated_text": "04"
+  },
+  {
+    "sample_id": "114D71",
+    "gold": 0,
+    "generated": 2,
+    "generated_text": "2 4"
+  },
+  {
+    "sample_id": "112D46",
+    "gold": 2,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "114D51",
+    "gold": 4,
+    "generated": 0,
+    "generated_text": "0"
+  },
+  {
+    "sample_id": "116E31",
+    "gold": 4,
+    "generated": 4,
+    "generated_text": "4"
+  },
+  {
+    "sample_id": "114D35",
+    "gold": 0,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "112C43",
+    "gold": 4,
+    "generated": 4,
+    "generated_text": "4"
+  },
+  {
+    "sample_id": "113B37",
+    "gold": 0,
+    "generated": 0,
+    "generated_text": "0"
+  },
+  {
+    "sample_id": "114A75",
+    "gold": 2,
+    "generated": 24,
+    "generated_text": "024"
+  },
+  {
+    "sample_id": "112D51",
+    "gold": 1,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "113B38",
+    "gold": 2,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "115C57",
+    "gold": 0,
+    "generated": 23,
+    "generated_text": "23"
+  },
+  {
+    "sample_id": "113E40",
+    "gold": 4,
+    "generated": 4,
+    "generated_text": "4"
+  },
+  {
+    "sample_id": "112A65",
+    "gold": 0,
+    "generated": 2,
+    "generated_text": "02"
+  },
+  {
+    "sample_id": "112D72",
+    "gold": 0,
+    "generated": 2,
+    "generated_text": "2 3"
+  },
+  {
+    "sample_id": "116C57",
+    "gold": 1,
+    "generated": 14,
+    "generated_text": "14"
+  },
+  {
+    "sample_id": "113A30",
+    "gold": 4,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "114C56",
+    "gold": 4,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "115D28",
+    "gold": 2,
+    "generated": 4,
+    "generated_text": "4"
+  },
+  {
+    "sample_id": "113C31",
+    "gold": 4,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "114E34",
+    "gold": 3,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "113B30",
+    "gold": 2,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "116B25",
+    "gold": 4,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "115E28",
+    "gold": 0,
+    "generated": 0,
+    "generated_text": "0"
+  },
+  {
+    "sample_id": "116C40",
+    "gold": 1,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "116A29",
+    "gold": 0,
+    "generated": 0,
+    "generated_text": "0"
+  },
+  {
+    "sample_id": "115D51",
+    "gold": 0,
+    "generated": 4,
+    "generated_text": "4"
+  },
+  {
+    "sample_id": "113A56",
+    "gold": 3,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "113D18",
+    "gold": 1,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "115C43",
+    "gold": 0,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "115B33",
+    "gold": 3,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "114D56",
+    "gold": 1,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "114A20",
+    "gold": 4,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "114B39",
+    "gold": 1,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "114D69",
+    "gold": 2,
+    "generated": 12,
+    "generated_text": "12"
+  },
+  {
+    "sample_id": "115D17",
+    "gold": 1,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "115E37",
+    "gold": 2,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "112B33",
+    "gold": 2,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "116B34",
+    "gold": 1,
+    "generated": 0,
+    "generated_text": "0"
+  },
+  {
+    "sample_id": "113B25",
+    "gold": 4,
+    "generated": 4,
+    "generated_text": "4"
+  },
+  {
+    "sample_id": "114D21",
+    "gold": 2,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "113E28",
+    "gold": 1,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "116B30",
+    "gold": 2,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "112A75",
+    "gold": 3,
+    "generated": 2,
+    "generated_text": "2, 4"
+  },
+  {
+    "sample_id": "113D66",
+    "gold": 2,
+    "generated": 24,
+    "generated_text": "24"
+  },
+  {
+    "sample_id": "113E35",
+    "gold": 1,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "112A72",
+    "gold": 0,
+    "generated": 13,
+    "generated_text": "13"
+  },
+  {
+    "sample_id": "115E40",
+    "gold": 4,
+    "generated": 4,
+    "generated_text": "4"
+  },
+  {
+    "sample_id": "116D70",
+    "gold": 1,
+    "generated": 1,
+    "generated_text": "1 4"
+  },
+  {
+    "sample_id": "114E26",
+    "gold": 1,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "116A19",
+    "gold": 3,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "115A42",
+    "gold": 3,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "116B26",
+    "gold": 3,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "112A63",
+    "gold": 1,
+    "generated": 1,
+    "generated_text": "01"
+  },
+  {
+    "sample_id": "114E40",
+    "gold": 0,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "112C30",
+    "gold": 0,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "116A47",
+    "gold": 4,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "116D21",
+    "gold": 2,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "114E39",
+    "gold": 1,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "116B36",
+    "gold": 2,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "116A75",
+    "gold": 0,
+    "generated": 0,
+    "generated_text": "0, 2, 3"
+  },
+  {
+    "sample_id": "112D37",
+    "gold": 0,
+    "generated": 0,
+    "generated_text": "0"
+  },
+  {
+    "sample_id": "115A75",
+    "gold": 1,
+    "generated": 1,
+    "generated_text": "1, 3, 4"
+  },
+  {
+    "sample_id": "114C57",
+    "gold": 1,
+    "generated": 12,
+    "generated_text": "12"
+  },
+  {
+    "sample_id": "114D42",
+    "gold": 0,
+    "generated": 0,
+    "generated_text": "0"
+  },
+  {
+    "sample_id": "113D23",
+    "gold": 4,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "113C49",
+    "gold": 2,
+    "generated": 13,
+    "generated_text": "13"
+  },
+  {
+    "sample_id": "115A44",
+    "gold": 1,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "112C36",
+    "gold": 1,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "115C35",
+    "gold": 0,
+    "generated": 0,
+    "generated_text": "0"
+  },
+  {
+    "sample_id": "113A59",
+    "gold": 2,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "116B29",
+    "gold": 2,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "114C47",
+    "gold": 3,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "116C39",
+    "gold": 3,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "116E33",
+    "gold": 0,
+    "generated": 0,
+    "generated_text": "0"
+  },
+  {
+    "sample_id": "112E40",
+    "gold": 1,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "114A23",
+    "gold": 3,
+    "generated": 0,
+    "generated_text": "0"
+  },
+  {
+    "sample_id": "113C27",
+    "gold": 3,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "113D74",
+    "gold": 0,
+    "generated": 2,
+    "generated_text": "02"
+  },
+  {
+    "sample_id": "113C45",
+    "gold": 2,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "113D73",
+    "gold": 0,
+    "generated": 2,
+    "generated_text": "2, 4"
+  },
+  {
+    "sample_id": "115D64",
+    "gold": 0,
+    "generated": 0,
+    "generated_text": "0"
+  },
+  {
+    "sample_id": "115E32",
+    "gold": 0,
+    "generated": 0,
+    "generated_text": "0"
+  },
+  {
+    "sample_id": "114A21",
+    "gold": 4,
+    "generated": 0,
+    "generated_text": "0"
+  },
+  {
+    "sample_id": "112A47",
+    "gold": 1,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "113D62",
+    "gold": 0,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "115D74",
+    "gold": 1,
+    "generated": 1,
+    "generated_text": "1 2"
+  },
+  {
+    "sample_id": "115A63",
+    "gold": 0,
+    "generated": 0,
+    "generated_text": "0"
+  },
+  {
+    "sample_id": "114E29",
+    "gold": 1,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "115D55",
+    "gold": 0,
+    "generated": 0,
+    "generated_text": "0"
+  },
+  {
+    "sample_id": "114B35",
+    "gold": 4,
+    "generated": 4,
+    "generated_text": "4"
+  },
+  {
+    "sample_id": "113A31",
+    "gold": 0,
+    "generated": 0,
+    "generated_text": "0"
+  },
+  {
+    "sample_id": "116A18",
+    "gold": 0,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "115C37",
+    "gold": 1,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "115D45",
+    "gold": 1,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "112B34",
+    "gold": 0,
+    "generated": 0,
+    "generated_text": "0"
+  },
+  {
+    "sample_id": "116B35",
+    "gold": 3,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "114A61",
+    "gold": 4,
+    "generated": 4,
+    "generated_text": "4"
+  },
+  {
+    "sample_id": "116C47",
+    "gold": 3,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "113D42",
+    "gold": 4,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "116A33",
+    "gold": 4,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "114C53",
+    "gold": 4,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "112A59",
+    "gold": 3,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "113C25",
+    "gold": 1,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "112D73",
+    "gold": 0,
+    "generated": 1,
+    "generated_text": "1, 3"
+  },
+  {
+    "sample_id": "115D62",
+    "gold": 2,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "116E26",
+    "gold": 3,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "116A35",
+    "gold": 4,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "113A45",
+    "gold": 3,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "112D69",
+    "gold": 2,
+    "generated": 23,
+    "generated_text": "23"
+  },
+  {
+    "sample_id": "112E32",
+    "gold": 0,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "112D27",
+    "gold": 4,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "116C59",
+    "gold": 2,
+    "generated": 2,
+    "generated_text": "02"
+  },
+  {
+    "sample_id": "115E27",
+    "gold": 3,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "113A61",
+    "gold": 1,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "115C46",
+    "gold": 2,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "112D58",
+    "gold": 1,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "113C28",
+    "gold": 2,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "114A66",
+    "gold": 1,
+    "generated": 1,
+    "generated_text": "1 3"
+  },
+  {
+    "sample_id": "113C44",
+    "gold": 3,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "112D54",
+    "gold": 0,
+    "generated": 4,
+    "generated_text": "4"
+  },
+  {
+    "sample_id": "115A35",
+    "gold": 4,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "115B28",
+    "gold": 1,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "116A30",
+    "gold": 0,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "112A20",
+    "gold": 1,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "115D35",
+    "gold": 2,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "112A17",
+    "gold": 3,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "112A74",
+    "gold": 3,
+    "generated": 34,
+    "generated_text": "34"
+  },
+  {
+    "sample_id": "116A52",
+    "gold": 3,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "114A29",
+    "gold": 1,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "115D22",
+    "gold": 3,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "112D61",
+    "gold": 4,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "115E26",
+    "gold": 3,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "116A49",
+    "gold": 0,
+    "generated": 0,
+    "generated_text": "0"
+  },
+  {
+    "sample_id": "112C47",
+    "gold": 3,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "114A32",
+    "gold": 3,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "115D69",
+    "gold": 1,
+    "generated": 1,
+    "generated_text": "1 4"
+  },
+  {
+    "sample_id": "113D21",
+    "gold": 2,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "112B35",
+    "gold": 2,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "115D50",
+    "gold": 1,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "113D16",
+    "gold": 2,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "116C37",
+    "gold": 3,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "115E31",
+    "gold": 4,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "116A44",
+    "gold": 4,
+    "generated": 4,
+    "generated_text": "4"
+  },
+  {
+    "sample_id": "112C42",
+    "gold": 2,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "114D66",
+    "gold": 0,
+    "generated": 4,
+    "generated_text": "04"
+  },
+  {
+    "sample_id": "115A66",
+    "gold": 0,
+    "generated": 1,
+    "generated_text": "1, 4"
+  },
+  {
+    "sample_id": "113D63",
+    "gold": 4,
+    "generated": 4,
+    "generated_text": "4"
+  },
+  {
+    "sample_id": "116A70",
+    "gold": 1,
+    "generated": 1,
+    "generated_text": "1, 3"
+  },
+  {
+    "sample_id": "115D31",
+    "gold": 3,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "114D18",
+    "gold": 1,
+    "generated": 4,
+    "generated_text": "4"
+  },
+  {
+    "sample_id": "113C50",
+    "gold": 1,
+    "generated": 1,
+    "generated_text": "01"
+  },
+  {
+    "sample_id": "115D48",
+    "gold": 2,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "115D59",
+    "gold": 0,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "115A56",
+    "gold": 4,
+    "generated": 4,
+    "generated_text": "4"
+  },
+  {
+    "sample_id": "114D16",
+    "gold": 3,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "115A34",
+    "gold": 1,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "112D19",
+    "gold": 2,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "115D30",
+    "gold": 0,
+    "generated": 0,
+    "generated_text": "0"
+  },
+  {
+    "sample_id": "113A48",
+    "gold": 4,
+    "generated": 0,
+    "generated_text": "0"
+  },
+  {
+    "sample_id": "116D62",
+    "gold": 3,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "116C46",
+    "gold": 0,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "113D57",
+    "gold": 4,
+    "generated": 0,
+    "generated_text": "0"
+  },
+  {
+    "sample_id": "114D34",
+    "gold": 2,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "113B28",
+    "gold": 3,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "114D45",
+    "gold": 0,
+    "generated": 0,
+    "generated_text": "0"
+  },
+  {
+    "sample_id": "114D60",
+    "gold": 3,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "114B26",
+    "gold": 0,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "112B31",
+    "gold": 3,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "115A26",
+    "gold": 3,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "115D61",
+    "gold": 1,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "113D22",
+    "gold": 3,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "114B28",
+    "gold": 0,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "116B32",
+    "gold": 3,
+    "generated": 4,
+    "generated_text": "4"
+  },
+  {
+    "sample_id": "114D50",
+    "gold": 2,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "115D43",
+    "gold": 4,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "112E38",
+    "gold": 2,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "116D55",
+    "gold": 3,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "115A46",
+    "gold": 2,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "114A25",
+    "gold": 4,
+    "generated": 4,
+    "generated_text": "4"
+  },
+  {
+    "sample_id": "116D25",
+    "gold": 0,
+    "generated": 4,
+    "generated_text": "4"
+  },
+  {
+    "sample_id": "116D34",
+    "gold": 1,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "113A15",
+    "gold": 1,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "113A58",
+    "gold": 3,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "114A40",
+    "gold": 1,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "114B31",
+    "gold": 3,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "116D50",
+    "gold": 2,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "112E33",
+    "gold": 0,
+    "generated": 0,
+    "generated_text": "0"
+  },
+  {
+    "sample_id": "113E39",
+    "gold": 4,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "116A38",
+    "gold": 4,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "115B31",
+    "gold": 2,
+    "generated": 1,
+    "generated_text": "1"
+  },
+  {
+    "sample_id": "113D25",
+    "gold": 4,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "112E37",
+    "gold": 4,
+    "generated": 4,
+    "generated_text": "4"
+  },
+  {
+    "sample_id": "115D68",
+    "gold": 3,
+    "generated": 13,
+    "generated_text": "13"
+  },
+  {
+    "sample_id": "112A50",
+    "gold": 1,
+    "generated": 0,
+    "generated_text": "0"
+  },
+  {
+    "sample_id": "116D68",
+    "gold": 2,
+    "generated": 24,
+    "generated_text": "24"
+  },
+  {
+    "sample_id": "112B28",
+    "gold": 1,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "114A58",
+    "gold": 3,
+    "generated": 3,
+    "generated_text": "3"
+  },
+  {
+    "sample_id": "112A42",
+    "gold": 4,
+    "generated": 4,
+    "generated_text": "4"
+  },
+  {
+    "sample_id": "116E28",
+    "gold": 2,
+    "generated": 2,
+    "generated_text": "2"
+  },
+  {
+    "sample_id": "114A46",
+    "gold": 2,
+    "generated": 2,
+    "generated_text": "2"
+  }
+]

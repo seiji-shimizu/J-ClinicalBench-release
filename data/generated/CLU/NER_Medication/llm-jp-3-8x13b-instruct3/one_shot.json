@@ -1,0 +1,1000 @@
+{"ID": [11, 8], "entities": [], "annotated_sentence": "入院後、皮疹は自然退縮傾向を示す。", "generated": "入院後、皮疹は自然退縮傾向を示す。[EOS]"}
+{"ID": [63, 17], "entities": [], "annotated_sentence": "結果,安静時よりVE,VCO2,VO2及びガス交換比(R)の周期性変動あり。", "generated": "結果,安静時より<m-key>VE</m-key><m-val>,</m-val><m-key>VCO2</m-key><m-val>,</m-val><m-key>VO2</m-key><m-val>及びガス交換比(R)の周期性変動あり。[EOS]"}
+{"ID": [89, 14], "entities": [], "annotated_sentence": "結果:99病日目には、排液量減少しドレーン2本となる。", "generated": "結果:99病日目には、排液量減少しドレーン<m-key>2</m-key>本となる。[EOS]"}
+{"ID": [27, 10], "entities": [], "annotated_sentence": "とくに術前に詳細なグラフト評価を行なうことにより安全に手術を施行することが可能であり、極めて有用であったので報告する。", "generated": "とくに術前に詳細なグラフト評価を行なうことにより安全に手術を施行することが可能であり、極めて有用であったので報告する。[EOS]"}
+{"ID": [64, 9], "entities": [], "annotated_sentence": "胃癌術後でしかも転移巣が非典型的な病態をとるoccult carcinomaであり、病理学的に特殊な形態をもつ前立腺癌を診断し得た1例として報告する。", "generated": "胃癌術後でしかも転移巣が非典型的な病態をとるoccult carcinomaであり、病理学的に特殊な形態をもつ前立腺癌を診断し得た1例として報告する。[EOS]"}
+{"ID": [25, 9], "entities": [{"name": "S-1", "span": [13, 16], "type_id": 31, "type": "m-key_executed"}, {"name": "80mg/m2", "span": [17, 24], "type_id": 35, "type": "m-val_"}, {"name": "CDDP", "span": [26, 30], "type_id": 31, "type": "m-key_executed"}, {"name": "60mg/m2", "span": [31, 38], "type_id": 35, "type": "m-val_"}], "annotated_sentence": "【経過】同年9月17日より<m-key state=\"executed\">S-1</m-key>(<m-val>80mg/m2</m-val>)+<m-key state=\"executed\">CDDP</m-key>(<m-val>60mg/m2</m-val>)療法を開始した。", "generated": "【経過】同年9月17日より<m-key>S-1</m-key><m-val>80mg/m2</m-val>+<m-key>CDDP</m-key><m-val>60mg/m2</m-val>療法を開始した。[EOS]"}
+{"ID": [18, 8], "entities": [], "annotated_sentence": "その他、撮像内の腹部に特記所見ありません。", "generated": "その他、撮像内の腹部に特記所見ありません。[EOS]"}
+{"ID": [30, 7], "entities": [], "annotated_sentence": "【症例紹介】", "generated": "[EOS]"}
+{"ID": [43, 9], "entities": [], "annotated_sentence": "つくば総合健診センターにおいて2004・2011・2012年と健診を継続受診している。", "generated": "つくば総合健診センターにおいて2004・2011・2012年と<m-key>健診</m-key><m-val>を継続受診している。[EOS]"}
+{"ID": [99, 2], "entities": [], "annotated_sentence": "左肺底部には索状影を認め、炎症瘢痕を疑います。", "generated": "左肺底部には索状影を認め、炎症瘢痕を疑います。[EOS]"}
+{"ID": [133, 1], "entities": [], "annotated_sentence": "当院小児外科では慢性便秘症患児に栄養指導を行っている.", "generated": "慢性便秘症患児に栄養指導を行っている.[EOS]"}
+{"ID": [90, 2], "entities": [], "annotated_sentence": "左乳癌(T2NIMO stage2b、浸潤性乳管癌)術後2年目に子宮転移にて子宮摘出術施行し、術後6年目に骨転移にて内分泌療法中であった。", "generated": "左乳癌(T2NIMO stage2b、浸潤性乳管癌)術後2年目に子宮転移にて子宮摘出術施行し、術後6年目に骨転移にて内分泌療法中であった。[EOS]"}
+{"ID": [67, 2], "entities": [{"name": "サラゾビリン", "span": [22, 28], "type_id": 31, "type": "m-key_executed"}, {"name": "ミナルフェン", "span": [56, 62], "type_id": 31, "type": "m-key_executed"}, {"name": "プレドニン", "span": [165, 170], "type_id": 31, "type": "m-key_executed"}, {"name": "60mg", "span": [170, 174], "type_id": 35, "type": "m-val_"}], "annotated_sentence": "平成2年5月17日より潰瘍性大腸炎の疑いで、<m-key state=\"executed\">サラゾビリン</m-key>内服開始。6月初旬全身倦怠感、発熱、腰痛が出現し6月8日<m-key state=\"executed\">ミナルフェン</m-key>追加された。12日、顔面に浮腫性紅斑が出現し2~3日のうちに全身に拡大、四肢では緊満性水疱を伴なうようになり18日入院。高熱、リンパ節腫大、白血球増多、GOT 147、LDH1028など肝機能障害等を認め、<m-key state=\"executed\">プレドニン</m-key><m-val>60mg</m-val>投与開始。", "generated": "平成2年5月17日より潰瘍性大腸炎の疑いで、サラゾビリン<m-key>内服</m-key>開始。6月初旬全身倦怠感、発熱、腰痛が出現し6月8日ミナルフェン<m-key>追加</m-key>された。12日、顔面に浮腫性紅斑が出現し2~3日のうちに全身に拡大、四肢では緊満性水疱を伴なうよう"}
+{"ID": [66, 3], "entities": [], "annotated_sentence": "2010年12月に右下腹部痛にて当院を受診。", "generated": "[EOS]"}
+{"ID": [30, 1], "entities": [], "annotated_sentence": "両肺には多数の結節が認められ,肺癌および両側の多発肺内転移と考えます。", "generated": "両肺には多数の結節が認められ,肺癌および両側の多発肺内転移と考えます。[EOS]"}
+{"ID": [32, 11], "entities": [], "annotated_sentence": "また,ドナー候補の母は63歳であり年齢の制限があること,肝M移植により挙児の可能性があることなどを考慮し,患者・家族に生体肝移植を提示した.", "generated": "また,ドナー候補の母は63歳であり年齢の制限があること,肝M移植により挙児の可能性があることなどを考慮し,患者・家族に生体肝移植を提示した.[EOS]"}
+{"ID": [5, 18], "entities": [], "annotated_sentence": "歩数計を用いたセルフトレーニングは歩行器歩行自立となった受傷14日目より開始した。", "generated": "歩数計を用いたセルフトレーニングは歩行器歩行自立となった受傷14日目より開始した。[EOS]"}
+{"ID": [2, 2], "entities": [], "annotated_sentence": "右上中葉や左下葉に不整な結節影が散在しています。炎症性変化かもしれませんが、肺癌病変の可能性もあります。右肺尖部に石灰化を伴った索状影、結節影を認め、こちらは陳旧性炎症性変化が疑われます。", "generated": "右上中葉や左下葉に不整な結節影が散在しています。炎症性変化かもしれませんが、肺癌病変の可能性もあります。右肺尖部に石灰化を伴った索状影、結節影を認め、こちらは陳旧性炎症性変化が疑われます。[EOS]"}
+{"ID": [28, 11], "entities": [{"name": "ラクチトール", "span": [10, 16], "type_id": 31, "type": "m-key_executed"}], "annotated_sentence": "前医から開始していた<m-key state=\"executed\">ラクチトール</m-key>を増量したが効果乏しいため, PTOを施行した.", "generated": "前医から開始していたラクチトールを増量したが効果乏しいため, PTOを施行した.[EOS]"}
+{"ID": [111, 2], "entities": [], "annotated_sentence": "19歳まで山梨県河川流域に在住していた。", "generated": "[EOS]"}
+{"ID": [47, 2], "entities": [], "annotated_sentence": "#11i,#7,#8リンパ節腫大を認め、転移リンパ節と考えます。N2相当です。", "generated": "#11i,#7,#8リンパ節腫大を認め、転移リンパ節と考えます。N2相当です。[EOS]"}
+{"ID": [95, 8], "entities": [], "annotated_sentence": "皮膚病理組織学的検査では,真皮浅層の軽度の毛細血管拡張と血管周囲に中程度のリンパ球浸潤を認めた。", "generated": "皮膚病理組織学的検査では,真皮浅層の軽度の毛細血管拡張と血管周囲に中程度のリンパ球浸潤を認めた。[EOS]"}
+{"ID": [10, 3], "entities": [], "annotated_sentence": "現在当病院内科でインシュリン加療中。", "generated": "現在当病院内科で<m-key>インシュリン</m-key>加療中。[EOS]"}
+{"ID": [15, 11], "entities": [], "annotated_sentence": "続いて,左副腎静脈に流入する胃腎シャントに対してB-RTOを施行したところ,造影CTでは,胃静脈瘤への血流消失を確認でき,約2か月後の上部内視鏡検査で,胃静脈瘤の縮小(Lg-cf, Fl, RC0)を認め,血小板数15万/μl,アンモニア値32mg/dl等,肝機能の改善を認めた.", "generated": "<m-key>B-RTO</m-key><m-val>を施行したところ,造影CTでは,胃静脈瘤への血流消失を確認でき,約2か月後の上部内視鏡検査で,胃静脈瘤の縮小(Lg-cf, Fl, RC0)を認め,血小板数15万/μl,アンモニア値32mg/dl等,肝機能の改善を認めた.[EOS]"}
+{"ID": [61, 3], "entities": [], "annotated_sentence": "胸水みられません。", "generated": "胸水みられません。[EOS]"}
+{"ID": [69, 18], "entities": [], "annotated_sentence": "本研究では,PSPに対して4週間の運動療法介入前後のバランス,歩行能力を比較した結果,動的バランス能力,歩行能力,持久力において有意な向上がみられた。", "generated": "本研究では,PSPに対して4週間の運動療法介入前後のバランス,歩行能力を比較した結果,動的バランス能力,歩行能力,持久力において有意な向上がみられた。[EOS]"}
+{"ID": [32, 3], "entities": [], "annotated_sentence": "【症例】他院にて日齢98に肝門部空腸吻合術を施行された.", "generated": "【症例】他院にて日齢98に<m-key>肝門部空腸吻合術</m-key>を施行された.[EOS]"}
+{"ID": [26, 22], "entities": [], "annotated_sentence": "【考察】ICU-AWを発症した症例にどの程度の負荷量でどのようなトレーニングや運動療法が有効なのかはまだ確立されていない。", "generated": "【考察】ICU-AWを発症した症例にどの程度の負荷量でどのようなトレーニングや運動療法が有効なのかはまだ確立されていない。[EOS]"}
+{"ID": [120, 9], "entities": [], "annotated_sentence": "両症例ともワンショット注入とすることで注入拘束時間が短縮した.", "generated": "両症例ともワンショット注入とすることで注入拘束時間が短縮した.[EOS]"}
+{"ID": [48, 13], "entities": [], "annotated_sentence": "徐々に腫瘍マーカーも低下し、8か月を経過後正常範囲になり、 PET,CT検査でも再発所見は認めていない。", "generated": "徐々に腫瘍マーカーも低下し、8か月を経過後正常範囲になり、 PET,CT検査でも再発所見は認めていない。[EOS]"}
+{"ID": [65, 7], "entities": [{"name": "抗精神病薬", "span": [11, 16], "type_id": 31, "type": "m-key_executed"}, {"name": "970.9mg(CP換算)", "span": [16, 29], "type_id": 35, "type": "m-val_"}, {"name": "抗パーキンソン薬", "span": [30, 38], "type_id": 31, "type": "m-key_executed"}, {"name": "2.5mg(BP換算)", "span": [38, 49], "type_id": 35, "type": "m-val_"}, {"name": "抗不安薬・睡眠薬", "span": [50, 58], "type_id": 31, "type": "m-key_executed"}, {"name": "21.2mg(DAP換算)", "span": [58, 71], "type_id": 35, "type": "m-val_"}], "annotated_sentence": "各薬剤の平均投与量は、<m-key state=\"executed\">抗精神病薬</m-key><m-val>970.9mg(CP換算)</m-val>、<m-key state=\"executed\">抗パーキンソン薬</m-key><m-val>2.5mg(BP換算)</m-val>、<m-key state=\"executed\">抗不安薬・睡眠薬</m-key><m-val>21.2mg(DAP換算)</m-val>であった。", "generated": "各薬剤の平均投与量は、抗精神病薬<m-key>970.9mg(CP換算)</m-key><m-val>、抗パーキンソン薬<m-key>2.5mg(BP換算)</m-key><m-val>、抗不安薬・睡眠薬<m-key>21.2mg(DAP換算)</m-key><m-val>であった。[EOS]"}
+{"ID": [18, 1], "entities": [], "annotated_sentence": "左肺上区S1+2に⻑径18mm大のpartsolidGGNは内部の充実部分は前回よりも減少しているもの", "generated": "左肺上区S1+2に⻑径18mm大のpartsolidGGNは内部の充実部分は前回よりも減少しているもの[EOS]"}
+{"ID": [45, 17], "entities": [], "annotated_sentence": "離床・歩行訓練再開。", "generated": "[EOS]"}
+{"ID": [91, 2], "entities": [], "annotated_sentence": "縦隔や肺門に有意なリンパ節腫大は指摘できません。", "generated": "縦隔や肺門に有意なリンパ節腫大は指摘できません。[EOS]"}
+{"ID": [62, 11], "entities": [], "annotated_sentence": "しかし,そうでない時よりも治療効果は少なかった。", "generated": "しかし,そうでない時よりも治療効果は少なかった。[EOS]"}
+{"ID": [103, 2], "entities": [], "annotated_sentence": "一方様々な臓器で免疫関連有害事象(immune related Adverse Effects :irAEs)をきたすことが知られており,死亡例も報告されている.", "generated": "一方様々な臓器で免疫関連有害事象(immune related Adverse Effects :irAEs)をきたすことが知られており,死亡例も報告されている.[EOS]"}
+{"ID": [109, 8], "entities": [{"name": "ICS", "span": [4, 7], "type_id": 34, "type": "m-key_other"}, {"name": "ICS", "span": [34, 37], "type_id": 34, "type": "m-key_other"}], "annotated_sentence": "【結語】<m-key state=\"other\">ICS</m-key>の普及率は未だ高くないことが伺われ,気管支喘息における<m-key state=\"other\">ICS</m-key>の重要性につき,地域全体での認識を高めて行くことと,患者教育を充分に行う必要がある.", "generated": "【結語】ICSの普及率は未だ高くないことが伺われ,気管支喘息におけるICSの重要性につき,地域全体での認識を高めて行くことと,患者教育を充分に行う必要がある.[EOS]"}
+{"ID": [40, 1], "entities": [], "annotated_sentence": "1年前の前回CTと比較しました。", "generated": "[EOS]"}
+{"ID": [65, 7], "entities": [], "annotated_sentence": "4)腎動脈・静脈を結紮切断。", "generated": "[EOS]"}
+{"ID": [10, 12], "entities": [], "annotated_sentence": "術後に化学療法を施行した。", "generated": "術後に化学療法を施行した。[EOS]"}
+{"ID": [94, 2], "entities": [], "annotated_sentence": "肺門・縦隔リンパ節の有意な腫大や胸水は認めません。", "generated": "肺門・縦隔リンパ節の有意な腫大や胸水は認めません。[EOS]"}
+{"ID": [78, 15], "entities": [], "annotated_sentence": "膀胱癌先行例はいずれも筋層非浸潤癌であったため,胸部CT検査を実施していなかった.", "generated": "膀胱癌先行例はいずれも筋層非浸潤癌であったため,胸部CT検査を実施していなかった.[EOS]"}
+{"ID": [85, 11], "entities": [], "annotated_sentence": "PpPD後であり術後膵炎を繰り返しているため激しい癒着が予想され、膵全摘及び自家膵移植、困難であれば自家膵島移植とし8月10日手術施行。", "generated": "PpPD後であり術後膵炎を繰り返しているため激しい癒着が予想され、膵全摘及び自家膵移植、困難であれば自家膵島移植とし8月10日手術施行。[EOS]"}
+{"ID": [138, 9], "entities": [], "annotated_sentence": "術後、腫瘍マーカーは陰転化し、再発術後約9カ月無再発生存中である。", "generated": "術後、腫瘍マーカーは陰転化し、再発術後約9カ月無再発生存中である。[EOS]"}
+{"ID": [20, 3], "entities": [], "annotated_sentence": "【検査結果】好酸球数3663/μ1,IgE1238U/ml,RAST:ミルク24.30U/ml 大豆1.22U/ml,便中好酸球陽性", "generated": "好酸球数3663/μ1,IgE1238U/ml,RAST:ミルク<m-key>24.30U/ml</m-key> 大豆<m-key>1.22U/ml</m-key>,便中好酸球陽性[EOS]"}
+{"ID": [1, 24], "entities": [], "annotated_sentence": "リハビリ開始当初は,HDS-R16点と認知機能の低下がみられた。", "generated": "リハビリ開始当初は,HDS-R<m-val>16点</m-val>と認知機能の低下がみられた。[EOS]"}
+{"ID": [71, 3], "entities": [], "annotated_sentence": "一方,外科的治療は,薬物療法で変化が得られない患者に対し,最終的に選択される治療法とされる。", "generated": "一方,外科的治療は,薬物療法で変化が得られない患者に対し,最終的に選択される治療法とされる。[EOS]"}
+{"ID": [59, 3], "entities": [], "annotated_sentence": "上大静脈の浸潤は指摘出来ません。", "generated": "[EOS]"}
+{"ID": [32, 15], "entities": [], "annotated_sentence": "患者サイドでも慢性的に病気と付き合うことに慣れてしまっており,肝移植に踏み切るタイミングの決定は困難であり,医療者が遅滞なく肝移植についての情報提供を行うことが重要であると考える.", "generated": "患者サイドでも慢性的に病気と付き合うことに慣れてしまっており,肝移植に踏み切るタイミングの決定は困難であり,医療者が遅滞なく肝移植についての情報提供を行うことが重要であると考える.[EOS]"}
+{"ID": [55, 8], "entities": [], "annotated_sentence": "現症:殆んど全身に浸出性紅斑が認められ,一部には集簇して小水疱も認められた。", "generated": "現症:殆んど全身に浸出性紅斑が認められ,一部には集簇して小水疱も認められた。[EOS]"}
+{"ID": [73, 3], "entities": [], "annotated_sentence": "主訴:2ケ月前より両下腿に,疼痛と瘙痒を伴う多発性の紅斑が出現。", "generated": "主訴:2ケ月前より両下腿に,疼痛と瘙痒を伴う多発性の紅斑が出現。[EOS]"}
+{"ID": [130, 14], "entities": [], "annotated_sentence": "両側のぶどう膜炎を認めサルコイドーシスと診断した。", "generated": "両側のぶどう膜炎を認めサルコイドーシスと診断した。[EOS]"}
+{"ID": [80, 2], "entities": [], "annotated_sentence": "右中葉に索状影を認め陳旧性炎症性変化が疑われます。", "generated": "右中葉に索状影を認め陳旧性炎症性変化が疑われます。[EOS]"}
+{"ID": [122, 7], "entities": [], "annotated_sentence": "近年豆乳アレルギーの症例報告を多く認めるが,ほぼすべての症例で通常の豆腐の摂取は可能である,豆乳と豆腐とは成分的にはにがりの含有量に違いがあるだけであるが,両者間の抗原性の差異については,豆乳は溶液状態であるため豆腐と比べて口腔粘膜からの吸収性が良くOASが生じやすいとの機序が推測されてきた.", "generated": "<m-key>豆乳アレルギー</m-key>症例報告を多く認めるが,ほぼすべての症例で通常の豆腐の摂取は可能である,<m-key>豆乳</m-key>と<m-key>豆腐</m-key>とは成分的にはにがりの含有量に違いがあるだけであるが,両者間の抗原性の差異については,<m-key>豆乳</m-key>は溶液状態であるため<m"}
+{"ID": [61, 1], "entities": [], "annotated_sentence": "大動脈弓部下に⻑径10mmの腫大したリンパ節を認めます。病的リンパ節腫大は指摘できませんが、FDG-PETでもご確認ください。", "generated": "大動脈弓部下に⻑径10mmの腫大したリンパ節を認めます。病的リンパ節腫大は指摘できませんが、FDG-PETでもご確認ください。[EOS]"}
+{"ID": [61, 28], "entities": [], "annotated_sentence": "本症例より,仙骨疲労骨折は股関節周囲の筋力アンバランスや柔軟性だけではなく,股関節伸展運動や走行フォームも関連因子となり,適切な走行動作が本障害の予防に重要であると考えられた。なく,股関節伸展運動や走行フォームも関連因子となり,適切な走行動作が本障害の予防に重要であると考えられた。", "generated": "<m-key>仙骨疲労骨折</m-key>は股関節周囲の筋力アンバランスや柔軟性だけではなく,<m-key>股関節伸展運動</m-key>や<m-key>走行フォーム</m-key>も関連因子となり,適切な走行動作が本障害の予防に重要であると考えられた。[EOS]"}
+{"ID": [144, 9], "entities": [], "annotated_sentence": "肉眼的血尿薄くなり、5月17日TUR-Bt施行。", "generated": "肉眼的血尿薄くなり、5月17日<m-key>TUR-Bt</m-key>施行。[EOS]"}
+{"ID": [63, 5], "entities": [], "annotated_sentence": "60歳代男性。", "generated": "[EOS]"}
+{"ID": [68, 3], "entities": [{"name": "抗PD-L1抗体", "span": [90, 98], "type_id": 31, "type": "m-key_executed"}, {"name": "LVFX", "span": [105, 109], "type_id": 31, "type": "m-key_executed"}], "annotated_sentence": "その後,放射線化学療法(S-1 + CDDP療法)が導入され,2コース施行後の維持療法としてデュルバルマブ療法(抗PD-L1抗体療法)を行ったところ,発熱と炎症反応上昇を認めたため<m-key state=\"executed\">抗PD-L1抗体</m-key>投与5日後から<m-key state=\"executed\">LVFX</m-key>投与を開始した.", "generated": "その後,放射線化学療法(S-1 + CDDP療法)が導入され,2コース施行後の維持療法としてデュルバルマブ療法(抗PD-L1抗体療法)を行ったところ,発熱と炎症反応上昇を認めたため抗PD-L1抗体投与5日後から<m-key>LVFX</m-key><m-val>投与を開始した.[EOS]"}
+{"ID": [15, 5], "entities": [], "annotated_sentence": "【方法】", "generated": "[EOS]"}
+{"ID": [47, 26], "entities": [{"name": "SOL/VEL", "span": [4, 11], "type_id": 34, "type": "m-key_other"}], "annotated_sentence": "【結論】<m-key state=\"other\">SOL/VEL</m-key>は抗ウイルス効果が高いものの,非代償性肝硬変症例は病状の変化を来たしやすく,治療中の経過のフォローには細心の注意が必要である.", "generated": "【結論】SOL/VELは抗ウイルス効果が高いものの,非代償性肝硬変症例は病状の変化を来たしやすく,治療中の経過のフォローには細心の注意が必要である.[EOS]"}
+{"ID": [31, 4], "entities": [], "annotated_sentence": " 【方法】WF血中濃度は高速液体クロマトグラフィーにて測定を行い、採血時間は朝服用前とした。", "generated": "【方法】WF血中濃度は高速液体クロマトグラフィーにて測定を行い,採血時間は朝服用前とした。[EOS]"}
+{"ID": [76, 2], "entities": [], "annotated_sentence": "態、大きさ、内部性状などにはほとんど変化がみられません。進行が緩徐な病変と思われます。", "generated": "進行が緩徐な病変と思われます。[EOS]"}
+{"ID": [31, 1], "entities": [], "annotated_sentence": "この腫瘤の腹側に小結節を認めます。造影後の画像しかありませんので、造影効果は判断できませんが、同一肺葉内転移を疑います。", "generated": "この腫瘤の腹側に小結節を認めます。造影後の画像しかありませんので、造影効果は判断できませんが、同一肺葉内転移を疑います。[EOS]"}
+{"ID": [7, 17], "entities": [], "annotated_sentence": "本小経験では肺機能の改善はほとんど認めなかったが、呼吸筋力・咳嗽力・咳嗽機能は改善し、嚥下障害・誤嚥予防並びにADL改善に寄与する可能性を示した。", "generated": "本小経験では肺機能の改善はほとんど認めなかったが、呼吸筋力・咳嗽力・咳嗽機能は改善し、嚥下障害・誤嚥予防並びにADL改善に寄与する可能性を示した。[EOS]"}
+{"ID": [68, 7], "entities": [{"name": "抗生剤", "span": [22, 25], "type_id": 31, "type": "m-key_executed"}, {"name": "抗生剤", "span": [35, 38], "type_id": 31, "type": "m-key_executed"}], "annotated_sentence": "以上の結果から炎症による多発肝腫瘤と判断し,<m-key state=\"executed\">抗生剤</m-key>投与を継続したところ<m-key state=\"executed\">抗生剤</m-key>投与開始から1週間後には炎症反応の改善を認めた.", "generated": "以上の結果から炎症による多発肝腫瘤と判断し,抗生剤投与を継続したところ抗生剤投与開始から1週間後には炎症反応の改善を認めた.[EOS]"}
+{"ID": [134, 7], "entities": [], "annotated_sentence": "入院後も貧血が進行したため消化管精査施行。", "generated": "入院後も貧血が進行したため消化管精査施行。[EOS]"}
+{"ID": [58, 9], "entities": [], "annotated_sentence": "寡動の評価では、反復運動における運動の中断を認めた。", "generated": "寡動の評価では、反復運動における運動の中断を認めた。[EOS]"}
+{"ID": [91, 6], "entities": [], "annotated_sentence": "また歯の動揺が著しく、軟らかいもの以外咀囑が出来ない状態であった。", "generated": "また歯の動揺が著しく、軟らかいもの以外咀嚼が出来ない状態であった。[EOS]"}
+{"ID": [31, 4], "entities": [], "annotated_sentence": "縦隔・肺門リンパ節に病的腫大は認めません。N因子はN0と考えます。", "generated": "縦隔・肺門リンパ節に病的腫大は認めません。N因子はN0と考えます。[EOS]"}
+{"ID": [69, 2], "entities": [], "annotated_sentence": "中葉は含気が低下し、右肺下葉は完全に含気が消失しています。", "generated": "中葉は含気が低下し、右肺下葉は完全に含気が消失しています。[EOS]"}
+{"ID": [74, 2], "entities": [], "annotated_sentence": "BRAF変異とMSIを併せ持つ1例を経験したので報告する。", "generated": "BRAF変異とMSIを併せ持つ1例を経験したので報告する。[EOS]"}
+{"ID": [52, 16], "entities": [], "annotated_sentence": "平成18年3月、理学療法にて下腿を下垂し足底を接地させるポジショニング(以下、下腿下垂法)を行ったところ、背臥位では体幹・下肢のねじれが改善し、更に左右の半側臥位までの姿勢変換が容易に行えた。", "generated": "平成18年3月、理学療法にて下腿を下垂し足底を接地させるポジショニング(以下、下腿下垂法)を行ったところ、背臥位では体幹・下肢のねじれが改善し、更に左右の半側臥位までの姿勢変換が容易に行えた。[EOS]"}
+{"ID": [29, 2], "entities": [], "annotated_sentence": "漁業。", "generated": "[EOS]"}
+{"ID": [9, 1], "entities": [], "annotated_sentence": "病変は左肺動脈、左房内に浸潤しています。対側縦隔、同側縦隔リンパ節腫大を認め、転移リンパ節を疑います。", "generated": "病変は左肺動脈、左房内に浸潤しています。対側縦隔、同側縦隔リンパ節腫大を認め、転移リンパ節を疑います。[EOS]"}
+{"ID": [2, 3], "entities": [], "annotated_sentence": "両下葉にスリガラス影が広がっています。炎症性変化かもしれませんが、末梢がspareされており癌性リンパ管症の可能性を上位に考えます。", "generated": "両下葉にスリガラス影が広がっています。炎症性変化かもしれませんが、末梢がspareされており癌性リンパ管症の可能性を上位に考えます。[EOS]"}
+{"ID": [38, 9], "entities": [], "annotated_sentence": "コミュニケーションは瞬きによる表出のみ、自動運動、経口摂取は困難であった。", "generated": "コミュニケーションは瞬きによる表出のみ、自動運動、経口摂取は困難であった。[EOS]"}
+{"ID": [62, 5], "entities": [], "annotated_sentence": "当科では,2005年より胆道閉鎖症術後症例に対して,Fibro Scan 502を用いて肝の弾性値測定によるフォローアップを追加した.", "generated": "当科では,2005年より胆道閉鎖症術後症例に対して,Fibro Scan 502を用いて肝の弾性値測定によるフォローアップを追加した.[EOS]"}
+{"ID": [3, 5], "entities": [{"name": "VCM", "span": [0, 3], "type_id": 34, "type": "m-key_other"}], "annotated_sentence": "<m-key state=\"other\">VCM</m-key>のPK parameterとして、 CLcrはCockcroft-Gault式、AUCは D/ [(CLcrxO.79) 十15.4]×0.06(R2=0.903)の推定式を用いて算出を行い、トラフ値(Ct)は実測値を用いた。", "generated": "VCMのPK parameterとして、 CLcrはCockcroft-Gault式、AUCは D/ [(CLcrxO.79) 十15.4]×0.06(R2=0.903)の推定式を用いて算出を行い、トラフ値(Ct)は実測値を用いた。[EOS]"}
+{"ID": [4, 4], "entities": [], "annotated_sentence": "T2aN0程度であり、遠隔転移がなければ外科的治療の適応と思われます", "generated": "T2aN0程度であり、遠隔転移がなければ外科的治療の適応と思われます[EOS]"}
+{"ID": [70, 7], "entities": [], "annotated_sentence": "胃癌はSM~MP癌、小腸狭窄は非腫瘍性(炎症性)狭窄との臨床診断のもとLADGと小腸部分切除を施行した。", "generated": "胃癌はSM~MP癌、小腸狭窄は非腫瘍性(炎症性)狭窄との臨床診断のもとLADGと小腸部分切除を施行した。[EOS]"}
+{"ID": [18, 8], "entities": [], "annotated_sentence": "【方法】", "generated": "[EOS]"}
+{"ID": [72, 1], "entities": [{"name": "ステロイド", "span": [12, 17], "type_id": 34, "type": "m-key_other"}, {"name": "免疫抑制剤", "span": [21, 26], "type_id": 34, "type": "m-key_other"}], "annotated_sentence": "近年,膠原病患者の治療に<m-key state=\"other\">ステロイド</m-key>に加えて<m-key state=\"other\">免疫抑制剤</m-key>を併用する症例が増加している。", "generated": "近年,膠原病患者の治療にステロイドに加えて<m-key>免疫抑制剤</m-key><m-val>を併用する症例が増加している。[EOS]"}
+{"ID": [10, 6], "entities": [], "annotated_sentence": "腫瘍の肛側端は肛門縁より約4cmに位置していた。", "generated": "腫瘍の肛側端は肛門縁より約4cmに位置していた。[EOS]"}
+{"ID": [1, 5], "entities": [], "annotated_sentence": "【目的】", "generated": "[EOS]"}
+{"ID": [29, 15], "entities": [], "annotated_sentence": "考察:癌病巣の除去により本症の発症が抑制される可能性もあったと考えるが,手術や化学療法の侵襲が作用したのであろうか?あるいは癌の再発,転移を考えるべきなのか。", "generated": "考察:癌病巣の除去により本症の発症が抑制される可能性もあったと考えるが,手術や化学療法の侵襲が作用したのであろうか?あるいは癌の再発,転移を考えるべきなのか。[EOS]"}
+{"ID": [32, 6], "entities": [], "annotated_sentence": "32歳時には1年に5回の入院を要した.", "generated": "32歳時には1年に5回の入院を要した.[EOS]"}
+{"ID": [16, 23], "entities": [], "annotated_sentence": "さらに2例とも下肢の交互性の屈伸自発運動が出現するようになった.", "generated": "さらに2例とも下肢の交互性の屈伸自発運動が出現するようになった.[EOS]"}
+{"ID": [129, 1], "entities": [], "annotated_sentence": "【症例】61歳女性", "generated": "[EOS]"}
+{"ID": [74, 14], "entities": [], "annotated_sentence": "本症例では一次治療には抵抗性であったが二次治療は奏功していた。", "generated": "本症例では一次治療には抵抗性であったが二次治療は奏功していた。[EOS]"}
+{"ID": [0, 9], "entities": [{"name": "抗線維化薬", "span": [15, 20], "type_id": 34, "type": "m-key_other"}], "annotated_sentence": "このことより,患者により最適な<m-key state=\"other\">抗線維化薬</m-key>は異なっていて,実際に患者に投与する前にin vitroの系で患者自身の線維芽細胞での治療反応性を予想する系を樹立できる可能性が考えられた.", "generated": "このことより,患者により最適な抗線維化薬は異なっていて,実際に患者に投与する前にin vitroの系で患者自身の線維芽細胞での治療反応性を予想する系を樹立できる可能性が考えられた.[EOS]"}
+{"ID": [118, 15], "entities": [], "annotated_sentence": "術後の経過は概ね良好で,術後第16病日に退院した.", "generated": "術後の経過は概ね良好で,術後第16病日に退院した.[EOS]"}
+{"ID": [15, 12], "entities": [], "annotated_sentence": "【考案及び結語】脾機能が著明に亢進した肝硬変に合併した胃静脈瘤に対しては,PSEを先行させることにより,より安全にB-RTOを施行でき,最終的に肝機能の改善が期待できる可能性が示唆された.", "generated": "【考案及び結語】脾機能が著明に亢進した肝硬変に合併した胃静脈瘤に対しては,PSEを先行させることにより,より安全にB-RTOを施行でき,最終的に肝機能の改善が期待できる可能性が示唆された.[EOS]"}
+{"ID": [43, 10], "entities": [], "annotated_sentence": "心電図所見では2004・2011年に右軸偏位、2012年4月に右室肥大疑いとなり、精査のため筑波メディカルセンター病院を受診した。", "generated": "心電図所見では2004・2011年に右軸偏位、2012年4月に<m-key>右室肥大</m-key>疑いとなり、精査のため筑波メディカルセンター病院を受診した。[EOS]"}
+{"ID": [7, 21], "entities": [{"name": "ステロイド", "span": [4, 9], "type_id": 31, "type": "m-key_executed"}], "annotated_sentence": "2急速な<m-key state=\"executed\">ステロイド</m-key>の減量中に再燃する.", "generated": "<m-key>ステロイド</m-key><m-val>急速な減量</m-val>中に再燃する.[EOS]"}
+{"ID": [78, 12], "entities": [], "annotated_sentence": "転帰は肺癌による癌死2例,膀胱癌,肺癌とも完治1例,膀胱癌の再発進行なしで肺癌進行中1例.", "generated": "転帰は肺癌による癌死2例,膀胱癌,肺癌とも完治1例,膀胱癌の再発進行なしで肺癌進行中1例.[EOS]"}
+{"ID": [39, 4], "entities": [], "annotated_sentence": "71歳女性入院時のUCGにてMr3/3、LVDd48.5mm、LVDs34.2mm、LVEF56.6%、胸部X線よりCTR56%、NTproBNP 784.7pg/ml NYHA心機能分類II度.", "generated": "71歳女性入院時のUCGにてMr3/3、LVDd48.5mm、LVDs34.2mm、LVEF56.6%、胸部X線よりCTR56%、NTproBNP 784.7pg/ml NYHA心機能分類II度.[EOS]"}
+{"ID": [44, 3], "entities": [], "annotated_sentence": "母親がアトピー性皮膚炎.", "generated": "母親がアトピー性皮膚炎.[EOS]"}
+{"ID": [46, 5], "entities": [], "annotated_sentence": "本症例報告を行うにあたり母親へ説明し同意を得ている。", "generated": "本症例報告を行うにあたり母親へ説明し同意を得ている。[EOS]"}
+{"ID": [102, 11], "entities": [], "annotated_sentence": "翌8日AM9:30 ACP再現、EKGでST上昇(II,III,aVF)とST低下(V1~5)を認む。", "generated": "翌8日AM9:30 ACP再現、EKGで<m-key>ST上昇</m-key>(II,III,aVF)と<m-key>ST低下</m-key>(V1~5)を認む。[EOS]"}
+{"ID": [55, 14], "entities": [], "annotated_sentence": "歯科医療技術の進歩によって、高齢者で多数歯の保有が可能になった反面、口腔感染症のリスクは上昇傾向にある。", "generated": "歯科医療技術の進歩によって、高齢者で多数歯の保有が可能になった反面、口腔感染症のリスクは上昇傾向にある。[EOS]"}
+{"ID": [39, 2], "entities": [], "annotated_sentence": "初診:平成2年2月2日。", "generated": "[EOS]"}
+{"ID": [24, 1], "entities": [], "annotated_sentence": "【目的】", "generated": "[EOS]"}
+{"ID": [20, 7], "entities": [], "annotated_sentence": "組織型:papillo-tubular6例、solid6例、scirrhous18例、mucinous1例、Paget cell1例。", "generated": "組織型:papillo-tubular6例、solid6例、scirrhous18例、mucinous1例、Paget cell1例。[EOS]"}
+{"ID": [33, 1], "entities": [], "annotated_sentence": "最近われわれはPBC様の組織所見を呈した壊死後性肝硬変の1例を経験したので報告する。", "generated": "最近われわれはPBC様の組織所見を呈した壊死後性肝硬変の1例を経験したので報告する。[EOS]"}
+{"ID": [10, 7], "entities": [], "annotated_sentence": "胸水貯留はありません。", "generated": "胸水貯留はありません。[EOS]"}
+{"ID": [50, 4], "entities": [], "annotated_sentence": "ベット上安静でさしたる治療も必要とせず1週間から10日で軽快退院していた。", "generated": "ベット上安静でさしたる治療も必要とせず1週間から10日で軽快退院していた。[EOS]"}
+{"ID": [26, 2], "entities": [], "annotated_sentence": "気管支喘息発作で当院ER受診症例の傾向につき検討した.", "generated": "気管支喘息発作で当院ER受診症例の傾向につき検討した.[EOS]"}
+{"ID": [28, 3], "entities": [{"name": "メキシレチン", "span": [14, 20], "type_id": 34, "type": "m-key_other"}, {"name": "リドカイン", "span": [21, 26], "type_id": 34, "type": "m-key_other"}], "annotated_sentence": "しかし、我々は病棟業務の中で<m-key state=\"other\">メキシレチン</m-key>と<m-key state=\"other\">リドカイン</m-key>の相互作用と思われる重篤な副作用を経験したので報告する。", "generated": "しかし、我々は病棟業務の中で<m-key>メキシレチン</m-key><m-val>と</m-val><m-key>リドカイン</m-key><m-val>の相互作用と思われる重篤な副作用を経験したので報告する。[EOS]"}
+{"ID": [123, 10], "entities": [], "annotated_sentence": "胆嚢内には2.5cm大の結石が存在し、胆嚢体部に結石と同じ大きさの潰瘍が形成されていた。", "generated": "胆嚢内には2.5cm大の結石が存在し、胆嚢体部に結石と同じ大きさの潰瘍が形成されていた。[EOS]"}
+{"ID": [40, 15], "entities": [], "annotated_sentence": "運動療法中は2段脈が頻発,PVCショートランの出現歴があり,自覚症状や血圧を管理しつつ介入した.", "generated": "運動療法中は2段脈が頻発,PVCショートランの出現歴があり,自覚症状や血圧を管理しつつ介入した.[EOS]"}
+{"ID": [106, 8], "entities": [], "annotated_sentence": "門脈域では部分的に胆管上皮内にリンパ球と組織球浸潤および一部にductular proliferation (細胆管増生)があり,アザン染色では,一部にbridging fibrosisがみられた.", "generated": "門脈域では部分的に胆管上皮内にリンパ球と組織球浸潤および一部にductular proliferation (細胆管増生)があり,アザン染色では,一部にbridging fibrosisがみられた.[EOS]"}
+{"ID": [5, 5], "entities": [], "annotated_sentence": "近年,歩数計を用いた歩数を増やす介入により,地域在住高齢者の骨格筋量や運動機能が改善することが報告されている(Yamada,et al.,2015)。", "generated": "近年,歩数計を用いた歩数を増やす介入により,地域在住高齢者の骨格筋量や運動機能が改善することが報告されている(Yamada,et al.,2015)。[EOS]"}
+{"ID": [8, 15], "entities": [], "annotated_sentence": "血中MCFG濃度はHPLC法により測定した。", "generated": "血中MCFG濃度はHPLC法により測定した。[EOS]"}
+{"ID": [54, 22], "entities": [], "annotated_sentence": "今後は年齢や性別,重症度などの要因を検討しながら,STの有効性をさらに検証する必要がある.", "generated": "今後は年齢や性別,重症度などの要因を検討しながら,STの有効性をさらに検証する必要がある.[EOS]"}
+{"ID": [93, 4], "entities": [], "annotated_sentence": "胸水はありません。", "generated": "胸水はありません。[EOS]"}
+{"ID": [64, 4], "entities": [{"name": "5FU", "span": [27, 30], "type_id": 31, "type": "m-key_executed"}, {"name": "600mg", "span": [31, 36], "type_id": 35, "type": "m-val_"}, {"name": "Leucovorin", "span": [37, 47], "type_id": 31, "type": "m-key_executed"}, {"name": "30mg", "span": [48, 52], "type_id": 35, "type": "m-val_"}], "annotated_sentence": "血管撮影および腫瘍生検にて非上皮性悪性腫瘍と診断され、<m-key state=\"executed\">5FU</m-key> <m-val>600mg</m-val>+<m-key state=\"executed\">Leucovorin</m-key> <m-val>30mg</m-val>の化学療法を受けたがNC、退院した。", "generated": "血管撮影および腫瘍生検にて非上皮性悪性腫瘍と診断され、5FU<m-val>600mg</m-val>+Leucovorin<m-val>30mg</m-val>の化学療法を受けたがNC、退院した。[EOS]"}
+{"ID": [16, 19], "entities": [{"name": "EO", "span": [3, 5], "type_id": 34, "type": "m-key_other"}, {"name": "ハプトグロブリン", "span": [30, 38], "type_id": 34, "type": "m-key_other"}, {"name": "EO", "span": [70, 72], "type_id": 34, "type": "m-key_other"}], "annotated_sentence": "しかし<m-key state=\"other\">EO</m-key>の使用量が多いため血管内溶血による腎障害予防のため<m-key state=\"other\">ハプトグロブリン</m-key>が必要であり,バルーンの閉塞が不十分な場合の肺塞栓の危険性や, <m-key state=\"other\">EO</m-key>が門脈に流れて肝梗塞を起こす危険性などがある.", "generated": "<m-key>EO</m-key><m-val>の使用量が多いため血管内溶血による腎障害予防のためハプトグロブリンが必要であり,バルーンの閉塞が不十分な場合の肺塞栓の危険性や, EOが門脈に流れて肝梗塞を起こす危険性などがある.[EOS]"}
+{"ID": [6, 28], "entities": [], "annotated_sentence": "変形性腰椎症において、疼痛の改善が困難で姿勢異常がみられる例では、横隔膜のストレッチを用いて姿勢の変化を促すことが一つの手段として有効であることが示唆された。", "generated": "変形性腰椎症において、疼痛の改善が困難で姿勢異常がみられる例では、横隔膜のストレッチを用いて姿勢の変化を促すことが一つの手段として有効であることが示唆された。[EOS]"}
+{"ID": [99, 16], "entities": [], "annotated_sentence": "これらを改善した永久型へ変更再留置したが、TUL、膀胱鏡等にも十分対応出来た。", "generated": "これらを改善した永久型へ変更再留置したが、TUL、膀胱鏡等にも十分対応出来た。[EOS]"}
+{"ID": [28, 3], "entities": [], "annotated_sentence": "【症例】症例は68歳,男性.", "generated": "[EOS]"}
+{"ID": [91, 7], "entities": [], "annotated_sentence": "【診断】高度歯周炎による経口摂取不良", "generated": "[EOS]"}
+{"ID": [46, 11], "entities": [], "annotated_sentence": "第14病日まで間欠的に発熱は続き,第15病日,両下腿痛,発赤,熱感,腫脹が出現した.", "generated": "第14病日まで間欠的に発熱は続き,第15病日,両下腿痛,発赤,熱感,腫脹が出現した.[EOS]"}
+{"ID": [71, 4], "entities": [], "annotated_sentence": "しかし,われわれの調べた中では外科的治療の詳細な報告は無く,具体的な経過が不明である。", "generated": "しかし,われわれの調べた中では外科的治療の詳細な報告は無く,具体的な経過が不明である。[EOS]"}
+{"ID": [56, 10], "entities": [], "annotated_sentence": "FW後半の動作改善のため,右下肢前方での両上肢支持相における,腰椎骨盤帯の左右非対称性アライメント(腰椎屈曲位での腰椎右側屈左回旋,右寛骨の後傾,右股関節外旋位)に着目し,その要因である右股関節屈曲制限(深屈曲時に前方に疼痛あり,外旋代償あり)に対し介入を追加した。", "generated": "FW後半の動作改善のため,右下肢前方での両上肢支持相における,腰椎骨盤帯の左右非対称性アライメント(腰椎屈曲位での腰椎右側屈左回旋,右寛骨の後傾,右股関節外旋位)に着目し,その要因である右股関節屈曲制限(深屈曲時に前方に疼痛あり,外旋代償あり)に対し介入を追加した。[EOS]"}
+{"ID": [124, 8], "entities": [], "annotated_sentence": "術中所見上腫大リンパ節を上中縦隔に認め,一部を迅速病理に提出するとサルコイドーシス診断のため気管周囲リンパ節は出血のリスクを考慮し郭清を省略した.", "generated": "術中所見上腫大リンパ節を上中縦隔に認め,一部を迅速病理に提出するとサルコイドーシス診断のため気管周囲リンパ節は出血のリスクを考慮し郭清を省略した.[EOS]"}
+{"ID": [73, 19], "entities": [], "annotated_sentence": "これは、徒手に比してバンドの方が左仙腸関節を離開する力が働いたと考えられるが、疼痛が出現したことに関しては、歩行によりバンドが緩み、再度関節面への圧力が加わったためだと考えられた。", "generated": "これは、徒手に比してバンドの方が左仙腸関節を離開する力が働いたと考えられるが、疼痛が出現したことに関しては、歩行によりバンドが緩み、再度関節面への圧力が加わったためだと考えられた。[EOS]"}
+{"ID": [61, 1], "entities": [], "annotated_sentence": "当科初診2週間前に発熱,咳嗽にて岡谷塩嶺病院内科受診,びまん性汎細気管支炎の急性増悪として入院加療。", "generated": "当科初診2週間前に発熱,咳嗽にて岡谷塩嶺病院内科受診,びまん性汎細気管支炎の急性増悪として入院加療。[EOS]"}
+{"ID": [64, 3], "entities": [], "annotated_sentence": "両側肺尖部には陳旧性結核を疑う、石灰化を伴う胸膜肥厚を認めます。", "generated": "両側肺尖部には陳旧性結核を疑う、石灰化を伴う胸膜肥厚を認めます。[EOS]"}
+{"ID": [63, 1], "entities": [], "annotated_sentence": "【はじめに】", "generated": "[EOS]"}
+{"ID": [7, 6], "entities": [], "annotated_sentence": "6月4日当院皮膚科入院.", "generated": "[EOS]"}
+{"ID": [35, 17], "entities": [], "annotated_sentence": "他動運動評価での膝関節屈曲では疹痛は出現しなかった。", "generated": "他動運動評価での膝関節屈曲では疹痛は出現しなかった。[EOS]"}
+{"ID": [1, 23], "entities": [], "annotated_sentence": "【考察】", "generated": "[EOS]"}
+{"ID": [41, 6], "entities": [], "annotated_sentence": "肝門部や傍大動脈リンパ節が多数腫大、リンパ節転移を疑います。", "generated": "肝門部や傍大動脈リンパ節が多数腫大、リンパ節転移を疑います。[EOS]"}
+{"ID": [95, 9], "entities": [{"name": "薬剤", "span": [11, 13], "type_id": 32, "type": "m-key_negated"}], "annotated_sentence": "8月2日より耳鼻科での<m-key state=\"negated\">薬剤</m-key>の投与をすべて中止したところ,約10日で紅斑は軽快した。", "generated": "8月2日より耳鼻科での薬剤の投与をすべて中止したところ,約10日で紅斑は軽快した。[EOS]"}
+{"ID": [66, 22], "entities": [], "annotated_sentence": "リハ開始4ヶ月で歩行車歩行を実施、20m介助歩行可能だった。", "generated": "<m-key>リハ</m-key><m-val>開始4ヶ月</m-val>で<m-key>歩行車</m-key><m-val>歩行を実施、20m介助歩行可能だった。[EOS]"}
+{"ID": [104, 9], "entities": [{"name": "ニボルマブ", "span": [0, 5], "type_id": 31, "type": "m-key_executed"}], "annotated_sentence": "<m-key state=\"executed\">ニボルマブ</m-key>を15コース目まで投与されたが,20XX年1月に外陰部に転移巣が出現し,肺転移巣も増大傾向となった.", "generated": "ニボルマブを15コース目まで投与されたが,20XX年1月に外陰部に転移巣が出現し,肺転移巣も増大傾向となった.[EOS]"}
+{"ID": [9, 8], "entities": [], "annotated_sentence": "そこで胆道鏡下にMCT施行。", "generated": "MCT施行。[EOS]"}
+{"ID": [65, 11], "entities": [], "annotated_sentence": "また、単剤処方率は34.3%であった。", "generated": "また、単剤処方率は34.3%であった。[EOS]"}
+{"ID": [51, 15], "entities": [], "annotated_sentence": "【結果】術前に比べ左右骨盤前傾角度が有意に前傾していた。", "generated": "【結果】術前に比べ左右骨盤前傾角度が有意に前傾していた。[EOS]"}
+{"ID": [0, 4], "entities": [], "annotated_sentence": "【結果】末梢血,生化学検査,免疫グロブリン,血清補体価は基準値内,自己抗体は陰性.", "generated": "【結果】末梢血,生化学検査,免疫グロブリン,血清補体価は基準値内,自己抗体は陰性.[EOS]"}
+{"ID": [101, 5], "entities": [], "annotated_sentence": "主訴:検診異常", "generated": "[EOS]"}
+{"ID": [12, 1], "entities": [], "annotated_sentence": "右肺下葉肺門側には⻑径約5.5cm大の増強効果に乏しい腫瘤を認め、末梢には閉塞性無気肺と粘液栓を疑う増強不良域を認めます(cT3)。腫瘍により右肺動脈下葉枝は縦隔側よりで閉塞し、avascularな状態となっています。気管支動脈の流入を認めます。", "generated": "右肺下葉肺門側には⻑径約5.5cm大の増強効果に乏しい腫瘤を認め、末梢には閉塞性無気肺と粘液栓を疑う増強不良域を認めます(cT3)。腫瘍により右肺動脈下葉枝は縦隔側よりで閉塞し、avascularな状態となっています。気管支動脈の流入を認めます。[EOS]"}
+{"ID": [82, 20], "entities": [{"name": "ICI", "span": [51, 54], "type_id": 34, "type": "m-key_other"}], "annotated_sentence": "2回目の肝生検では形質細胞浸潤やinterface hepatitisなどAIH様の所見を呈しており,<m-key state=\"other\">ICI</m-key>関連の肝障害には多彩な発症機序があることが示唆された.", "generated": "2回目の肝生検では形質細胞浸潤やinterface hepatitisなどAIH様の所見を呈しており,ICI関連の肝障害には多彩な発症機序があることが示唆された.[EOS]"}
+{"ID": [57, 1], "entities": [], "annotated_sentence": "背景および目的", "generated": "[EOS]"}
+{"ID": [129, 3], "entities": [], "annotated_sentence": "【現病歴】半年前より腹部膨満が出現し,5kgの体重減少があった.", "generated": "半年前より腹部膨満が出現し,5kgの体重減少があった.[EOS]"}
+{"ID": [36, 8], "entities": [{"name": "DCV/ASV", "span": [44, 51], "type_id": 34, "type": "m-key_other"}], "annotated_sentence": "初回導入日には、内服薬との相互作用の確認及び、患者理解度の評価を行い、問題がない場合には<m-key state=\"other\">DCV/ASV</m-key>の服薬指導を行う。", "generated": "初回導入日には、内服薬との相互作用の確認及び、患者理解度の評価を行い、問題がない場合には<m-key>DCV/ASV</m-key>の服薬指導を行う。[EOS]"}
+{"ID": [45, 3], "entities": [], "annotated_sentence": "今回、画像診断で一度はDVTを否定されが、その3日後にDVTを発症した症例を経験したので報告する。", "generated": "今回、画像診断で一度はDVTを否定されが、その3日後にDVTを発症した症例を経験したので報告する。[EOS]"}
+{"ID": [36, 18], "entities": [], "annotated_sentence": "今後更に病態が悪化する懸念があることから,手術による横隔膜修復を検討中である.", "generated": "今後更に病態が悪化する懸念があることから,手術による横隔膜修復を検討中である.[EOS]"}
+{"ID": [116, 1], "entities": [], "annotated_sentence": "【症例】53歳女性", "generated": "[EOS]"}
+{"ID": [47, 5], "entities": [], "annotated_sentence": "xルゴール散布にて同部位は不染で、生検にて低分化型扁平上皮癌と診断された。", "generated": "xルゴール散布にて同部位は不染で、生検にて低分化型扁平上皮癌と診断された。[EOS]"}
+{"ID": [95, 4], "entities": [{"name": "コハク酸メチルプレドニゾロンナトリウム", "span": [22, 41], "type_id": 31, "type": "m-key_executed"}, {"name": "240mg/day", "span": [42, 51], "type_id": 35, "type": "m-val_"}], "annotated_sentence": "顔面神経麻痺で耳鼻科に入院し,7月21日より<m-key state=\"executed\">コハク酸メチルプレドニゾロンナトリウム</m-key>(<m-val>240mg/day</m-val>より漸減)等を点滴していた。", "generated": "顔面神経麻痺で耳鼻科に入院し,7月21日より<m-key>コハク酸メチルプレドニゾロンナトリウム</m-key><m-val>240mg/dayより漸減</m-val>等を点滴していた。[EOS]"}
+{"ID": [140, 2], "entities": [], "annotated_sentence": "2010年に上部消化管内視鏡検査で胃癌を指摘され,当院消化器内科に紹介となった.", "generated": "2010年に上部消化管内視鏡検査で胃癌を指摘され,<m-key>消化器内科</m-key>に紹介となった.[EOS]"}
+{"ID": [25, 15], "entities": [{"name": "栄養剤", "span": [16, 19], "type_id": 31, "type": "m-key_executed"}], "annotated_sentence": "なお自宅でも、NSTから提案した<m-key state=\"executed\">栄養剤</m-key>と食事を摂取していた。", "generated": "なお自宅でも、NSTから提案した栄養剤と食事を摂取していた。[EOS]"}
+{"ID": [25, 12], "entities": [{"name": "PSL", "span": [4, 7], "type_id": 31, "type": "m-key_executed"}, {"name": "30mg/日", "span": [8, 14], "type_id": 35, "type": "m-val_"}, {"name": "betamethasone", "span": [35, 48], "type_id": 31, "type": "m-key_executed"}, {"name": "8mg/日", "span": [49, 54], "type_id": 35, "type": "m-val_"}], "annotated_sentence": "後療法は<m-key state=\"executed\">PSL</m-key> <m-val>30mg/日</m-val>で開始したが,発熱・皮疹の再燃を認めたため<m-key state=\"executed\">betamethasone</m-key> <m-val>8mg/日</m-val>に変更し,その後漸減し8月20日軽快退院となった.", "generated": "後療法はPSL<m-key>30mg/日</m-val>で開始したが,発熱・皮疹の再燃を認めたためbetamethasone<m-key>8mg/日</m-val>に変更し,その後漸減し8月20日軽快退院となった.[EOS]"}
+{"ID": [96, 4], "entities": [], "annotated_sentence": "肝内に多数の濃染不良な結節を認めており、多発肝転移を疑います。", "generated": "肝内に多数の濃染不良な結節を認めており、多発肝転移を疑います。[EOS]"}
+{"ID": [12, 3], "entities": [], "annotated_sentence": "手術時,腹膜播種,高度リンパ節転移を認め,非治癒切除に終わった。", "generated": "手術時,腹膜播種,高度リンパ節転移を認め,非治癒切除に終わった。[EOS]"}
+{"ID": [56, 4], "entities": [], "annotated_sentence": "その後,心室中隔欠損症が原因による体重増加不良を認めたため,5か月時に根治術を施行した.", "generated": "その後,心室中隔欠損症が原因による体重増加不良を認めたため,5か月時に<m-key>根治術</m-key>を施行した.[EOS]"}
+{"ID": [101, 14], "entities": [], "annotated_sentence": "造影MMGも行ったが、両側乳房外側上方を主体として乳房全体に斑状の造影効果を認め、局在診断には至らなかった。", "generated": "造影MMGも行ったが、両側乳房外側上方を主体として乳房全体に斑状の造影効果を認め、局在診断には至らなかった。[EOS]"}
+{"ID": [99, 3], "entities": [], "annotated_sentence": "明らかな副腫瘍結節を疑うような肺内結節を指摘できません。", "generated": "明らかな副腫瘍結節を疑うような肺内結節を指摘できません。[EOS]"}
+{"ID": [16, 16], "entities": [], "annotated_sentence": "頻度は外来にて症例Aは2週に1回,症例Bは週1回実施し,可能な範囲で自宅でも行ってもらった.", "generated": "頻度は外来にて症例Aは2週に1回,症例Bは週1回実施し,可能な範囲で自宅でも行ってもらった.[EOS]"}
+{"ID": [24, 7], "entities": [], "annotated_sentence": "対象は、2008年から2011年9月までに当院で手術を施行し、理学療法を施行した17症例(男性4例、女性13例)のうち、理学療法経過を5カ月まで追えた8症例とした。", "generated": "<m-key>エトレチナート</m-key><m-val>30mg/日</m-val>投与開始し,皮疹は安定化。[EOS]"}
+{"ID": [33, 4], "entities": [], "annotated_sentence": "入院時現症:黄疸はなく,著明な肝脾腫大を認めた。", "generated": "入院時現症:黄疸はなく,著明な肝脾腫大を認めた。[EOS]"}
+{"ID": [1, 34], "entities": [], "annotated_sentence": "脳活動の賦活に日記が有用であることは広く知られているが,その内容に対してフィードバックを行う作業が,より脳活動を促進する可能性があることが示唆された。", "generated": "脳活動の賦活に日記が有用であることは広く知られているが,その内容に対してフィードバックを行う作業が,より脳活動を促進する可能性があることが示唆された。[EOS]"}
+{"ID": [116, 4], "entities": [{"name": "プレドニゾロン (PSL)", "span": [0, 13], "type_id": 31, "type": "m-key_executed"}, {"name": "1mg/kg/day", "span": [14, 24], "type_id": 35, "type": "m-val_"}, {"name": "免疫調整薬", "span": [32, 37], "type_id": 31, "type": "m-key_executed"}, {"name": "PSL", "span": [42, 45], "type_id": 31, "type": "m-key_executed"}], "annotated_sentence": "<m-key state=\"executed\">プレドニゾロン (PSL)</m-key> <m-val>1mg/kg/day</m-val>を導入され,以降<m-key state=\"executed\">免疫調整薬</m-key>を併用し,<m-key state=\"executed\">PSL</m-key>漸減の上で管理されていた.", "generated": "プレドニゾロン (PSL) <m-key>1mg/kg/day</m-val>を導入され,以降免疫調整薬を併用し,PSL漸減の上で管理されていた.[EOS]"}
+{"ID": [143, 7], "entities": [], "annotated_sentence": "右手背では外傷の瘢痕部が赤く隆起している。", "generated": "右手背では外傷の瘢痕部が赤く隆起している。[EOS]"}
+{"ID": [23, 4], "entities": [], "annotated_sentence": "PSPの症例報告は散見されるが,体系的にまとめた研究報告は少ない。", "generated": "PSPの症例報告は散見されるが,体系的にまとめた研究報告は少ない。[EOS]"}
+{"ID": [17, 4], "entities": [], "annotated_sentence": "腫瘍マーカーは正常範囲内。", "generated": "[EOS]"}
+{"ID": [144, 8], "entities": [{"name": "ゼルフォーム", "span": [30, 36], "type_id": 31, "type": "m-key_executed"}], "annotated_sentence": "左内腸骨動脈より分枝し膀胱内の腫瘍につながる動脈を2本認め、<m-key state=\"executed\">ゼルフォーム</m-key>にて塞栓術施行した。", "generated": "左内腸骨動脈より分枝し膀胱内の腫瘍につながる動脈を2本認め、ゼルフォームにて塞栓術施行した。[EOS]"}
+{"ID": [117, 14], "entities": [], "annotated_sentence": "この癒着を切離すると中葉の捻転が解除された。", "generated": "この癒着を切離すると中葉の捻転が解除された。[EOS]"}
+{"ID": [52, 14], "entities": [], "annotated_sentence": "胸郭の厚さ/幅比率(以下D/Wr.)は、0.56である。", "generated": "胸郭の厚さ/幅比率(以下D/Wr.)は、0.56である。[EOS]"}
+{"ID": [17, 3], "entities": [], "annotated_sentence": "洗浄細胞診にてもclsss3であった.", "generated": "洗浄細胞診にてもclsss3であった.[EOS]"}
+{"ID": [31, 9], "entities": [], "annotated_sentence": "検査成績:T.P,γ-Gl,TTT,ZTT,ALP,γ-GTP,CHE,GOT,GPT,LDH,TC,TG,PL,β-LP,IgMなどの高値,RA(+),抗ミトコンドリア抗体1280倍,抗セントロメア抗体320倍などの異常がみられた。", "generated": "検査成績:T.P,γ-Gl,TTT,ZTT,ALP,γ-GTP,CHE,GOT,GPT,LDH,TC,TG,PL,β-LP,IgMなどの高値,RA(+),抗ミトコンドリア抗体1280倍,抗セントロメア抗体320倍などの異常がみられた。[EOS]"}
+{"ID": [16, 26], "entities": [], "annotated_sentence": "胎児期や新生児からの身体図式の形成過程として,まず手と口周辺の接触による認識から始まり体幹や下肢の認識へと進んでいくと考えられている.", "generated": "胎児期や新生児からの身体図式の形成過程として,まず手と口周辺の接触による認識から始まり体幹や下肢の認識へと進んでいくと考えられている.[EOS]"}
+{"ID": [127, 12], "entities": [], "annotated_sentence": "CFでは瘢痕性の狭窄を認めるのみであった.", "generated": "CFでは瘢痕性の狭窄を認めるのみであった.[EOS]"}
+{"ID": [8, 10], "entities": [], "annotated_sentence": "〔症例2〕70歳代、男性。", "generated": "<タグ付が付与された文>[EOS]"}
+{"ID": [23, 10], "entities": [], "annotated_sentence": "その他に,片脚立位時間,膝伸展筋力,functional reach test,pull test,timed up and go test,10m歩行時間・歩数を評価した。", "generated": "その他に,片脚立位時間,膝伸展筋力,functional reach test,pull test,timed up and go test,10m歩行時間・歩数を評価した。[EOS]"}
+{"ID": [114, 14], "entities": [], "annotated_sentence": "胃癌を原発とする皮膚転移部位では,膀部,いわゆるSister Mary Joseph結節が最多であるが,それ以外の部位は比較的稀である.", "generated": "胃癌を原発とする皮膚転移部位では,膀部,いわゆるSister Mary Joseph結節が最多であるが,それ以外の部位は比較的稀である.[EOS]"}
+{"ID": [74, 1], "entities": [], "annotated_sentence": "【はじめに】", "generated": "[EOS]"}
+{"ID": [50, 4], "entities": [], "annotated_sentence": "その他、観察範囲内に明らかな異常を指摘できません。", "generated": "その他、観察範囲内に明らかな異常を指摘できません。[EOS]"}
+{"ID": [59, 3], "entities": [], "annotated_sentence": "【症例】40歳代の女性。", "generated": "[EOS]"}
+{"ID": [1, 8], "entities": [], "annotated_sentence": "しかし長期入院による認知機能の低下とADLの低下が危惧された。", "generated": "しかし長期入院による認知機能の低下とADLの低下が危惧された。[EOS]"}
+{"ID": [6, 12], "entities": [], "annotated_sentence": "気道の好酸球性炎症より神経原性炎症が運動誘発性気道狭窄の機序として推定された.", "generated": "気道の好酸球性炎症より神経原性炎症が運動誘発性気道狭窄の機序として推定された.[EOS]"}
+{"ID": [32, 19], "entities": [], "annotated_sentence": "訓練内容は肩関節可動域訓練(active・passive)・筋力訓練・自主訓練指導・セルフリンパドレナージを実施した。", "generated": "訓練内容は肩関節可動域訓練(<m-key>active</m-key><m-val>・</m-val><m-key>passive</m-key><m-val>)・筋力訓練・自主訓練指導・セルフリンパドレナージを実施した。[EOS]"}
+{"ID": [144, 2], "entities": [], "annotated_sentence": "2007年5月15日、ふらつき、肉眼的血尿にて救急受診となった。", "generated": "2007年5月15日、ふらつき、肉眼的血尿にて救急受診となった。[EOS]"}
+{"ID": [14, 8], "entities": [], "annotated_sentence": "絶食と点滴にて自覚症状と腹部所見は軽快し,入院4日目の腹部造影CTでは胃拡張は改善し,吻合部周囲には狭窄の原因となるような所見は認めなかった.", "generated": "絶食と点滴にて自覚症状と腹部所見は軽快し,入院4日目の腹部造影CTでは胃拡張は改善し,吻合部周囲には狭窄の原因となるような所見は認めなかった.[EOS]"}
+{"ID": [35, 28], "entities": [], "annotated_sentence": "【介入内容および結果】", "generated": "[EOS]"}
+{"ID": [41, 3], "entities": [], "annotated_sentence": "左鎖骨上窩、両側縦隔、右肺門部に多数のリンパ節腫大を認め、転移を疑います。N分類でN3相当と思われます。", "generated": "左鎖骨上窩、両側縦隔、右肺門部に多数のリンパ節腫大を認め、転移を疑います。N分類でN3相当と思われます。[EOS]"}
+{"ID": [38, 5], "entities": [], "annotated_sentence": "【症例紹介】", "generated": "[EOS]"}
+{"ID": [51, 8], "entities": [], "annotated_sentence": "年齢は9歳。", "generated": "年齢は9歳。[EOS]"}
+{"ID": [112, 6], "entities": [], "annotated_sentence": "以上から、胆嚢結石症および後腹膜腫瘍と術前診断した。", "generated": "以上から、胆嚢結石症および後腹膜腫瘍と術前診断した。[EOS]"}
+{"ID": [144, 7], "entities": [], "annotated_sentence": "同日緊急で大体動脈より血管造影施行。", "generated": "同日緊急で大体動脈より血管造影施行。[EOS]"}
+{"ID": [52, 19], "entities": [], "annotated_sentence": "同年9月、病棟看護師から、「左半側臥位をとることで睡眠時無呼吸が生じ難くなった。", "generated": "同年9月、病棟看護師から、「左半側臥位をとることで睡眠時無呼吸が生じ難くなった。[EOS]"}
+{"ID": [46, 5], "entities": [], "annotated_sentence": "難治性肝性腹水に対して腹水コントロール目的に入院となった.", "generated": "難治性肝性腹水に対して腹水コントロール目的に入院となった.[EOS]"}
+{"ID": [33, 8], "entities": [], "annotated_sentence": "結節周辺部の肝細胞は膨化し,Mallory様物質がみられた。", "generated": "結節周辺部の肝細胞は膨化し,Mallory様物質がみられた。[EOS]"}
+{"ID": [44, 6], "entities": [], "annotated_sentence": "なお抗ミトコンドリア抗体(+++),抗核抗体(-),抗平滑筋抗体(+)で腹腔鏡下直接胆のう造影で胆管の閉塞を認めなかった。", "generated": "なお抗ミトコンドリア抗体(+++),抗核抗体(-),抗平滑筋抗体(+)で腹腔鏡下直接胆のう造影で胆管の閉塞を認めなかった。[EOS]"}
+{"ID": [110, 16], "entities": [], "annotated_sentence": "術後18日目に無事退院した。", "generated": "[EOS]"}
+{"ID": [108, 1], "entities": [], "annotated_sentence": "【はじめに】外傷性腹壁ヘルニアは、外部から腹部に加わった圧力により皮膚の連続性は保ったまま腹壁筋群の損傷により起こるまれな疾患である。", "generated": "【はじめに】外傷性腹壁ヘルニアは、外部から腹部に加わった圧力により皮膚の連続性は保ったまま腹壁筋群の損傷により起こるまれな疾患である。[EOS]"}
+{"ID": [73, 17], "entities": [], "annotated_sentence": "10月26日、仙腸関節の離開をより簡便に行うために、長さ75cm、幅20cmの伸縮性のあるバンドを骨盤後傾と共に使用することで、安静時痛は消失し、歩行も可能となった。", "generated": "10月26日、仙腸関節の離開をより簡便に行うために、長さ75cm、幅20cmの伸縮性のあるバンドを骨盤後傾と共に使用することで、安静時痛は消失し、歩行も可能となった。[EOS]"}
+{"ID": [38, 9], "entities": [], "annotated_sentence": "右肺尖部には縮小傾向・気管支拡張・小石灰化を伴う索状影があり,過去の抗酸菌感染などによる陳旧性変化と考えます。", "generated": "右肺尖部には縮小傾向・気管支拡張・小石灰化を伴う索状影があり,過去の抗酸菌感染などによる陳旧性変化と考えます。[EOS]"}
+{"ID": [42, 2], "entities": [], "annotated_sentence": "術前診断は肝門部胆管癌。", "generated": "[EOS]"}
+{"ID": [3, 7], "entities": [], "annotated_sentence": "右副腎に結節を認めこちらも転移の可能性があります。", "generated": "右副腎に結節を認めこちらも転移の可能性があります。[EOS]"}
+{"ID": [103, 2], "entities": [], "annotated_sentence": "気管分岐下や同側縦隔・肺門リンパ節は病的腫大が散見され、転移が示唆されます(N2)。", "generated": "気管分岐下や同側縦隔・肺門リンパ節は病的腫大が散見され、転移が示唆されます(N2)。[EOS]"}
+{"ID": [28, 10], "entities": [{"name": "メキシレチン", "span": [7, 13], "type_id": 31, "type": "m-key_executed"}, {"name": "リドカイン", "span": [22, 27], "type_id": 31, "type": "m-key_executed"}], "annotated_sentence": "【結果・考察】<m-key state=\"executed\">メキシレチン</m-key>の併用や増量に伴い<m-key state=\"executed\">リドカイン</m-key>投与量を減量しているにもかかわらず血中濃度が上昇し副作用が出現した。", "generated": "【結果・考察】メキシレチンの併用や増量に伴いリドカイン<m-key>投与量</m-key><m-val>を減量しているにもかかわらず血中濃度が上昇し副作用が出現した。[EOS]"}
+{"ID": [59, 9], "entities": [], "annotated_sentence": "血栓に関しては、右肺下行枝からP8-10に血栓を認め、左内外腸骨静脈から下大静脈に血栓を認めた。", "generated": "血栓に関しては、右肺下行枝からP8-10に<m-key>血栓</m-key><m-val>を認め、左内外腸骨静脈から下大静脈に<m-key>血栓</m-key><m-val>を認めた。[EOS]"}
+{"ID": [12, 3], "entities": [], "annotated_sentence": "その他、肺・縦隔に特記所見ありません。胸水はありません。", "generated": "その他、肺・縦隔に特記所見ありません。胸水はありません。[EOS]"}
+{"ID": [94, 3], "entities": [], "annotated_sentence": "脂肪肝を疑いますが、他に肝内に転移などの粗大病変を認めません。", "generated": "脂肪肝を疑いますが、他に肝内に転移などの粗大病変を認めません。[EOS]"}
+{"ID": [12, 7], "entities": [], "annotated_sentence": "左鼠径部に豌豆大のリンパ節を2個触知する。", "generated": "左鼠径部に豌豆大のリンパ節を2個触知する。[EOS]"}
+{"ID": [34, 19], "entities": [], "annotated_sentence": "粗大運動能力尺度(以下GMFM)は臥位と寝返り領域が5.8%であった。", "generated": "粗大運動能力尺度(以下GMFM)は臥位と寝返り領域が<m-val>5.8%</m-val>であった。[EOS]"}
+{"ID": [36, 1], "entities": [], "annotated_sentence": "右肺下葉気管支の狭窄が見られます。右肺下葉にはすりガラス様濃度上昇域を認めます。気管支狭窄にともなう部分無気肺、随伴性肺炎などを疑います。", "generated": "右肺下葉気管支の狭窄が見られます。右肺下葉にはすりガラス様濃度上昇域を認めます。気管支狭窄にともなう部分無気肺、随伴性肺炎などを疑います。[EOS]"}
+{"ID": [94, 1], "entities": [], "annotated_sentence": "その他、肺・縦隔に特記所見ありません。", "generated": "その他、肺・縦隔に特記所見ありません。[EOS]"}
+{"ID": [82, 15], "entities": [], "annotated_sentence": "Inter-face hepatitisと胆管上皮へのリンパ球浸潤,小葉内のリンパ球集簇も見られた.", "generated": "Inter-face hepatitisと胆管上皮へのリンパ球浸潤,小葉内のリンパ球集簇も見られた.[EOS]"}
+{"ID": [32, 13], "entities": [], "annotated_sentence": "術後2日目より自主訓練開始し、肩関節屈曲90°外転45°の範囲内での自動運動、手指屈伸運動を実施した。", "generated": "術後2日目より自主訓練開始し、肩関節屈曲90°外転45°の範囲内での自動運動、手指屈伸運動を実施した。[EOS]"}
+{"ID": [89, 2], "entities": [], "annotated_sentence": "胸水貯留を認めません。", "generated": "胸水貯留を認めません。[EOS]"}
+{"ID": [104, 6], "entities": [], "annotated_sentence": "既往歴:高血圧症,高脂血症.", "generated": "[EOS]"}
+{"ID": [44, 1], "entities": [], "annotated_sentence": "38才女性で,2年前心窩部重感あり,某医にて肝腫と軽度の肝機能障害を指摘され,その後全身掻痒感,軽度の黄疸を来たす。", "generated": "38才女性で,2年前心窩部重感あり,某医にて<m-key>肝腫</m-key>と軽度の肝機能障害を指摘され,その後全身掻痒感,軽度の黄疸を来たす。[EOS]"}
+{"ID": [25, 5], "entities": [], "annotated_sentence": "2008年2月の健診では異常所見はなかった。", "generated": "[EOS]"}
+{"ID": [53, 2], "entities": [], "annotated_sentence": "心拡大ありません。", "generated": "[EOS]"}
+{"ID": [119, 9], "entities": [], "annotated_sentence": "UtCe領域0-IIa+IIc病変は1course施行時から縮小をみとめ2course後には消失していた。", "generated": "UtCe領域0-IIa+IIc病変は1course施行時から縮小をみとめ2course後には消失していた。[EOS]"}
+{"ID": [54, 7], "entities": [], "annotated_sentence": "肺機能:%肺活量71.2%,1秒率73.8%。", "generated": "%肺活量71.2%,1秒率73.8%。[EOS]"}
+{"ID": [35, 11], "entities": [], "annotated_sentence": "問診からred flagを疑わせる所見は認められなかった。", "generated": "問診からred flagを疑わせる所見は認められなかった。[EOS]"}
+{"ID": [19, 7], "entities": [], "annotated_sentence": "【結果】HbA1cは、変更前の平均値8.61%から変更後の平均値6.94%へと有意な低下が認められた。", "generated": "【結果】HbA1cは、変更前の平均値8.61%から変更後の平均値6.94%へと有意な低下が認められた。[EOS]"}
+{"ID": [5, 2], "entities": [], "annotated_sentence": "大腿骨頸部骨折や脊椎椎体骨折の発症は,患者に医学的処置のための安静を強いることとなる。", "generated": "大腿骨頸部骨折や脊椎椎体骨折の発症は,患者に医学的処置のための安静を強いることとなる。[EOS]"}
+{"ID": [15, 7], "entities": [], "annotated_sentence": "外来にて定期的に上部内視鏡検査ならびに腹部画像検査を行ったところ,食道静脈瘤は増悪を認めなかったが,徐々に胃静脈瘤の増大(Fl→F2)を認めた.", "generated": "<m-key>食道静脈瘤</m-key>は増悪を認めなかったが,徐々に<m-key>胃静脈瘤</m-key><m-val>の増大(Fl→F2)を認めた.[EOS]"}
+{"ID": [1, 8], "entities": [], "annotated_sentence": "胃管癌に対する標準術式は現在においても存在せず、また症例も少ないことから、経験的治療によるところが大きいと考える。", "generated": "胃管癌に対する標準術式は現在においても存在せず、また症例も少ないことから、経験的治療によるところが大きいと考える。[EOS]"}
+{"ID": [69, 20], "entities": [], "annotated_sentence": "4週間の介入によりバランス,歩行能力の向上を示したことの臨床的意義は大きい。", "generated": "4週間の介入によりバランス,歩行能力の向上を示したことの臨床的意義は大きい。[EOS]"}
+{"ID": [18, 6], "entities": [], "annotated_sentence": "胸水は見られません。", "generated": "[EOS]"}
+{"ID": [63, 3], "entities": [], "annotated_sentence": "平成元年9月頃(5歳時)より,口腔内および口唇に有痛性の糜爛出現。", "generated": "平成元年9月頃(5歳時)より,口腔内および口唇に有痛性の糜爛出現。[EOS]"}
+{"ID": [41, 3], "entities": [], "annotated_sentence": "一方で運動と認知行動療法の相互補完の必要性を示唆するケースであったので報告する。", "generated": "一方で運動と認知行動療法の相互補完の必要性を示唆するケースであったので報告する。[EOS]"}
+{"ID": [1, 14], "entities": [], "annotated_sentence": "作業療法士・理学療法士が傍に寄り添い,症例のペースで記入してもらう。", "generated": "作業療法士・理学療法士が傍に寄り添い,症例のペースで記入してもらう。[EOS]"}
+{"ID": [48, 5], "entities": [], "annotated_sentence": "CT検査で肝S7と右肺S3に転移性腫瘍の疑いがあるもイレウスのために低位前方切除術を施行した。", "generated": "CT検査で肝S7と右肺S3に転移性腫瘍の疑いがあるもイレウスのために<m-key>低位前方切除術</m-key>を施行した。[EOS]"}
+{"ID": [72, 8], "entities": [], "annotated_sentence": "昭和54年5月,SLE発症。", "generated": "昭和54年5月,SLE発症。[EOS]"}
+{"ID": [124, 13], "entities": [], "annotated_sentence": "周術期合併症のリスクの軽減や郭清範囲を決定するには術前PET-CTや術中迅速病理が有用であると思われた.", "generated": "周術期合併症のリスクの軽減や郭清範囲を決定するには術前PET-CTや術中迅速病理が有用であると思われた.[EOS]"}
+{"ID": [59, 6], "entities": [], "annotated_sentence": "胆嚢炎は一旦改善するものの再燃するため、胆石手術目的にて当科紹介受診された。", "generated": "胆嚢炎は一旦改善するものの再燃するため、胆石手術目的にて当科紹介受診された。[EOS]"}
+{"ID": [46, 6], "entities": [], "annotated_sentence": "入院前日より茶褐色の嘔吐があり,またHb7.4g/dlと貧血を認め,精査目的に上部消化管内視鏡検査を施行した.", "generated": "入院前日より茶褐色の嘔吐があり,またHb7.4g/dlと貧血を認め,精査目的に上部消化管内視鏡検査を施行した.[EOS]"}
+{"ID": [95, 5], "entities": [], "annotated_sentence": "8月1日に,頸部~前胸部に瘙痒ある紅斑が出現し拡大したため,8月2日当科依頼となった。", "generated": "8月1日に,頸部~前胸部に瘙痒ある紅斑が出現し拡大したため,8月2日当科依頼となった。[EOS]"}
+{"ID": [2, 1], "entities": [], "annotated_sentence": "両肺野にびまん性に結節影を認めます。多発肺転移の可能性があります。鑑別としては粟粒結核が挙がります。既往などご確認ください。", "generated": "両肺野にびまん性に結節影を認めます。多発肺転移の可能性があります。鑑別としては<m-key>粟粒結核</m-key>が挙がります。既往などご確認ください。[EOS]"}
+{"ID": [122, 2], "entities": [], "annotated_sentence": "数年来,春季から初夏にかけての花粉症症状および果物類摂取後の咽喉違和感が出現.", "generated": "数年来,春季から初夏にかけての花粉症症状および果物類摂取後の咽喉違和感が出現.[EOS]"}
+{"ID": [134, 14], "entities": [], "annotated_sentence": "汎血球減少に対する対策をおこなうことでMDSを合併した癌患者に対しても根治手術を行なうことができた。", "generated": "汎血球減少に対する対策をおこなうことでMDSを合併した癌患者に対しても根治手術を行なうことができた。[EOS]"}
+{"ID": [18, 1], "entities": [], "annotated_sentence": "【はじめに,目的】", "generated": "[EOS]"}
+{"ID": [63, 4], "entities": [], "annotated_sentence": "近医歯科にて口内炎と診断され,治療を受けるも症状増悪。", "generated": "近医歯科にて口内炎と診断され,治療を受けるも症状増悪。[EOS]"}
+{"ID": [20, 12], "entities": [{"name": "アミノ酸乳(エレメンタルフォーミュラ)", "span": [10, 29], "type_id": 31, "type": "m-key_executed"}], "annotated_sentence": "その後大豆を含まない<m-key state=\"executed\">アミノ酸乳(エレメンタルフォーミュラ)</m-key>で経管栄養を開始したが症状の再発は認めない,", "generated": "その後大豆を含まないアミノ酸乳(エレメンタルフォーミュラ)で経管栄養を開始したが症状の再発は認めない,[EOS]"}
+{"ID": [0, 1], "entities": [], "annotated_sentence": "【目的】入浴時に入浴部分に一致する膨疹を繰り返す症例に対して,診断の確定,発症機序および治療の方法を模索する.", "generated": "【目的】入浴時に入浴部分に一致する膨疹を繰り返す症例に対して,診断の確定,発症機序および治療の方法を模索する.[EOS]"}
+{"ID": [127, 2], "entities": [], "annotated_sentence": "最近では治癒切除後の補助療法としてもmFOLFOX6やXelox療法が導入されるようになってきた.", "generated": "最近では治癒切除後の補助療法としても<m-key>mFOLFOX6</m-key><m-val>や</m-val><m-key>Xelox</m-key><m-val>療法が導入されるようになってきた.[EOS]"}
+{"ID": [42, 14], "entities": [], "annotated_sentence": "肝生検後の繰り返す消化管出血、胆道出血では肝内仮性動脈瘤を念頭におき、内視鏡検査、血管造影にてその原因を明確にし、仮性動脈瘤には選択的動脈塞栓術(TAE)を行うべきと考えられた。", "generated": "繰り返す消化管出血、胆道出血では肝内仮性動脈瘤を念頭におき、内視鏡検査、血管造影にてその原因を明確にし、仮性動脈瘤には選択的動脈塞栓術(TAE)を行うべきと考えられた。[EOS]"}
+{"ID": [74, 15], "entities": [], "annotated_sentence": "1症例は治療期間中のALB値が不明であった。", "generated": "[EOS]"}
+{"ID": [64, 12], "entities": [], "annotated_sentence": "針生検による検索では,縦隔の異所性甲状腺組織,或いは,唾液腺組織の悪性腫瘍が最も疑われた。", "generated": "針生検による検索では,縦隔の異所性甲状腺組織,或いは,唾液腺組織の悪性腫瘍が最も疑われた。[EOS]"}
+{"ID": [92, 3], "entities": [], "annotated_sentence": "胸水はありません。", "generated": "胸水はありません。[EOS]"}
+{"ID": [102, 1], "entities": [], "annotated_sentence": "左肺下葉S6のGGNは⻑径9mm→12mm大と増大しており、内部に僅かにsolidpartを認めます。経", "generated": "左肺下葉S6のGGNは⻑径9mm→12mm大と増大しており、内部に僅かにsolidpartを認めます。[EOS]"}
+{"ID": [65, 8], "entities": [], "annotated_sentence": "5)尿管を確保し,尿管の切断端からネラトンカテーテルを挿入して腎孟内の尿を吸引除去(580ml)。", "generated": "尿管を確保し,尿管の切断端からネラトンカテーテルを挿入して腎孟内の尿を吸引除去(580ml)。[EOS]"}
+{"ID": [41, 17], "entities": [], "annotated_sentence": "介入により疼痛関連指標や心理・精神状態、活動性は改善したが、身体機能の改善は概ね歩行関連指標に限られた。", "generated": "介入により疼痛関連指標や心理・精神状態、活動性は改善したが、身体機能の改善は概ね歩行関連指標に限られた。[EOS]"}
+{"ID": [10, 8], "entities": [], "annotated_sentence": "肝や副腎は撮像範囲外であり、転移の評価はできません。", "generated": "<m-key>肝</m-key><m-val>や副腎</m-val>は撮像範囲外であり、転移の評価はできません。[EOS]"}
+{"ID": [107, 13], "entities": [], "annotated_sentence": "【手術所見】左側臥位で手術を行った。", "generated": "[EOS]"}
+{"ID": [139, 12], "entities": [], "annotated_sentence": "術後経過は良好で術後10日目に退院.", "generated": "術後経過は良好で術後10日目に退院.[EOS]"}
+{"ID": [103, 3], "entities": [], "annotated_sentence": "肝障害は頻度が高いirAEsで,添付文書によると肝障害・肝炎は合わせて10%程度認める.", "generated": "肝障害は頻度が高いirAEsで,添付文書によると肝障害・肝炎は合わせて<m-val>10%</m-val>程度認める.[EOS]"}
+{"ID": [138, 1], "entities": [], "annotated_sentence": "症例は53歳、男性。", "generated": "[EOS]"}
+{"ID": [69, 5], "entities": [], "annotated_sentence": "その後に左腋窩リンパ節転移、子宮転移、腹膜播種が出現。", "generated": "その後に左腋窩リンパ節転移、子宮転移、腹膜播種が出現。[EOS]"}
+{"ID": [64, 10], "entities": [], "annotated_sentence": "両側腋窩リンパ節を触知し,心嚢液は次第に血性になったため,リンパ節生検を施行。", "generated": "両側腋窩リンパ節を触知し,心嚢液は次第に血性になったため,リンパ節生検を施行。[EOS]"}
+{"ID": [5, 8], "entities": [], "annotated_sentence": "本研究の目的は,歩数計を用いたセルフトレーニングが腰椎椎体骨折患者の身体機能に与える効果を検証することである。", "generated": "本研究の目的は,歩数計を用いたセルフトレーニングが腰椎椎体骨折患者の身体機能に与える効果を検証することである。[EOS]"}
+{"ID": [70, 14], "entities": [], "annotated_sentence": "乳癌切除標本を取り寄せ再評価したところ、小腸病変と同様CK7(+),CK20(-),ER(+),E-cadherin(-)を示し浸潤性小葉癌であった。", "generated": "乳癌切除標本を取り寄せ再評価したところ、小腸病変と同様<m-key>CK7</m-key><m-val>(+)</m-val>,<m-key>CK20</m-key><m-val>(-)</m-val>,<m-key>ER</m-key><m-val>(+)</m-val>,<m-key>E-cadherin</m-key><m"}
+{"ID": [61, 3], "entities": [], "annotated_sentence": "また,陸上選手に多い疾患と報告されているが,走行量が多い他のスポーツでも発症する報告が散見される。", "generated": "また,陸上選手に多い疾患と報告されているが,走行量が多い他のスポーツでも発症する報告が散見される。[EOS]"}
+{"ID": [37, 6], "entities": [], "annotated_sentence": "入院日のカンファレンスで医師、看護師、理学療法士で腹臥位療法の必要性について検討した。", "generated": "入院日のカンファレンスで医師、看護師、理学療法士で腹臥位療法の必要性について検討した。[EOS]"}
+{"ID": [103, 1], "entities": [{"name": "免疫チェックポイント阻害剤", "span": [5, 18], "type_id": 34, "type": "m-key_other"}], "annotated_sentence": " 【目的】<m-key state=\"other\">免疫チェックポイント阻害剤</m-key>は免疫系を阻害することで抗腫瘍効果を示す.", "generated": "【目的】免疫チェックポイント阻害剤は免疫系を阻害することで抗腫瘍効果を示す.[EOS]"}
+{"ID": [104, 7], "entities": [{"name": "抗PD1抗体", "span": [47, 53], "type_id": 31, "type": "m-key_executed"}, {"name": "ニボルマブ", "span": [54, 59], "type_id": 31, "type": "m-key_executed"}], "annotated_sentence": "飲酒歴:なし,現病歴:20XX-1年6月より肺転移を伴う外陰部悪性黒色腫に対して,当院皮膚科で<m-key state=\"executed\">抗PD1抗体</m-key>の<m-key state=\"executed\">ニボルマブ</m-key>が開始された.", "generated": "飲酒歴:なし,現病歴:20XX-1年6月より肺転移を伴う外陰部悪性黒色腫に対して,<m-key>ニボルマブ</m-key><m-val>が開始された.</m-val>[EOS]"}
+{"ID": [5, 29], "entities": [], "annotated_sentence": "【結論】", "generated": "[EOS]"}
+{"ID": [74, 10], "entities": [], "annotated_sentence": "通常の看護師によるスキンケアは実施した。", "generated": "通常の看護師によるスキンケアは実施した。[EOS]"}
+{"ID": [54, 7], "entities": [{"name": "プレドニゾロン(PSL)", "span": [0, 12], "type_id": 31, "type": "m-key_executed"}, {"name": "15mg/日", "span": [12, 18], "type_id": 35, "type": "m-val_"}], "annotated_sentence": "<m-key state=\"executed\">プレドニゾロン(PSL)</m-key><m-val>15mg/日</m-val>内服し,血清クレアチンキナーゼ(CK)は125U/Lで正常値であった.", "generated": "プレドニゾロン(PSL)<m-key>15mg/日</m-val>内服し,血清クレアチンキナーゼ(CK)は<m-val>125U/L</m-val>で正常値であった.[EOS]"}
+{"ID": [7, 7], "entities": [], "annotated_sentence": "理学療法の内容は呼吸訓練、咳嗽訓練(息こらえ・随意的咳嗽訓練)、運動療法(関節可動域・筋力増強・歩行訓練)、ADL訓練である。", "generated": "理学療法の内容は呼吸訓練、咳嗽訓練(息こらえ・随意的咳嗽訓練)、運動療法(関節可動域・筋力増強・歩行訓練)、ADL訓練である。[EOS]"}
+{"ID": [124, 5], "entities": [], "annotated_sentence": "胸部下部食道傍リンパ節(110)と中部食道は異常高集積であるも,肺門,縦隔リンパ節は低集積であり食道癌と悪性リンパ腫の合併が疑われた.", "generated": "胸部下部食道傍リンパ節(110)と中部食道は異常高集積であるも,肺門,縦隔リンパ節は低集積であり食道癌と悪性リンパ腫の合併が疑われた.[EOS]"}
+{"ID": [14, 3], "entities": [], "annotated_sentence": "症例は60歳代の女性.", "generated": "[EOS]"}
+{"ID": [120, 11], "entities": [{"name": "ゲル化栄養剤", "span": [22, 28], "type_id": 31, "type": "m-key_executed"}], "annotated_sentence": "今回,胃が小さく,胃瘻も細い1歳児においても<m-key state=\"executed\">ゲル化栄養剤</m-key>のワンショット注入は可能であり,患児および介護者の負担が減り,QOLの向上に貢献した.", "generated": "今回,胃が小さく,胃瘻も細い1歳児においても<m-key>ゲル化栄養剤</m-key><m-val>のワンショット注入は可能であり,患児および介護者の負担が減り,QOLの向上に貢献した.[EOS]"}
+{"ID": [7, 8], "entities": [], "annotated_sentence": "<現症>BH170cm,BW84kg,BT38.5°C,BP124/74mmHg,PRlO2/分,頚部リンパ節触知(母指頭大数個)吸気,呼気ともに乾性ラ音聴取 全身に融合傾向を示す落屑性紅斑.", "generated": "BH170cm,BW84kg,BT38.5°C,BP124/74mmHg,PRlO2/分,頚部リンパ節触知(母指頭大数個)吸気,呼気ともに乾性ラ音聴取 全身に融合傾向を示す落屑性紅斑.[EOS]"}
+{"ID": [65, 2], "entities": [], "annotated_sentence": "葉間胸膜に広く接していますが,左肺下葉への進展は指摘できません。", "generated": "葉間胸膜に広く接していますが,左肺下葉への進展は指摘できません。[EOS]"}
+{"ID": [21, 3], "entities": [{"name": "DCV+ASV", "span": [38, 45], "type_id": 31, "type": "m-key_executed"}], "annotated_sentence": "【既往歴】X-11年:慢性C型肝炎IFN治療,X-1年:C型肝硬変経口2剤(<m-key state=\"executed\">DCV+ASV</m-key>) SVR, X-1年12月11日:大動脈弁狭窄症 TAVI", "generated": "<m-key>慢性C型肝炎</m-key><m-val>IFN治療</m-val>,<m-key>C型肝硬変</m-key><m-val>経口2剤(DCV+ASV) SVR</m-val>,<m-key>大動脈弁狭窄症</m-key><m-val>TAVI</m-val>[EOS]"}
+{"ID": [13, 7], "entities": [{"name": "鎮痛剤", "span": [14, 17], "type_id": 31, "type": "m-key_executed"}], "annotated_sentence": "現病歴は起床時に頸部痛出現,<m-key state=\"executed\">鎮痛剤</m-key>にて症状消失。", "generated": "現病歴は起床時に頸部痛出現,鎮痛剤にて症状消失。[EOS]"}
+{"ID": [71, 27], "entities": [], "annotated_sentence": "その結果,5ヶ月後には移乗動作までが可能となった。", "generated": "その結果,5ヶ月後には移乗動作までが可能となった。[EOS]"}
+{"ID": [63, 3], "entities": [], "annotated_sentence": "異型腺腫様過形成または微小浸潤腺癌なども鑑別にあがる所見であり,引き続き慎重なfollowupが望まれます。", "generated": "異型腺腫様過形成または微小浸潤腺癌なども鑑別にあがる所見であり,引き続き慎重なfollowupが望まれます。[EOS]"}
+{"ID": [3, 9], "entities": [{"name": "アセタゾラミド", "span": [7, 14], "type_id": 31, "type": "m-key_executed"}, {"name": "250mg", "span": [14, 19], "type_id": 35, "type": "m-val_"}], "annotated_sentence": "内服誘発試験:<m-key state=\"executed\">アセタゾラミド</m-key><m-val>250mg</m-val>投与3時聞後,軀幹,四肢にびまん性紅斑が出現。", "generated": "内服誘発試験:アセタゾラミド<m-key>250mg</m-val>投与3時聞後,軀幹,四肢にびまん性紅斑が出現。[EOS]"}
+{"ID": [102, 5], "entities": [], "annotated_sentence": "有意なリンパ節腫大や胸水は認めません。", "generated": "[EOS]"}
+{"ID": [101, 16], "entities": [], "annotated_sentence": "以上の結果より左乳房部分切除術を選択し、最終病理診断で断端陰性とされた。", "generated": "以上の結果より左乳房部分切除術を選択し、最終病理診断で断端陰性とされた。[EOS]"}
+{"ID": [17, 11], "entities": [], "annotated_sentence": "肝内に多発性の腫瘤を認めます。単純CTが無く、造影効果は判断できませんが、一元的に転移と考えます。", "generated": "肝内に多発性の腫瘤を認めます。単純CTが無く、造影効果は判断できませんが、一元的に転移と考えます。[EOS]"}
+{"ID": [19, 3], "entities": [], "annotated_sentence": "55年頃,両手掌,足底に膿疱出現。", "generated": "55年頃,両手掌,足底に膿疱出現。[EOS]"}
+{"ID": [81, 1], "entities": [], "annotated_sentence": "両下葉に線状索状影を認め陳旧性炎症性変化が疑われます。", "generated": "両下葉に線状索状影を認め陳旧性炎症性変化が疑われます。[EOS]"}
+{"ID": [84, 15], "entities": [], "annotated_sentence": "当科で胆嚢摘出兼肝外胆道切除再建術の分流手術を施行した。", "generated": "当科で胆嚢摘出兼肝外胆道切除再建術の分流手術を施行した。[EOS]"}
+{"ID": [46, 14], "entities": [], "annotated_sentence": "10ヶ月ではおもちゃに手を伸ばす動作がみられたが手指で掴む動作はみられなかった。", "generated": "10ヶ月ではおもちゃに手を伸ばす動作がみられたが手指で掴む動作はみられなかった。[EOS]"}
+{"ID": [0, 6], "entities": [], "annotated_sentence": "温熱負荷試験として45°Cに温めたビーカーを皮膚に5分間接触させたころ同部に限局して膨疹を認めた.", "generated": "温熱負荷試験として45°Cに温めたビーカーを皮膚に5分間接触させたころ同部に限局して膨疹を認めた.[EOS]"}
+{"ID": [46, 1], "entities": [], "annotated_sentence": "【背景】 Helicobacter cinaedi (H.cinaedi)は1980年代に発見されたグラム陰性らせん状桿菌である.", "generated": "【背景】 Helicobacter cinaedi (H.cinaedi)は1980年代に発見されたグラム陰性らせん状桿菌である.[EOS]"}
+{"ID": [25, 1], "entities": [], "annotated_sentence": "【目的】進行胃癌の患者にS-1+CDDP療法が広く行われているが、支持療法を考慮すると薬剤の種類が多く投与時間が長いため治療イメージが困難であった。", "generated": "【目的】進行胃癌の患者に<m-key>S-1</m-key>+<m-key>CDDP</m-key>療法が広く行われているが、支持療法を考慮すると薬剤の種類が多く投与時間が長いため治療イメージが困難であった。[EOS]\n\n---"}
+{"ID": [40, 13], "entities": [], "annotated_sentence": "考察:PBCの皮膚所見として黄色腫の記載はしばしばみられるが,本例は広汎,多彩である点が特異的と思われる。", "generated": "考察:PBCの皮膚所見として黄色腫の記載はしばしばみられるが,本例は広汎,多彩である点が特異的と思われる。[EOS]"}
+{"ID": [78, 6], "entities": [], "annotated_sentence": "診断経緯は先行癌の診療の中でみつかったもの1例,検診でみつかったもの1例,他の3例は症状を訴えて直接当該診療科を受診していた.", "generated": "診断経緯は先行癌の診療の中でみつかったもの1例,検診でみつかったもの1例,他の3例は症状を訴えて直接当該診療科を受診していた.[EOS]"}
+{"ID": [46, 10], "entities": [], "annotated_sentence": "また関節可動域制限はなく介入ではリラクゼーションを目的としたポジショニングを実施した。", "generated": "また関節可動域制限はなく介入ではリラクゼーションを目的としたポジショニングを実施した。[EOS]"}
+{"ID": [97, 1], "entities": [], "annotated_sentence": "症例は64歳男性.", "generated": "[EOS]"}
+{"ID": [76, 9], "entities": [], "annotated_sentence": "開腹するとS状結腸穿孔が認められたため、穿孔部位を切離し人工肛門を造設した。", "generated": "開腹するとS状結腸穿孔が認められたため、穿孔部位を切離し人工肛門を造設した。[EOS]"}
+{"ID": [96, 7], "entities": [], "annotated_sentence": "BMI27.7とやや肥満があり,精神神経症状やKayser-Fleisher角膜輪は認めなかった.", "generated": "BMI27.7とやや肥満があり,精神神経症状やKayser-Fleisher角膜輪は認めなかった.[EOS]"}
+{"ID": [116, 7], "entities": [], "annotated_sentence": "直接型優位のBil上昇, PT74%と軽度低下し, CTで急性肝炎を疑う所見", "generated": "直接型優位のBil上昇, PT74%と軽度低下し, CTで急性肝炎を疑う所見[EOS]"}
+{"ID": [2, 5], "entities": [], "annotated_sentence": "【方法】", "generated": "[EOS]"}
+{"ID": [30, 20], "entities": [], "annotated_sentence": "結果的に空腹時血糖値112mg/dl、食後2時間値142mg/dlまでコントロール可能となってきた。", "generated": "結果的に空腹時血糖値<m-val>112mg/dl</m-val>、食後2時間値<m-val>142mg/dl</m-val>までコントロール可能となってきた。[EOS]"}
+{"ID": [12, 6], "entities": [], "annotated_sentence": "現症:左大腿伸側に鶏卵大の皮下の硬結を1個触知する。", "generated": "現症:左大腿伸側に<m-key>鶏卵大</m-key>の皮下の硬結を1個触知する。[EOS]"}
+{"ID": [3, 8], "entities": [{"name": "VCM", "span": [78, 81], "type_id": 31, "type": "m-key_executed"}], "annotated_sentence": "【結果・考察】AUC/MICの比較において、有効例では346±137μg/mL・hr、無効例では279±94μg/mL・hrと有意差を認め(p<0.05)、<m-key state=\"executed\">VCM</m-key>有効例での無効例に対するオッズ比(OR)はAUC/MIC≧350でOR=6.30(1.33-29.9)であった。", "generated": "【結果・考察】AUC/MICの比較において、有効例では<m-key>346±137μg/mL・hr</m-key><m-val>、無効例では279±94μg/mL・hrと有意差を認め(p<0.05)、VCM有効例での無効例に対するオッズ比(OR)はAUC/MIC≧350でOR=6.30(1.33-"}
+{"ID": [55, 4], "entities": [], "annotated_sentence": "しかしながら、DICからMOFへ進行し、心肺停止となったが、蘇生不能であり死亡した。", "generated": "しかしながら、DICからMOFへ進行し、心肺停止となったが、蘇生不能であり死亡した。[EOS]"}
+{"ID": [72, 4], "entities": [{"name": "PSL", "span": [30, 33], "type_id": 31, "type": "m-key_executed"}], "annotated_sentence": "昭和60年8月よりSjogren syndromeの診断にて<m-key state=\"executed\">PSL</m-key>投与するも環状紅斑の出没を繰りかえした。", "generated": "昭和60年8月よりSjogren syndromeの診断にて<m-key>PSL</m-key><m-val>投与するも環状紅斑の出没を繰りかえした。[EOS]"}
+{"ID": [84, 3], "entities": [], "annotated_sentence": "同側縦隔や上縦隔には病的腫大したリンパ節が複数認められ、転移が示唆されます(N2)。", "generated": "同側縦隔や上縦隔には病的腫大したリンパ節が複数認められ、転移が示唆されます(N2)。[EOS]"}
+{"ID": [10, 8], "entities": [], "annotated_sentence": "他のM因子は判断できず、MXです。", "generated": "他のM因子は判断できず、MXです。[EOS]"}
+{"ID": [21, 22], "entities": [], "annotated_sentence": "その結果膝外側動揺や体幹動揺の軽減につながり、歩行の安定性が向上し上記のような結果が得られたと考える。", "generated": "その結果膝外側動揺や体幹動揺の軽減につながり、歩行の安定性が向上し上記のような結果が得られたと考える。[EOS]"}
+{"ID": [51, 12], "entities": [], "annotated_sentence": "病理組織学:真皮内に,中心部に乾酪壊死を有し,類上皮細胞とリンパ球に囲まれた結節がみられた。", "generated": "真皮内に,中心部に乾酪壊死を有し,類上皮細胞とリンパ球に囲まれた結節がみられた。[EOS]"}
+{"ID": [65, 5], "entities": [], "annotated_sentence": "2)第12肋骨先端を切除して後腹膜腔に入った。", "generated": "2)第12肋骨先端を切除して後腹膜腔に入った。[EOS]"}
+{"ID": [87, 2], "entities": [], "annotated_sentence": "心拡大ありません。", "generated": "[EOS]"}
+{"ID": [51, 4], "entities": [], "annotated_sentence": "背景肺には気腫が目立ちます。", "generated": "[EOS]"}
+{"ID": [49, 3], "entities": [], "annotated_sentence": "しかし、日本国内のカイドラインに詳細なIP管理についての記述は無く、治療方法は標準化されていない。", "generated": "日本国内のカイドラインに詳細なIP管理についての記述は無く,治療方法は標準化されていない。[EOS]"}
+{"ID": [7, 8], "entities": [], "annotated_sentence": "身体計測は身長・体重・BMIを、知的機能はMMSEを測定した。", "generated": "身体計測は身長・体重・BMIを、知的機能はMMSEを測定した。[EOS]"}
+{"ID": [94, 5], "entities": [], "annotated_sentence": "その他、撮像内の腹部に特記所見ありません。", "generated": "その他、撮像内の腹部に特記所見ありません。[EOS]"}
+{"ID": [0, 9], "entities": [], "annotated_sentence": "38°Cの湯の温浴陰性で水性葦麻疹を否定, ice cube test陰性から寒冷葦麻疹を否定,温熱負荷試験陽性から温熱葦麻疹と診断した.", "generated": "38°Cの湯の温浴陰性で水性葦麻疹を否定, ice cube test陰性から寒冷葦麻疹を否定,温熱負荷試験陽性から温熱葦麻疹と診断した.[EOS]"}
+{"ID": [2, 6], "entities": [], "annotated_sentence": "1)経過:平成30年3月29日回復期病院退院→4月5日訪問リハビリ開始(週2回:PT1/ST1)→16日通所リハビリ開始(週1回:ST)", "generated": "<m-key>回復期病院</m-key>退院→<m-key>訪問リハビリ</m-key>開始(週2回:PT1/ST1)→<m-key>通所リハビリ</m-key>開始(週1回:ST)[EOS]"}
+{"ID": [130, 11], "entities": [], "annotated_sentence": "ツ反陰性。", "generated": "[EOS]"}
+{"ID": [11, 8], "entities": [], "annotated_sentence": "リンパ節は摘出が困難と思われたため,本年1月にCTx(CDDP-5FU)を1コース施行。", "generated": "リンパ節は摘出が困難と思われたため,本年1月に<m-key>CTx</m-key><m-val>(<m-key>CDDP</m-key><m-val>-</m-val><m-key>5FU</m-key><m-val>)<m-val>を1コース施行。[EOS]"}
+{"ID": [27, 3], "entities": [], "annotated_sentence": "その他肺野に明らかな異常陰影指摘できません。", "generated": "その他肺野に明らかな異常陰影指摘できません。[EOS]"}
+{"ID": [1, 17], "entities": [], "annotated_sentence": "実施期間は,4月22日から7月9日までの11週と1日。", "generated": "実施期間は,4月22日から7月9日までの11週と1日。[EOS]"}
+{"ID": [2, 7], "entities": [{"name": "NBCA", "span": [63, 67], "type_id": 31, "type": "m-key_executed"}], "annotated_sentence": "入院後、超音波(US)、CTを用いて、既知のELが、流入路が腰動脈や正中仙骨動脈であるtype2ELであることを確認した後に、<m-key state=\"executed\">NBCA</m-key>を用い、US・CTガイド下経皮的腹部大動脈瘤穿刺塞栓術を行った。", "generated": "<m-key>EL</m-key><m-val>流入路が腰動脈や正中仙骨動脈であるtype2EL</m-val>であることを確認した後に、<m-key>NBCA</m-key>を用い、<m-key>US</m-key><m-val>・</m-val><m-key>CT</m-key><m-val>ガイド下経皮的腹部大動脈瘤穿"}
+{"ID": [46, 1], "entities": [], "annotated_sentence": "右肺上葉には胸膜直下に小結節が認められますが、10年前から認められており、陳旧性炎症性変化と考えます。", "generated": "右肺上葉には胸膜直下に小結節が認められますが、10年前から認められており、陳旧性炎症性変化と考えます。[EOS]"}
+{"ID": [11, 2], "entities": [], "annotated_sentence": "今回我々は,表面の毛細血管増生所見に乏しく嚢胞の様相を呈して上皮下浸潤し,その後,小潰瘍を形成した時点で診断し得た表在癌の1症例を報告する。", "generated": "今回我々は,表面の毛細血管増生所見に乏しく嚢胞の様相を呈して上皮下浸潤し,その後,小潰瘍を形成した時点で診断し得た表在癌の1症例を報告する。[EOS]"}
+{"ID": [23, 3], "entities": [], "annotated_sentence": "両側肺門や気管分岐下の縦隔リンパ節は腫大が見られ、転移を疑います(cN3)。両側少量胸水を認めます。", "generated": "両側肺門や気管分岐下の縦隔リンパ節は腫大が見られ、転移を疑います(cN3)。両側少量胸水を認めます。[EOS]"}
+{"ID": [26, 13], "entities": [], "annotated_sentence": "バギーを使用した座位練習より開始し、次いで床座位、椅座位、端座位と段階を上げていった。", "generated": "バギーを使用した座位練習より開始し、次いで床座位、椅座位、端座位と段階を上げていった。[EOS]"}
+{"ID": [28, 10], "entities": [], "annotated_sentence": "造影CTにて肝内シャントのみで肝外にはシャントを認めなかった.", "generated": "造影CTにて肝内シャントのみで肝外にはシャントを認めなかった.[EOS]"}
+{"ID": [13, 2], "entities": [], "annotated_sentence": "病変は縦隔胸膜と広く接し胸膜浸潤と考えます。", "generated": "病変は縦隔胸膜と広く接し胸膜浸潤と考えます。[EOS]"}
+{"ID": [84, 5], "entities": [], "annotated_sentence": "5年前から変形性膝関節症で治療中。", "generated": "変形性膝関節症で治療中。[EOS]"}
+{"ID": [18, 4], "entities": [], "annotated_sentence": "また,そのリハビリテーションに関しては,ごくわずかな症例報告があるが,効果的な運動療法については明確になっていない。", "generated": "また,そのリハビリテーションに関しては,ごくわずかな症例報告があるが,効果的な運動療法については明確になっていない。[EOS]"}
+{"ID": [65, 1], "entities": [], "annotated_sentence": "【目的】実質の菲薄化した大きな水腎症に対して2横指(4cm)の切開創から腎摘を行った。", "generated": "実質の菲薄化した大きな水腎症に対して2横指(4cm)の切開創から腎摘を行った。[EOS]"}
+{"ID": [131, 15], "entities": [{"name": "放射線", "span": [0, 3], "type_id": 36, "type": "m-val_negated"}, {"name": "ヒ素", "span": [7, 9], "type_id": 36, "type": "m-val_negated"}], "annotated_sentence": "<m-val state=\"negated\">放射線</m-val>あるいは<m-val state=\"negated\">ヒ素</m-val>による治療歴(-)。", "generated": "放射線あるいはヒ素による治療歴(-)。[EOS]"}
+{"ID": [9, 5], "entities": [], "annotated_sentence": "以上より、肺癌cT4N3M1cと考えます。", "generated": "以上より、肺癌cT4N3M1cと考えます。[EOS]"}
+{"ID": [108, 11], "entities": [], "annotated_sentence": "また、試験的に開腹し腹腔内を観察したが明らかな腹腔内出血はみられなかった。", "generated": "また、試験的に開腹し腹腔内を観察したが明らかな腹腔内出血はみられなかった。[EOS]"}
+{"ID": [142, 1], "entities": [], "annotated_sentence": "3才,男児。", "generated": "[EOS]"}
+{"ID": [144, 14], "entities": [{"name": "BCG", "span": [14, 17], "type_id": 31, "type": "m-key_executed"}], "annotated_sentence": "6月29日より再発予防目的に<m-key state=\"executed\">BCG</m-key>膀胱内注入8回施行した。", "generated": "6月29日より再発予防目的に<m-key>BCG</m-key><m-val>膀胱内注入8回</m-val>施行した。[EOS]"}
+{"ID": [66, 29], "entities": [], "annotated_sentence": "本症例は手術により下肢のアライメントを整えたことで介助歩行を獲得し、歩行機能を維持している。", "generated": "本症例は手術により下肢のアライメントを整えたことで介助歩行を獲得し、歩行機能を維持している。[EOS]"}
+{"ID": [45, 5], "entities": [], "annotated_sentence": "そのほか、観察範囲に明らかな異常は指摘できません。", "generated": "そのほか、観察範囲に明らかな異常は指摘できません。[EOS]"}
+{"ID": [87, 2], "entities": [], "annotated_sentence": "【対象と方法】当科ではTUEBを2008年3月より導入し、2008年9月までに23例のBPH患者に対して施行した。", "generated": "【対象と方法】当科ではTUEBを2008年3月より導入し、2008年9月までに23例のBPH患者に対して<m-key>TUEB</m-key><m-val>を施行した。[EOS]"}
+{"ID": [127, 15], "entities": [], "annotated_sentence": "病理の結果,組織学的効果はgrade3で癌組織は認められず,pCRの結果を得た.", "generated": "病理の結果,組織学的効果はgrade3で癌組織は認められず,<m-key>pCR</m-key>の結果を得た.[EOS]"}
+{"ID": [1, 35], "entities": [], "annotated_sentence": "【まとめ】", "generated": "[EOS]"}
+{"ID": [7, 4], "entities": [], "annotated_sentence": "肺転移を疑う病変は指摘できません。", "generated": "肺転移を疑う病変は指摘できません。[EOS]"}
+{"ID": [25, 7], "entities": [], "annotated_sentence": "9月に嘔気も出現し近医受診したところ、腹部CTにて胃癌・癌性腹膜炎と診断され、精査加療目的に当院紹介受診。", "generated": "9月に嘔気も出現し近医受診したところ、腹部CTにて胃癌・癌性腹膜炎と診断され、精査加療目的に<m-key>当院</m-key>紹介受診。[EOS]"}
+{"ID": [103, 8], "entities": [{"name": "pembrolizumab", "span": [20, 33], "type_id": 31, "type": "m-key_executed"}, {"name": "200mg", "span": [34, 39], "type_id": 35, "type": "m-val_"}], "annotated_sentence": "PD-L1発現が確認されたため12月より<m-key state=\"executed\">pembrolizumab</m-key>を<m-val>200mg</m-val>投与,3週間間隔で投与開始した.", "generated": "PD-L1発現が確認されたため12月より<m-key>pembrolizumab</m-key><m-val>200mg</m-val>投与,3週間間隔で投与開始した.[EOS]"}
+{"ID": [21, 13], "entities": [], "annotated_sentence": "治療は問題なく終了し,術後大きな偶発症なく経過した.", "generated": "治療は問題なく終了し,術後大きな偶発症なく経過した.[EOS]"}
+{"ID": [84, 10], "entities": [], "annotated_sentence": "共通管長は7mmであった。", "generated": "共通管長は7mmであった。[EOS]"}
+{"ID": [54, 3], "entities": [], "annotated_sentence": "Slow training(ST)は,筋を弛緩させずに収縮時間を長く保ち,筋血流の制限や,多くの運動単位の動員を促す低負荷筋力増強訓練である.", "generated": "Slow training(ST)は,筋を弛緩させずに収縮時間を長く保ち,筋血流の制限や,多くの運動単位の動員を促す低負荷筋力増強訓練である.[EOS]"}
+{"ID": [32, 8], "entities": [], "annotated_sentence": "握力22.9kg、日常生活動作は自立であった。", "generated": "握力22.9kg、日常生活動作は自立であった。[EOS]"}
+{"ID": [41, 8], "entities": [], "annotated_sentence": "重度の右変形性膝関節症で半年程前から右膝に強い痛み(VASで常に100mm)を自覚している。", "generated": "重度の右変形性膝関節症で半年程前から右膝に強い痛み(VASで常に100mm)を自覚している。[EOS]"}
+{"ID": [58, 2], "entities": [], "annotated_sentence": "右下腹部痛を主訴に近医受診し、急性虫垂炎の診断にて手術目的のため当科紹介された。", "generated": "右下腹部痛を主訴に近医受診し、急性虫垂炎の診断にて手術目的のため当科紹介された。[EOS]"}
+{"ID": [59, 9], "entities": [], "annotated_sentence": "術後1日日より理学療法を開始.", "generated": "術後1日日より理学療法を開始.[EOS]"}
+{"ID": [72, 3], "entities": [], "annotated_sentence": "左鎖骨上窩に腫大リンパ節を認め転移が疑われます。", "generated": "左鎖骨上窩に腫大リンパ節を認め転移が疑われます。[EOS]"}
+{"ID": [32, 12], "entities": [], "annotated_sentence": "本人・家族の希望により約半年後に生体肝移植が施行された.", "generated": "本人・家族の希望により約半年後に生体肝移植が施行された.[EOS]"}
+{"ID": [27, 4], "entities": [], "annotated_sentence": "【症例紹介】", "generated": "[EOS]"}
+{"ID": [54, 12], "entities": [], "annotated_sentence": "【経過】歩行やADLなどの動作訓練に加え,股関節外転筋に対して左右でそれぞれ異なる2条件で筋力増強訓練を週3回,8週間実施した.", "generated": "【経過】歩行やADLなどの動作訓練に加え,股関節外転筋に対して左右でそれぞれ異なる2条件で筋力増強訓練を週3回,8週間実施した.[EOS]"}
+{"ID": [96, 2], "entities": [], "annotated_sentence": "気管分岐周囲リンパ節、大動脈傍リンパ節、左鎖骨上窩リンパ節に腫大したリンパ節を認めており、リンパ節転移を疑います。N3と思われます。", "generated": "気管分岐周囲リンパ節、大動脈傍リンパ節、左鎖骨上窩リンパ節に腫大したリンパ節を認めており、リンパ節転移を疑います。N3と思われます。[EOS]"}
+{"ID": [13, 23], "entities": [], "annotated_sentence": "本症例により,若年で発症した頸椎症に対しても,姿勢指導や運動療法が有効であるということが示唆された。", "generated": "本症例により,若年で発症した頸椎症に対しても,姿勢指導や運動療法が有効であるということが示唆された。[EOS]"}
+{"ID": [48, 1], "entities": [], "annotated_sentence": "肺に結節影を指摘できません。肺転移を疑うような所見は認めません。", "generated": "肺に結節影を指摘できません。肺転移を疑うような所見は認めません。[EOS]"}
+{"ID": [55, 1], "entities": [], "annotated_sentence": "近年、当院では、高齢者の歯科疾患からの感染が誘因となる心肺停止症例を経験しているため報告する。", "generated": "近年、当院では、高齢者の歯科疾患からの感染が誘因となる心肺停止症例を経験しているため報告する。[EOS]"}
+{"ID": [104, 13], "entities": [], "annotated_sentence": "腹部エコーでは,肝臓に形態変化はなく,胆管に有意所見は認めなかった.", "generated": "腹部エコーでは,肝臓に形態変化はなく,胆管に有意所見は認めなかった.[EOS]"}
+{"ID": [143, 8], "entities": [], "annotated_sentence": "組織学的所見:顔面,上腕,足外側縁から生検したが,いずれも類上皮細胞肉芽腫を有する臨床像に一致する皮膚サルコイドの所見を呈した。", "generated": "組織学的所見:顔面,上腕,足外側縁から生検したが,いずれも類上皮細胞肉芽腫を有する臨床像に一致する皮膚サルコイドの所見を呈した。[EOS]"}
+{"ID": [61, 15], "entities": [], "annotated_sentence": "初期評価時は,歩行・走行時,長坐位での右上殿部痛が主訴で,右股関節伸展・外転筋の筋力低下,エリーテストとSLRテストの右側陽性,右片脚立位姿勢不安定と右片脚スクワット時knee-inを認めた。", "generated": "初期評価時は,歩行・走行時,長坐位での右上殿部痛が主訴で,右股関節伸展・外転筋の筋力低下,エリーテストとSLRテストの右側陽性,右片脚立位姿勢不安定と右片脚スクワット時knee-inを認めた。[EOS]"}
+{"ID": [50, 13], "entities": [], "annotated_sentence": "乾燥症状はないもシェーグレン症候群と診断した。", "generated": "乾燥症状はないもシェーグレン症候群と診断した。[EOS]"}
+{"ID": [13, 1], "entities": [], "annotated_sentence": "患者:32歳,男性。", "generated": "[EOS]"}
+{"ID": [29, 9], "entities": [], "annotated_sentence": "今回検討した血液学的因子については関連性のあるものは認められず,今後の検討課題と思われた.", "generated": "今回検討した血液学的因子については関連性のあるものは認められず,今後の検討課題と思われた.[EOS]"}
+{"ID": [78, 1], "entities": [], "annotated_sentence": "【対象と方法】当院で病理組織学的にそれぞれ原発腫瘍と診断された膀胱癌と肺癌の合併患者5例を選択.", "generated": "【対象と方法】当院で病理組織学的にそれぞれ原発腫瘍と診断された膀胱癌と肺癌の合併患者5例を選択.[EOS]"}
+{"ID": [56, 6], "entities": [], "annotated_sentence": "術後癒着性イレウスと診断,禁飲食と経鼻胃管による胃内減圧で症状は改善した.", "generated": "術後癒着性イレウスと診断,禁飲食と経鼻胃管による胃内減圧で症状は改善した.[EOS]"}
+{"ID": [71, 8], "entities": [], "annotated_sentence": "その後,症状は軽快したがイレウス症状を繰り返した.", "generated": "その後,症状は軽快したがイレウス症状を繰り返した.[EOS]"}
+{"ID": [16, 9], "entities": [], "annotated_sentence": "症例Bは3歳男児.", "generated": "[EOS]"}
+{"ID": [38, 22], "entities": [], "annotated_sentence": "骨格筋に対する振動刺激は脊髄内の介在神経を活性化しシナプス前抑制を介して脊髄運動細胞の興奮性を抑制するとされている。", "generated": "骨格筋に対する振動刺激は脊髄内の介在神経を活性化しシナプス前抑制を介して脊髄運動細胞の興奮性を抑制するとされている。[EOS]"}
+{"ID": [103, 11], "entities": [], "annotated_sentence": "身長163cm,体重66kg. 腹部所見は特に異常を認めず.", "generated": "身長163cm,体重66kg. 腹部所見は特に異常を認めず.[EOS]"}
+{"ID": [6, 13], "entities": [], "annotated_sentence": "この頃までの特徴的な姿勢は、座位での頭部前方偏位、胸椎後彎位、右骨盤後傾位であり、両斜角筋・両僧帽筋や左側の腹部・背部の筋緊張が亢進していた。", "generated": "この頃までの特徴的な姿勢は、座位での頭部前方偏位、胸椎後彎位、右骨盤後傾位であり、両斜角筋・両僧帽筋や左側の腹部・背部の筋緊張が亢進していた。[EOS]"}
+{"ID": [116, 9], "entities": [{"name": "PSL", "span": [8, 11], "type_id": 31, "type": "m-key_executed"}, {"name": "同量", "span": [12, 14], "type_id": 35, "type": "m-val_"}, {"name": "CMZ", "span": [26, 29], "type_id": 31, "type": "m-key_executed"}], "annotated_sentence": "自己中断していた<m-key state=\"executed\">PSL</m-key>を<m-val>同量</m-val>で再開,感染合併を疑われ<m-key state=\"executed\">CMZ</m-key>で加療開始された.", "generated": "自己中断していたPSLを同量で再開,感染合併を疑われ<m-key>CMZ</m-key><m-val>で加療開始された.[EOS]"}
+{"ID": [41, 12], "entities": [], "annotated_sentence": "【介入内容と経過】", "generated": "[EOS]"}
+{"ID": [81, 6], "entities": [{"name": "Tamoxifen", "span": [19, 28], "type_id": 31, "type": "m-key_executed"}, {"name": "20mg/ day", "span": [29, 38], "type_id": 35, "type": "m-val_"}], "annotated_sentence": "術後補助療法は残存乳房への放射線照射と<m-key state=\"executed\">Tamoxifen</m-key> <m-val>20mg/ day</m-val>内服とし無再発生存中である。", "generated": "術後補助療法は残存乳房への放射線照射と<m-key>Tamoxifen</m-key><m-val>20mg/ day</m-val>内服とし無再発生存中である。[EOS]"}
+{"ID": [108, 12], "entities": [], "annotated_sentence": "腹壁損傷部は小さかったため、メッシュは置かず、断裂されている内・外腹斜筋をそれぞれ縫合修復し手術を終了した。", "generated": "腹壁損傷部は小さかったため、メッシュは置かず、断裂されている内・外腹斜筋をそれぞれ縫合修復し手術を終了した。[EOS]"}
+{"ID": [14, 7], "entities": [], "annotated_sentence": "術後経過は順調で,著明なQ.O.L.の改善を得た.", "generated": "術後経過は順調で,著明なQ.O.L.の改善を得た.[EOS]"}
+{"ID": [70, 3], "entities": [], "annotated_sentence": "〔現病歴〕H9年12月肝機能異常と肝内結石を指摘され入院となる。", "generated": "<m-key>H9年12月</m-key>肝機能異常と肝内結石を指摘され入院となる。[EOS]"}
+{"ID": [45, 7], "entities": [], "annotated_sentence": "NIHSS:17点、左片麻痺Br.stage(2.1.2)2病日:開頭血腫除去術を施行3病日:リハビリテーション(以下リハ)科初診4病日:座位・立位・歩行訓練開始5病日:D-dimer19.6と上昇を認めたが、下肢超音波検査では血栓を認めず。", "generated": "NIHSS:17点、左片麻痺Br.stage(2.1.2)2病日:開頭血腫除去術を施行3病日:リハビリテーション(以下リハ)科初診4病日:座位・立位・歩行訓練開始5病日:D-dimer19.6と上昇を認めたが、下肢超音波検査では血栓を認めず。[EOS]"}
+{"ID": [26, 17], "entities": [], "annotated_sentence": "23日目よりリハ室にてバルーン等を使いながら立位、バランス練習を行い、下肢での体重支持を積極的に促した。", "generated": "23日目よりリハ室にてバルーン等を使いながら立位、バランス練習を行い、下肢での体重支持を積極的に促した。[EOS]"}
+{"ID": [115, 6], "entities": [], "annotated_sentence": "術中所見では消化管穿孔はなく、黒色に変色し壊死状の胆嚢を認めた。", "generated": "術中所見では消化管穿孔はなく、黒色に変色し壊死状の胆嚢を認めた。[EOS]"}
+{"ID": [45, 19], "entities": [], "annotated_sentence": "【考察および結論】", "generated": "[EOS]"}
+{"ID": [2, 10], "entities": [], "annotated_sentence": "4)評価指標:低栄養状態に対する指標として,国立長寿医療研究センター・老化に関する長期縦断疫学研究(以下NILS-LSA)と簡易栄養状態評価表(Mini Nutritional Assessment-Short Form:以下MNA-SF)による指標を参考とし,経過を追った.", "generated": "<m-key>低栄養状態</m-key><m-val>に対する指標として,国立長寿医療研究センター・老化に関する長期縦断疫学研究(以下NILS-LSA)と簡易栄養状態評価表(Mini Nutritional Assessment-Short Form:以下MNA-SF)による指標を参考とし,経過を追った.[EOS]"}
+{"ID": [47, 27], "entities": [], "annotated_sentence": "特に,導入早期は入院管理が望ましいと思われる.", "generated": "特に,導入早期は入院管理が望ましいと思われる.[EOS]"}
+{"ID": [62, 1], "entities": [], "annotated_sentence": "その他、肺野に明らかな結節影は指摘できません。", "generated": "その他、肺野に明らかな結節影は指摘できません。[EOS]"}
+{"ID": [67, 1], "entities": [{"name": "メチルフェニデート塩酸塩徐放錠", "span": [32, 47], "type_id": 34, "type": "m-key_other"}, {"name": "コンサータR錠", "span": [48, 55], "type_id": 34, "type": "m-key_other"}, {"name": "OROS-MPH", "span": [60, 68], "type_id": 34, "type": "m-key_other"}], "annotated_sentence": "【背景と目的】現在、本邦におけるAD/HD児に対する薬物治療は、<m-key state=\"other\">メチルフェニデート塩酸塩徐放錠</m-key>(<m-key state=\"other\">コンサータR錠</m-key>:以下、 <m-key state=\"other\">OROS-MPH</m-key>)が用いられている。", "generated": "【背景と目的】現在、本邦におけるAD/HD児に対する薬物治療は、メチルフェニデート塩酸塩徐放錠(コンサータR錠:以下、 <m-key>OROS-MPH</m-key>)が用いられている。[EOS]"}
+{"ID": [32, 10], "entities": [], "annotated_sentence": "近い将来の生命の危険はないと考えられたが,患者は常に易疲労感があり,外出を控えるなど日常生活のQOLは著しく損なわれていた.", "generated": "近い将来の生命の危険はないと考えられたが,患者は常に易疲労感があり,外出を控えるなど日常生活のQOLは著しく損なわれていた.[EOS]"}
+{"ID": [23, 11], "entities": [], "annotated_sentence": "しかし、背側へのアプローチをどこまで行って良いかの判断に迷うこととなり、同部位の郭清が不十分となった可能性は否定できない。", "generated": "しかし、背側へのアプローチをどこまで行って良いかの判断に迷うこととなり、同部位の郭清が不十分となった可能性は否定できない。[EOS]"}
+{"ID": [116, 18], "entities": [{"name": "PSL", "span": [0, 3], "type_id": 31, "type": "m-key_executed"}], "annotated_sentence": "<m-key state=\"executed\">PSL</m-key>漸減後も肝障害の再燃や発熱は認めず,約1カ月の経過で血球減少も改善を認めたため,10月27日退院となった.", "generated": "PSL漸減後も肝障害の再燃や発熱は認めず,約1カ月の経過で血球減少も改善を認めたため,10月27日退院となった.[EOS]"}
+{"ID": [30, 11], "entities": [], "annotated_sentence": "抗生剤治療でも回復せず左大腿切断術を施行。", "generated": "抗生剤治療でも回復せず左大腿切断術を施行。[EOS]"}
+{"ID": [100, 2], "entities": [], "annotated_sentence": "胸水貯留を認めません。", "generated": "胸水貯留を認めません。[EOS]"}
+{"ID": [12, 8], "entities": [], "annotated_sentence": "検査:ツ反陰性,BHL(-),ACE10.41U/l/37°C。", "generated": "検査:ツ反陰性,BHL(-),ACE<m-val>10.41U/l/37°C</m-val>。[EOS]"}
+{"ID": [54, 2], "entities": [], "annotated_sentence": "筋血流を制限して行う加圧トレーニングでは低負荷での筋力増強効果が報告されているが,適応できる筋が限定されるなどの問題がある.", "generated": "筋血流を制限して行う加圧トレーニングでは低負荷での筋力増強効果が報告されているが,適応できる筋が限定されるなどの問題がある.[EOS]"}
+{"ID": [14, 1], "entities": [], "annotated_sentence": "胃切除術後は胃の蠕動や消化機能が低下し,残胃内に食物残渣が停滞することはしばしば経験されるが,吻合部狭窄や胃石が形成されない限り臨床的に問題になることはほとんど無い.", "generated": "胃切除術後は胃の蠕動や消化機能が低下し,残胃内に食物残渣が停滞することはしばしば経験されるが,吻合部狭窄や胃石が形成されない限り臨床的に問題になることはほとんど無い.[EOS]"}
+{"ID": [6, 1], "entities": [], "annotated_sentence": "右下葉S6にも小さな葉間胸膜陥凹を伴う結節を認めます。こちらも肺癌を否定できませんが炎症性結節との鑑別は困難です。生検もしくは厳重経過観察をお願いします。その他には肺野に副腫瘍結節を疑う病変を指摘できません。", "generated": "右下葉S6にも小さな葉間胸膜陥凹を伴う結節を認めます。こちらも肺癌を否定できませんが炎症性結節との鑑別は困難です。生検もしくは厳重経過観察をお願いします。その他には肺野に副腫瘍結節を疑う病変を指摘できません。[EOS]"}
+{"ID": [22, 8], "entities": [], "annotated_sentence": "非治癒切除のSCCの1例では術後高度な上腕リンパ浮腫を経験した。", "generated": "非治癒切除のSCCの1例では術後高度な上腕リンパ浮腫を経験した。[EOS]"}
+{"ID": [8, 1], "entities": [{"name": "キャンディン系抗真菌薬", "span": [7, 18], "type_id": 34, "type": "m-key_other"}, {"name": "ミカファンギン(MCFG)", "span": [19, 32], "type_id": 34, "type": "m-key_other"}], "annotated_sentence": "【背景・目的】<m-key state=\"other\">キャンディン系抗真菌薬</m-key>の<m-key state=\"other\">ミカファンギン(MCFG)</m-key>は Candida属に対して殺菌的に作用し、幅広い抗真菌スペクトルを有する。", "generated": "【背景・目的】キャンディン系抗真菌薬のミカファンギン(MCFG)は Candida属に対して殺菌的に作用し、幅広い抗真菌スペクトルを有する。[EOS]"}
+{"ID": [29, 3], "entities": [], "annotated_sentence": "[対象と方法]慢性肝炎6例,肝硬変16例を対象とした.", "generated": "[対象と方法]慢性肝炎6例,肝硬変16例を対象とした.[EOS]"}
+{"ID": [6, 2], "entities": [], "annotated_sentence": "鎖骨上窩、肺門部、縦隔に転移を疑うような類円形のリンパ節腫大を指摘できません。", "generated": "鎖骨上窩、肺門部、縦隔に転移を疑うような類円形のリンパ節腫大を指摘できません。[EOS]"}
+{"ID": [64, 1], "entities": [], "annotated_sentence": "上記肺癌に連続するように、左心房内に長径85mmの腫瘤を認めます。辺縁がわずかに造影されているようですが、内部はほぼ造影されていません。左肺上葉の腫瘤と性状が似ており、腫瘍浸潤と考えます。T因子はT4と考えます。", "generated": "上記肺癌に連続するように、左心房内に長径85mmの腫瘤を認めます。辺縁がわずかに造影されているようですが、内部はほぼ造影されていません。左肺上葉の腫瘤と性状が似ており、腫瘍浸潤と考えます。T因子はT4と考えます。[EOS]"}
+{"ID": [46, 4], "entities": [], "annotated_sentence": "【症例】61歳,C型非代償性肝硬変の男性.", "generated": "【症例】61歳,C型非代償性肝硬変の男性.[EOS]"}
+{"ID": [137, 4], "entities": [], "annotated_sentence": "シャント閉塞術が成功すれば,局所療法が安全に行えるだけでなく,肝機能が回復し抗ウイルス治療も行えると判断し,シャント閉塞術を目的に某病院に紹介.", "generated": "シャント閉塞術が成功すれば,局所療法が安全に行えるだけでなく,肝機能が回復し抗ウイルス治療も行えると判断し,シャント閉塞術を目的に某病院に紹介.[EOS]"}
+{"ID": [56, 7], "entities": [], "annotated_sentence": "右肺下葉S6に索状影があり,限局性の炎症を疑います。", "generated": "右肺下葉S6に索状影があり,限局性の炎症を疑います。[EOS]"}
+{"ID": [8, 19], "entities": [{"name": "MCFG", "span": [51, 55], "type_id": 31, "type": "m-key_executed"}], "annotated_sentence": "また、いずれの症例においてもMCFG投与期間中に尿培養からの真菌の消失と臨床所見の改善を認めており、 <m-key state=\"executed\">MCFG</m-key>は今回の2症例における尿路感染症に対して有効であったと考える。", "generated": "また、いずれの症例においてもMCFG<m-key>投与期間中</m-key>に尿培養からの真菌の消失と臨床所見の改善を認めており、 MCFGは今回の2症例における尿路感染症に対して有効であったと考える。[EOS]"}
+{"ID": [1, 3], "entities": [], "annotated_sentence": "高齢者が増加する中で,当院では簡便な認知機能の判定評価としてHDS-Rを使用している。", "generated": "高齢者が増加する中で,当院では簡便な認知機能の判定評価として<m-key>HDS-R</m-key>を使用している。[EOS]"}
+{"ID": [30, 24], "entities": [], "annotated_sentence": "ADLにも支障をきたし、仕事は退職を余儀なくされた。", "generated": "ADLにも支障をきたし、仕事は退職を余儀なくされた。[EOS]"}
+{"ID": [18, 5], "entities": [], "annotated_sentence": "今回,当院にてPSP-Cと診断された症例を担当した。", "generated": "今回,<m-key>PSP-C</m-key>と診断された症例を担当した。[EOS]"}
+{"ID": [32, 12], "entities": [], "annotated_sentence": "【経過】", "generated": "[EOS]"}
+{"ID": [129, 15], "entities": [], "annotated_sentence": "【術後経過】術後は胸腹水が貯留することなく経過し,22PODに退院した.", "generated": "【術後経過】術後は胸腹水が貯留することなく経過し,22PODに退院した.[EOS]"}
+{"ID": [44, 2], "entities": [], "annotated_sentence": "腹腔鏡肝生検(S.44.3.27)では腫大した表面平滑な赤褐色肝で組織では小葉構造はまったく整で実質部に異常なく,グ鞘域では拡大,線維増生はなく小葉間小胆管の著減及び中等大胆管の異常を認めた。", "generated": "腹腔鏡肝生検(S.44.3.27)では腫大した表面平滑な赤褐色肝で組織では小葉構造はまったく整で実質部に異常なく,グ鞘域では拡大,線維増生はなく小葉間小胆管の著減及び中等大胆管の異常を認めた。[EOS]"}
+{"ID": [59, 16], "entities": [], "annotated_sentence": "義足完成後(44~103日目),立位で義足側の下肢筋力出力を促通,再就職・趣味活動を想定し,屋外歩行練習や階段動作に対しても介入を行った.", "generated": "義足完成後(44~103日目),立位で義足側の下肢筋力出力を促通,再就職・趣味活動を想定し,屋外歩行練習や階段動作に対しても介入を行った.[EOS]"}
+{"ID": [104, 2], "entities": [], "annotated_sentence": "左肺門部リンパ節、#5,#7縦隔リンパ節が腫大しており転移を疑います。N分類でN2相当と思われます。", "generated": "左肺門部リンパ節、#5,#7縦隔リンパ節が腫大しており転移を疑います。N分類でN2相当と思われます。[EOS]"}
+{"ID": [106, 9], "entities": [], "annotated_sentence": "以上より,慢性非化膿性破壊性胆管炎の像であり,血液検査所見および病理組織像から症候性原発性胆汁性胆管炎と診断した.", "generated": "以上より,慢性非化膿性破壊性胆管炎の像であり,血液検査所見および病理組織像から症候性原発性胆汁性胆管炎と診断した.[EOS]"}
+{"ID": [56, 5], "entities": [], "annotated_sentence": "徐々に体重増加を認めたが,6か月時腹部膨満と嘔吐で再入院した.", "generated": "徐々に体重増加を認めたが,6か月時腹部膨満と嘔吐で再入院した.[EOS]"}
+{"ID": [40, 4], "entities": [], "annotated_sentence": "72歳,男性.", "generated": "[EOS]"}
+{"ID": [108, 5], "entities": [], "annotated_sentence": "他院へ救急搬送され、一旦経過観察となっていた。", "generated": "[EOS]"}
+{"ID": [4, 1], "entities": [], "annotated_sentence": "対象,方法:1986年5月より1990年10月までに帝京大学市原病院泌尿器科で上部尿路の尿酸含有結石であった21例を対象とし,その症例について生化学的検査を中心に検討を加えた.", "generated": "<m-key>対象</m-key><m-val>,</m-val><m-key>方法</m-key><m-val>:1986年5月より1990年10月までに帝京大学市原病院泌尿器科で上部尿路の尿酸含有結石であった21例を対象とし,その症例について生化学的検査を中心に検討を加えた.[EOS]"}
+{"ID": [119, 1], "entities": [], "annotated_sentence": "当院ではStagell~III食道癌に対しては術前化学療法をおこなう機会が多い。", "generated": "Stagell~III食道癌に対しては術前化学療法をおこなう機会が多い。[EOS]"}
+{"ID": [86, 10], "entities": [], "annotated_sentence": "一方,腫瘍ではHTLV-I provirus,T細胞レセプターβ鎖の再構成(Tcβ)ともに陽性であった。", "generated": "一方,腫瘍ではHTLV-I provirus,T細胞レセプターβ鎖の再構成(Tcβ)ともに陽性であった。[EOS]"}
+{"ID": [93, 3], "entities": [], "annotated_sentence": "縦隔や肺門に有意なリンパ節腫大は指摘できません。", "generated": "縦隔や肺門に有意なリンパ節腫大は指摘できません。[EOS]"}
+{"ID": [82, 8], "entities": [], "annotated_sentence": "CT, MRCPでは総胆管や肝内胆管の拡張はみられず, irAEが疑われたため,肝生検が施行された.", "generated": "CT, MRCPでは総胆管や肝内胆管の拡張はみられず, irAEが疑われたため,肝生検が施行された.[EOS]"}
+{"ID": [37, 9], "entities": [], "annotated_sentence": "CT・腹部Echo上多発肝腫瘤を認め、大腸内視鏡検査および生検検査にて上行結腸に全周性Type2の高分化腺癌を認めた。", "generated": "CT・腹部Echo上多発肝腫瘤を認め、大腸内視鏡検査および生検検査にて上行結腸に全周性Type2の高分化腺癌を認めた。[EOS]"}
+{"ID": [95, 1], "entities": [], "annotated_sentence": "41歳,女。", "generated": "[EOS]"}
+{"ID": [106, 10], "entities": [{"name": "ウルソデオキシコール酸", "span": [5, 16], "type_id": 31, "type": "m-key_executed"}, {"name": "600mg/日", "span": [16, 23], "type_id": 35, "type": "m-val_"}], "annotated_sentence": "診断時より<m-key state=\"executed\">ウルソデオキシコール酸</m-key><m-val>600mg/日</m-val>の投与を開始した.", "generated": "診断時より<m-key>ウルソデオキシコール酸</m-key><m-val>600mg/日</m-val>の投与を開始した.[EOS]"}
+{"ID": [13, 5], "entities": [], "annotated_sentence": "【症例提示】", "generated": "[EOS]"}
+{"ID": [8, 5], "entities": [], "annotated_sentence": "【対象・方法】〔症例1〕90歳代、男性。", "generated": "<タグ付が付与された文>[EOS]"}
+{"ID": [126, 10], "entities": [], "annotated_sentence": "その後、外来化学療法を行ったが、術後半年に癌性腹膜炎で死亡した。", "generated": "その後、外来化学療法を行ったが、術後半年に癌性腹膜炎で死亡した。[EOS]"}
+{"ID": [78, 14], "entities": [], "annotated_sentence": "しかし,今回の検討では定期的に通院されていたにもかかわらず,後発癌がすでに進行癌となっていた例が5例中3例あった.", "generated": "しかし,今回の検討では定期的に通院されていたにもかかわらず,後発癌がすでに進行癌となっていた例が5例中3例あった.[EOS]"}
+{"ID": [36, 1], "entities": [], "annotated_sentence": "症例は60歳代男性.", "generated": "[EOS]"}
+{"ID": [130, 4], "entities": [], "annotated_sentence": "家族歴,既往歴:特記することなし。", "generated": "[EOS]"}
+{"ID": [33, 2], "entities": [], "annotated_sentence": "症例:42才,男性。", "generated": "[EOS]"}
+{"ID": [25, 1], "entities": [], "annotated_sentence": "右肺尖部には石灰化を伴う収縮性変化を伴う軟部影を認めます。炎症性肉芽腫性病変を疑います。", "generated": "右肺尖部には石灰化を伴う収縮性変化を伴う軟部影を認めます。炎症性肉芽腫性病変を疑います。[EOS]"}
+{"ID": [73, 7], "entities": [], "annotated_sentence": "診断名:変形性腰椎症。", "generated": "[EOS]"}
+{"ID": [40, 13], "entities": [], "annotated_sentence": "10月12日から5ヵ月間,外来監視型心臓リハビリテーションを施行した.", "generated": "10月12日から5ヵ月間,外来監視型心臓リハビリテーションを施行した.[EOS]"}
+{"ID": [23, 6], "entities": [], "annotated_sentence": "【方法】", "generated": "[EOS]"}
+{"ID": [112, 3], "entities": [], "annotated_sentence": "特に症状はなく、腹部外傷の既往歴も認めなかった。", "generated": "[EOS]"}
+{"ID": [93, 12], "entities": [{"name": "MMF", "span": [12, 15], "type_id": 34, "type": "m-key_other"}], "annotated_sentence": "ステロイド抵抗性症例では<m-key state=\"other\">MMF</m-key>が有効であるとの報告もあり,本症例でも導入されたが,その効果を評価することはできなかった.", "generated": "ステロイド抵抗性症例ではMMFが有効であるとの報告もあり,本症例でも導入されたが,その効果を評価することはできなかった.[EOS]"}
+{"ID": [55, 1], "entities": [], "annotated_sentence": "症例:54歳,男性。", "generated": "[EOS]"}
+{"ID": [12, 4], "entities": [], "annotated_sentence": "その他、観察範囲内に明らかな異常を指摘できません。", "generated": "その他、観察範囲内に明らかな異常を指摘できません。[EOS]"}
+{"ID": [97, 9], "entities": [{"name": "panitumumab", "span": [13, 24], "type_id": 31, "type": "m-key_executed"}], "annotated_sentence": "今回我々は,三次治療として<m-key state=\"executed\">panitumumab</m-key>を上乗せした化学療法を行うことで多発肝転移が著明に改善した症例を経験したので報告する.", "generated": "今回我々は,三次治療としてpanitumumabを上乗せした化学療法を行うことで多発肝転移が著明に改善した症例を経験したので報告する.[EOS]"}
+{"ID": [28, 16], "entities": [], "annotated_sentence": "【考察】本症例は,肝臓の基礎疾患なく突如発症した肝性脳症であるが,腹部エコー,造影CTにて速やかに診断され治療に進むことができた.", "generated": "【考察】本症例は,肝臓の基礎疾患なく突如発症した肝性脳症であるが,腹部エコー,造影CTにて速やかに診断され治療に進むことができた.[EOS]"}
+{"ID": [12, 1], "entities": [], "annotated_sentence": "今回我々は,全胃癌中0.03~0.1%と非常に稀な扁平上皮癌を経験したので報告する。", "generated": "今回我々は,全胃癌中0.03~0.1%と非常に稀な扁平上皮癌を経験したので報告する。[EOS]"}
+{"ID": [127, 7], "entities": [], "annotated_sentence": "腹部レントゲン検査にて拡張を伴う大腸ガス像を,腹部CT検査にて直腸壁の肥厚を認めた.", "generated": "腹部レントゲン検査にて拡張を伴う大腸ガス像を,腹部CT検査にて直腸壁の肥厚を認めた.[EOS]"}
+{"ID": [69, 3], "entities": [], "annotated_sentence": "その有病率は11.4人/10万人である。", "generated": "その有病率は11.4人/10万人である。[EOS]"}
+{"ID": [8, 12], "entities": [], "annotated_sentence": "術後8ヶ月現在、無再発で経過中。", "generated": "術後8ヶ月現在、無再発で経過中。[EOS]"}
+{"ID": [19, 4], "entities": [], "annotated_sentence": "44名は、他剤から変更した34名と薬物療法が初回の10名である。", "generated": "44名は、他剤から変更した34名と薬物療法が初回の10名である。[EOS]"}
+{"ID": [48, 3], "entities": [], "annotated_sentence": "CFで全周性の直腸癌を指摘された。", "generated": "CFで全周性の直腸癌を指摘された。[EOS]"}
+{"ID": [67, 7], "entities": [], "annotated_sentence": "【方法】評価スケールは、家庭および学校での評価はそれぞれ保護者および教員が記入し、統計処理にはウィルコクソンの符合順位和検定を使用した。", "generated": "【方法】評価スケールは、家庭および学校での評価はそれぞれ保護者および教員が記入し、統計処理にはウィルコクソンの符合順位和検定を使用した。[EOS]"}
+{"ID": [98, 1], "entities": [], "annotated_sentence": "症例:53歳,男性。", "generated": "[EOS]"}
+{"ID": [17, 14], "entities": [], "annotated_sentence": "肝門部や腹腔動脈周囲、傍大動脈に病的腫大リンパ節を多数認め、転移と考えます。", "generated": "肝門部や腹腔動脈周囲、傍大動脈に病的腫大リンパ節を多数認め、転移と考えます。[EOS]"}
+{"ID": [42, 3], "entities": [], "annotated_sentence": "術中USで肝門部から肝内胆管に沿う結節が集族する腫瘤を形成。", "generated": "術中USで肝門部から肝内胆管に沿う結節が集族する腫瘤を形成。[EOS]"}
+{"ID": [78, 7], "entities": [], "annotated_sentence": "膀胱癌はすべて尿路上皮癌であり,筋層非浸潤例4例,浸潤例1例。", "generated": "膀胱癌はすべて尿路上皮癌であり,筋層非浸潤例4例,浸潤例1例。[EOS]"}
+{"ID": [1, 3], "entities": [], "annotated_sentence": "その他肺野に粗大な腫瘤や浸潤影は指摘できません。", "generated": "その他肺野に粗大な腫瘤や浸潤影は指摘できません。[EOS]"}
+{"ID": [37, 5], "entities": [], "annotated_sentence": "上腹部に軽度異和感を認める他、腹膜刺激症状は認めなかった。", "generated": "上腹部に軽度異和感を認める他、腹膜刺激症状は認めなかった。[EOS]"}
+{"ID": [3, 4], "entities": [{"name": "VCM", "span": [25, 28], "type_id": 31, "type": "m-key_executed"}, {"name": "新規微生物薬", "span": [50, 56], "type_id": 34, "type": "m-key_other"}], "annotated_sentence": "【方法】当院入院中の患者でMRSA肺炎と診断され、<m-key state=\"executed\">VCM</m-key>を使用した症例32例を「呼吸器感染症における<m-key state=\"other\">新規微生物薬</m-key>の臨床評価法」(日本化学療法学会準拠)に基づき、有効例と無効例とに分類した。", "generated": "【方法】当院入院中の患者でMRSA肺炎と診断され、<m-key>VCM</m-key><m-val>を使用した症例32例を「呼吸器感染症における新規微生物薬の臨床評価法」(日本化学療法学会準拠)に基づき、有効例と無効例とに分類した。[EOS]\n\n---"}
+{"ID": [59, 12], "entities": [], "annotated_sentence": "術翌日に一時的下大静脈フィルター造影後、抜去した。", "generated": "術翌日に一時的<m-key>下大静脈フィルター</m-key><m-val>造影後、抜去した。[EOS]"}
+{"ID": [1, 36], "entities": [], "annotated_sentence": "認知機能の低下を認めた高齢者に,なじみの活動であった日記を導入し認知機能の賦活を図った。", "generated": "認知機能の低下を認めた高齢者に,なじみの活動であった日記を導入し認知機能の賦活を図った。[EOS]"}
+{"ID": [139, 14], "entities": [], "annotated_sentence": "【結語】小腸出血は比較的稀な疾患であり,病変部を同定するのは困難なことが多い.", "generated": "【結語】小腸出血は比較的稀な疾患であり,病変部を同定するのは困難なことが多い.[EOS]"}
+{"ID": [10, 2], "entities": [], "annotated_sentence": "また、腫瘤が接する第2胸椎椎体左側から左横突起にかけて表面不整を呈しており、椎体浸潤ありと考えます。", "generated": "また、腫瘤が接する第2胸椎椎体左側から左横突起にかけて表面不整を呈しており、椎体浸潤ありと考えます。[EOS]"}
+{"ID": [8, 14], "entities": [{"name": "MCFG", "span": [38, 42], "type_id": 31, "type": "m-key_executed"}, {"name": "150mg/day", "span": [42, 51], "type_id": 35, "type": "m-val_"}], "annotated_sentence": "同時に尿より C.glabrataが検出され、原因微生物と考えられたため、 <m-key state=\"executed\">MCFG</m-key><m-val>150mg/day</m-val>を投与開始した。", "generated": "同時に尿より C.glabrataが検出され、原因微生物と考えられたため、<m-key>MCFG</m-key><m-val>150mg/day</m-val>を投与開始した。[EOS]"}
+{"ID": [59, 11], "entities": [], "annotated_sentence": "立位保持練習開始.", "generated": "<タグ付が付与された文>[EOS]"}
+{"ID": [37, 4], "entities": [], "annotated_sentence": "【方法または症例】症例はインフルエンザ肺炎によるARDSと診断され、人工呼吸器管理となった60代男性である。", "generated": "【方法または症例】症例はインフルエンザ肺炎によるARDSと診断され、人工呼吸器管理となった60代男性である。[EOS]"}
+{"ID": [18, 5], "entities": [], "annotated_sentence": "両側胸水もあり、胸膜播種の可能性あります。", "generated": "両側胸水もあり、胸膜播種の可能性あります。[EOS]"}
+{"ID": [55, 2], "entities": [], "annotated_sentence": "主訴:全身の多形紅斑,全身倦怠感。", "generated": "全身の多形紅斑,全身倦怠感。[EOS]"}
+{"ID": [74, 19], "entities": [], "annotated_sentence": "6症例において低栄養状態が持続したが、7症例全てにおいてDESIGNの合計得点に改善を認めた。", "generated": "6症例において低栄養状態が持続したが、7症例全てにおいて<m-key>DESIGN</m-key><m-val>の合計得点</m-val>に改善を認めた。[EOS]"}
+{"ID": [6, 18], "entities": [], "annotated_sentence": "この日の胸郭拡張差は腋窩レベルで2cm、剣状突起レベルで4.5cm、第10肋骨レベルで8cmであった。", "generated": "この日の胸郭拡張差は腋窩レベルで<m-key>2cm</m-key>、剣状突起レベルで<m-key>4.5cm</m-key>、第10肋骨レベルで<m-key>8cm</m-key>であった。[EOS]"}
+{"ID": [96, 11], "entities": [], "annotated_sentence": "肝組織所見はdiffuse fatty liverで,肝組織中銅含有量は70.5μg/g乾重量と基準値(50μg/g.乾重量未満)よりも増加していたが,Wilson病と診断できるほどは増加していなかった.", "generated": "肝組織所見はdiffuse fatty liverで,肝組織中銅含有量は70.5μg/g乾重量と基準値(50μg/g.乾重量未満)よりも増加していたが,Wilson病と診断できるほどは増加していなかった.[EOS]"}
+{"ID": [5, 6], "entities": [], "annotated_sentence": "Impression(記載箇所あれば):左下葉肺癌(cT4N2MX)疑い", "generated": "Impression(記載箇所あれば):左下葉肺癌(cT4N2MX)疑い[EOS]"}
+{"ID": [16, 27], "entities": [], "annotated_sentence": "この過程において直接手で触れることのできない体幹背面については体幹・下肢伸展時の子宮壁との接触や,出生後には床面との接触による相互作用の経験が重要な役割を果たしていると考えられ,身体図式形成のためにはダブルタッチや外界との接触経験が重要であることが示唆された.", "generated": "この過程において直接手で触れることのできない体幹背面については体幹・下肢伸展時の子宮壁との接触や,出生後には床面との接触による相互作用の経験が重要な役割を果たしていると考えられ,身体図式形成のためにはダブルタッチや外界との接触経験が重要であることが示唆された.[EOS]"}
+{"ID": [15, 1], "entities": [], "annotated_sentence": "【目的】", "generated": "[EOS]"}
+{"ID": [42, 1], "entities": [], "annotated_sentence": "症例は60歳、男性。", "generated": "[EOS]"}
+{"ID": [46, 17], "entities": [], "annotated_sentence": "【考察】 H.cinaedi感染症は多くの場合,蜂窩織炎や直腸炎などの患者から血液培養を実施し検出に至るケースが多い.", "generated": "【考察】 H.cinaedi感染症は多くの場合,蜂窩織炎や直腸炎などの患者から血液培養を実施し検出に至るケースが多い.[EOS]"}
+{"ID": [127, 11], "entities": [], "annotated_sentence": "回腸人工肛門造設後,mFOLFOX6療法を計6コース施行した結果,効果判定の腹部CT検査で原発巣は70%以上の腫瘍縮小を認め,領域リンパ節も縮小傾向にあった.", "generated": "回腸人工肛門造設後,mFOLFOX6療法を計6コース施行した結果,効果判定の腹部CT検査で原発巣は70%以上の腫瘍縮小を認め,領域リンパ節も縮小傾向にあった.[EOS]"}
+{"ID": [2, 17], "entities": [], "annotated_sentence": "また,訪問リハビリ時朝・夕の食事動画をセラピストとご家族で確認し,環境調整しながらフォローが出来たことで,再入院することなく早期に通所リハビリを開始することが出来た.", "generated": "また,訪問リハビリ時朝・夕の食事動画をセラピストとご家族で確認し,環境調整しながらフォローが出来たことで,再入院することなく早期に通所リハビリを開始することが出来た.[EOS]"}
+{"ID": [79, 2], "entities": [], "annotated_sentence": "投与開始4か月後の採血でT-bil 0.81mg/dl,AST 91U/l,ALT 144U/l,ALP 1478U/l γGT 426U/lと胆道系酵素優位の肝障害を認め消化器内科に紹介となった.", "generated": "投与開始4か月後の採血でT-bil 0.81mg/dl,AST 91U/l,ALT 144U/l,ALP 1478U/l γGT 426U/lと胆道系酵素優位の肝障害を認め消化器内科に紹介となった.[EOS]"}
+{"ID": [36, 8], "entities": [], "annotated_sentence": "腎嚢胞を認めます。", "generated": "腎嚢胞を認めます。[EOS]"}
+{"ID": [7, 1], "entities": [], "annotated_sentence": "【症例】52歳,男性", "generated": "[EOS]"}
+{"ID": [44, 1], "entities": [], "annotated_sentence": "肺門部肺癌(T2)を疑います。", "generated": "肺門部肺癌(T2)を疑います。[EOS]"}
+{"ID": [6, 23], "entities": [], "annotated_sentence": "【考察】8/30までの治療内容は関節単独の機能改善を重視していたため、良好な姿勢変化に結びつかなかったと考えた。", "generated": "【考察】8/30までの治療内容は関節単独の機能改善を重視していたため、良好な姿勢変化に結びつかなかったと考えた。[EOS]"}
+{"ID": [1, 1], "entities": [], "annotated_sentence": "縦隔に広範に接しており、縦隔浸潤を疑います。上大静脈への浸潤は認められません(冠状断では上大静脈に浸潤しているように見えますが・・・)。縦隔、肺門のリンパ節の腫大は指摘できません。リンパ節転移を疑うような腫大リンパ節は認められません。", "generated": "縦隔に広範に接しており、縦隔浸潤を疑います。上大静脈への浸潤は認められません(冠状断では上大静脈に浸潤しているように見えますが・・・)。縦隔、肺門のリンパ節の腫大は指摘できません。リンパ節転移を疑うような腫大リンパ節は認められません。[EOS]"}
+{"ID": [41, 14], "entities": [], "annotated_sentence": "運動は敷地内の施設で続けてもらい、本介入では恐怖心の軽減を目的とした体験的な内容にとどめた。", "generated": "運動は敷地内の施設で続けてもらい,本介入では恐怖心の軽減を目的とした体験的な内容にとどめた。[EOS]"}
+{"ID": [75, 1], "entities": [], "annotated_sentence": "右肺門から上縦隔内にかけて多数の結節影を認めます。これらはいずれもリンパ節転移を疑いま", "generated": "右肺門から上縦隔内にかけて多数の結節影を認めます。これらはいずれもリンパ節転移を疑いま[EOS]"}
+{"ID": [27, 14], "entities": [], "annotated_sentence": "Barthel Index(以下BI)0点で,基本動作は寝返りと起き上がりは全介助レベルで,端坐位保持も困難であった.", "generated": "Barthel Index(以下BI)<m-val>0点</m-val>で,基本動作は寝返りと起き上がりは全介助レベルで,端坐位保持も困難であった.[EOS]"}
+{"ID": [26, 5], "entities": [], "annotated_sentence": "定期・不定期合わせて当院通院症例は40.4%,近医通院症例は39.2%,かかりつけ医を持たない症例が20.4%であった,定期受診者の割合は当院・近医とでそれぞれ58%と26%であった.", "generated": "定期・不定期合わせて当院通院症例は40.4%,近医通院症例は39.2%,かかりつけ医を持たない症例が20.4%であった,定期受診者の割合は<m-key>当院</m-key><m-val>58%</m-val>と<m-key>近医</m-key><m-val>26%</m-val>であった.[EOS]"}
+{"ID": [41, 16], "entities": [], "annotated_sentence": "7週目に自主的な運動としての敷地内の屋外歩行が実現し、9週目には一人で電車を利用するようになった。", "generated": "7週目に自主的な運動としての敷地内の屋外歩行が実現し、9週目には一人で電車を利用するようになった。[EOS]"}
+{"ID": [117, 5], "entities": [], "annotated_sentence": "手術時間は、10時間2分、出血量305ml、胸部操作は4時間39分であった。", "generated": "手術時間は、10時間2分、出血量305ml、胸部操作は4時間39分であった。[EOS]"}
+{"ID": [11, 10], "entities": [], "annotated_sentence": "本症例では、組織学的に皮下組織の類上皮細胞肉芽腫のほか、膜嚢胞性病変(membranocystic lesion)(那須)様変化を認めた。", "generated": "本症例では、組織学的に皮下組織の類上皮細胞肉芽腫のほか、膜嚢胞性病変(membranocystic lesion)(那須)様変化を認めた。[EOS]"}
+{"ID": [114, 1], "entities": [], "annotated_sentence": "症例は59歳,男性.", "generated": "[EOS]"}
+{"ID": [61, 13], "entities": [], "annotated_sentence": "診断後,理学療法(以下PT)を開始した。", "generated": "診断後,理学療法(以下PT)を開始した。[EOS]"}
+{"ID": [83, 1], "entities": [], "annotated_sentence": "他に左肺上区S1+2や右肺下葉S6にも胸膜面と連続する結節影を認めますが、こちらも腫瘍性病変は否定できず、経過観察をされて下さい。", "generated": "他に左肺上区S1+2や右肺下葉S6にも胸膜面と連続する結節影を認めますが、こちらも腫瘍性病変は否定できず、経過観察をされて下さい。[EOS]"}
+{"ID": [58, 11], "entities": [], "annotated_sentence": "急性虫垂炎を契機に盲腸癌が見つかるのは比較的稀であり、本邦での報告例はわれわれが検索しうる限り1991年から2012年の間で23編33例認め、本症例で34例目であった。", "generated": "急性虫垂炎を契機に盲腸癌が見つかるのは比較的稀であり、本邦での報告例はわれわれが検索しうる限り1991年から2012年の間で23編33例認め、本症例で34例目であった。[EOS]"}
+{"ID": [13, 18], "entities": [], "annotated_sentence": "本症例では頭部・頸椎マルアライメントの状態で,上位頸椎の左回旋・側屈を伴う前屈運動を行っていた。", "generated": "本症例では頭部・頸椎マルアライメントの状態で,上位頸椎の左回旋・側屈を伴う前屈運動を行っていた。[EOS]"}
+{"ID": [31, 2], "entities": [], "annotated_sentence": "T因子はT3と考えられます。", "generated": "<m-key>T因子</m-key>は<m-val>T3</m-val>と考えられます。[EOS]"}
+{"ID": [49, 6], "entities": [{"name": "内服用リン酸緩衝液", "span": [53, 62], "type_id": 31, "type": "m-key_executed"}, {"name": "30mmol", "span": [63, 69], "type_id": 35, "type": "m-val_"}], "annotated_sentence": "【結果】症例1BMI15.5の40代女性 800kcalで開始した栄養療法翌日にP1.5mg/dLに低下 <m-key state=\"executed\">内服用リン酸緩衝液</m-key>(<m-val>30mmol</m-val>)を4日間投与後、 IP 4.2mg/dLに上昇し、投与中止。", "generated": "【結果】症例1BMI15.5の40代女性 800kcalで開始した栄養療法翌日に<m-val>P1.5mg/dL</m-val>に低下 内服用リン酸緩衝液(30mmol)を4日間投与後、 <m-val>IP 4.2mg/dL</m-val>に上昇し、投与中止。[EOS]"}
+{"ID": [55, 13], "entities": [], "annotated_sentence": "さらに、そこから心肺停止に陥ると蘇生は著しく困難になることが示唆される。", "generated": "さらに、そこから心肺停止に陥ると蘇生は著しく困難になることが示唆される。[EOS]"}
+{"ID": [51, 2], "entities": [], "annotated_sentence": "初診:1990年1月20日。", "generated": "[EOS]"}
+{"ID": [17, 2], "entities": [], "annotated_sentence": "右中葉・下葉気管支は中枢側で高度狭窄していますが、末梢の含気は保たれています。", "generated": "右中葉・下葉気管支は中枢側で高度狭窄していますが、末梢の含気は保たれています。[EOS]"}
+{"ID": [46, 20], "entities": [], "annotated_sentence": "今回のように非代償性肝硬変を含めた免疫機能低下患者における感染症の原因菌としてH.cinaediを念頭に置き精査加療を行うべきである.", "generated": "今回のように非代償性肝硬変を含めた免疫機能低下患者における感染症の原因菌としてH.cinaediを念頭に置き精査加療を行うべきである.[EOS]"}
+{"ID": [42, 1], "entities": [], "annotated_sentence": "はじめに", "generated": "[EOS]"}
+{"ID": [63, 2], "entities": [], "annotated_sentence": "一般的に睡眠時無呼吸症候群(SAS),チェーンストークス呼吸(CSR),運動時周期性呼吸変動(EOV)などの呼吸障害はいずれも予後不良因子として知られている。", "generated": "一般的に睡眠時無呼吸症候群(SAS),チェーンストークス呼吸(CSR),運動時周期性呼吸変動(EOV)などの呼吸障害はいずれも予後不良因子として知られている。[EOS]"}
+{"ID": [47, 10], "entities": [], "annotated_sentence": "このため、術後合併療法は行わなかった。", "generated": "[EOS]"}
+{"ID": [48, 19], "entities": [], "annotated_sentence": "FBSは42点から47点に,TUGは17.8秒から12秒に,10m歩行テストは13.7秒から11.7秒に改善した。", "generated": "FBSは42点から47点に,TUGは17.8秒から12秒に,10m歩行テストは13.7秒から11.7秒に改善した。[EOS]"}
+{"ID": [15, 14], "entities": [], "annotated_sentence": "MWS(m/s)は0.502⇒0.557⇒0.634⇒0.824、CVは0.070⇒0.059⇒0.026⇒0.027、RMS(m/s2)は左右で8.72⇒6.86⇒4.59⇒3.04、上下で5.56⇒5.41⇒2.93⇒2.66、前後で5.52⇒5.12⇒3.55⇒2.54であった。", "generated": "MWS(m/s)は0.502⇒0.557⇒0.634⇒0.824、CVは0.070⇒0.059⇒0.026⇒0.027、RMS(m/s2)は左右で<m-key>8.72</m-key><m-val>6.86</m-val><m-val>4.59</m-val><m-val>3."}
+{"ID": [54, 9], "entities": [], "annotated_sentence": "股関節外転筋力は,アーム長を大転子から外果近位5cmとして,徒手筋力計(ANIMA社製μ TasF-1)を用いて最大等尺性筋力(MVC)を測定し,体重およびアーム長で正規化した.", "generated": "股関節外転筋力は,アーム長を大転子から外果近位5cmとして,徒手筋力計(ANIMA社製μ TasF-1)を用いて最大等尺性筋力(MVC)を測定し,体重およびアーム長で正規化した.[EOS]"}
+{"ID": [42, 9], "entities": [], "annotated_sentence": "なお、倫理的配慮については、当センターの倫理委員会の承認を受けた。", "generated": "なお、倫理的配慮については、当センターの倫理委員会の承認を受けた。[EOS]"}
+{"ID": [12, 5], "entities": [], "annotated_sentence": "Impression(記載箇所あれば):右肺門部肺癌(cT3N1≧MX):末梢の閉塞性無気肺", "generated": "Impression(記載箇所あれば):右肺門部肺癌(cT3N1≧MX):末梢の閉塞性無気肺[EOS]"}
+{"ID": [22, 17], "entities": [], "annotated_sentence": "Spur cell anemiaは肝硬変の予後不良因子として報告されており,肝移植が唯一の治療法とされるが,本例では集学的治療を行うことで肝移植を施行することなく,外来通院可能となった.", "generated": "Spur cell anemiaは肝硬変の予後不良因子として報告されており,肝移植が唯一の治療法とされるが,本例では集学的治療を行うことで肝移植を施行することなく,外来通院可能となった.[EOS]"}
+{"ID": [13, 9], "entities": [], "annotated_sentence": "背部皮疹の組織学的所見は軽い海綿状浮腫と表皮内細胞浸潤,真皮上層血管周囲性小円形細胞浸潤。", "generated": "背部皮疹の組織学的所見は軽い海綿状浮腫と表皮内細胞浸潤,真皮上層血管周囲性小円形細胞浸潤。[EOS]"}
+{"ID": [19, 11], "entities": [{"name": "GP", "span": [4, 6], "type_id": 34, "type": "m-key_other"}, {"name": "SU剤", "span": [37, 40], "type_id": 34, "type": "m-key_other"}], "annotated_sentence": "【考察】<m-key state=\"other\">GP</m-key>投与により、2型糖尿病患者における血糖改善効果がみられ、既存の<m-key state=\"other\">SU剤</m-key>と同等の血糖降下作用があることが示唆された。", "generated": "【考察】GP<m-key>投与</m-key>により、2型糖尿病患者における血糖改善効果がみられ、既存のSU剤と同等の血糖降下作用があることが示唆された。[EOS]"}
+{"ID": [109, 2], "entities": [], "annotated_sentence": "当院救急外来より入院となった気管支喘息発作症例につき検討した.", "generated": "<m-key>気管支喘息</m-key>発作症例につき検討した.[EOS]"}
+{"ID": [16, 17], "entities": [], "annotated_sentence": "【説明と同意】", "generated": "[EOS]"}
+{"ID": [74, 9], "entities": [], "annotated_sentence": "治療は直線偏光近赤外線照射装置(東京医研株式会社製SUPER LIZER HA-2200)を利用し、光出力1800mW、照射径10mmの導光路に偏光フィルターを組み込んだ照射ブローブ(Bタイプユニット)を使用し、照射時間15分間、週6回実施した。", "generated": "治療は直線偏光近赤外線照射装置(東京医研株式会社製SUPER LIZER HA-2200)を利用し、光出力1800mW、照射径10mmの導光路に偏光フィルターを組み込んだ照射ブローブ(Bタイプユニット)を使用し、照射時間15分間、週6回実施した。[EOS]"}
+{"ID": [63, 6], "entities": [], "annotated_sentence": "入院時所見は,口腔粘膜及び口唇に広範囲に糜爛を認め,また腹部には表面に糜爛を伴った小丘疹が2個存在。", "generated": "入院時所見は,口腔粘膜及び口唇に広範囲に糜爛を認め,また腹部には表面に糜爛を伴った小丘疹が2個存在。[EOS]"}
+{"ID": [63, 13], "entities": [], "annotated_sentence": "術後6日目に補助循環装置を離脱し,術後7日目にリハビリ開始となった。", "generated": "術後6日目に補助循環装置を離脱し,術後7日目にリハビリ開始となった。[EOS]"}
+{"ID": [62, 4], "entities": [], "annotated_sentence": "行動療法における,いわゆる治療者-患者関係を治療効果と関連をもった治療者の行為と患者の反応の側面から検討してみることにした。", "generated": "行動療法における,いわゆる治療者-患者関係を治療効果と関連をもった治療者の行為と患者の反応の側面から検討してみることにした。[EOS]"}
+{"ID": [117, 4], "entities": [], "annotated_sentence": "胸部食道癌、 cT2NOMO stagelI、 術前化学療法(FP2コース)後に右開胸食道亜全摘、2領域郭清、後縦隔経路・頸部吻合による胃管再建を施行された。", "generated": "胸部食道癌、 cT2NOMO stagelI、 術前化学療法(FP2コース)後に右開胸食道亜全摘、2領域郭清、後縦隔経路・頸部吻合による胃管再建を施行された。[EOS]"}
+{"ID": [68, 6], "entities": [], "annotated_sentence": "CT、GIFなどにてL,circ,type3,T4(panc),N4,H3,P0,StageIVと診断し10月18日幽門側胃切除(D1)を行った。", "generated": "CT、GIFなどにてL,circ,type3,T4(panc),N4,H3,P0,StageIVと診断し10月18日幽門側胃切除(D1)を行った。[EOS]"}
+{"ID": [68, 6], "entities": [], "annotated_sentence": "血液培養も施行したが菌は検出されなかった.", "generated": "血液培養も施行したが菌は検出されなかった.[EOS]"}
+{"ID": [23, 11], "entities": [], "annotated_sentence": "PSPとPDの差の比較には,対応のないt検定,Mann-Whitney U testを用いた。", "generated": "PSPとPDの差の比較には,対応のないt検定,Mann-Whitney U testを用いた。[EOS]"}
+{"ID": [7, 7], "entities": [], "annotated_sentence": "甲状腺右葉の腫瘤や左葉の低吸収結節は以前のCTと著変ありません。", "generated": "甲状腺右葉の腫瘤や左葉の低吸収結節は以前のCTと著変ありません。[EOS]"}
+{"ID": [15, 6], "entities": [], "annotated_sentence": "上部内視鏡検査にて,食道静脈瘤(Lm, F3, Cb, RC0)ならびに胃静脈瘤(Lg-cf, F1, RC0)を認め,内視鏡的静脈瘤硬化療法を施行し,食道静脈瘤の消退を認めたため,外来にて経過観察とした.", "generated": "上部内視鏡検査にて,食道静脈瘤(Lm, F3, Cb, RC0)ならびに胃静脈瘤(Lg-cf, F1, RC0)を認め,内視鏡的静脈瘤硬化療法を施行し,食道静脈瘤の消退を認めたため,外来にて経過観察とした.[EOS]"}
+{"ID": [65, 3], "entities": [], "annotated_sentence": "大動脈下リンパ節(#5)がやや目立ちますが,病的とまではいえません。", "generated": "大動脈下リンパ節(#5)がやや目立ちますが,病的とまではいえません。[EOS]"}
+{"ID": [72, 11], "entities": [{"name": "免疫抑制剤", "span": [20, 25], "type_id": 31, "type": "m-key_executed"}], "annotated_sentence": "以上の2症例を報告し,膠原病患者における<m-key state=\"executed\">免疫抑制剤</m-key>の投与についてその副作用を中心に検討を加えた。", "generated": "以上の2症例を報告し,膠原病患者における免疫抑制剤の投与についてその副作用を中心に検討を加えた。[EOS]"}
+{"ID": [46, 13], "entities": [], "annotated_sentence": "原因菌検索として第11病日,第13病日,および第15病日に血液培養を行い,いずれもH.cinaediが検出された.", "generated": "原因菌検索として第11病日,第13病日,および第15病日に血液培養を行い,いずれも<m-key>H.cinaedi</m-key>が検出された.[EOS]"}
+{"ID": [23, 1], "entities": [], "annotated_sentence": "肝動脈には走行異常が25から45%と高頻度に認められる。", "generated": "肝動脈には走行異常が25から45%と高頻度に認められる。[EOS]"}
+{"ID": [58, 16], "entities": [], "annotated_sentence": "症例2では、姿勢の安定性は術後8週時点でグレード1(後方突進現象を認めるが立ち直れる)であった。", "generated": "症例2では、姿勢の安定性は術後8週時点でグレード1(後方突進現象を認めるが立ち直れる)であった。[EOS]"}
+{"ID": [112, 8], "entities": [], "annotated_sentence": "さらに手術1か月半後に後腹膜腫瘍摘出術を希望したため、腹腔鏡下に摘出した。", "generated": "さらに手術1か月半後に後腹膜腫瘍摘出術を希望したため、腹腔鏡下に摘出した。[EOS]"}
+{"ID": [68, 5], "entities": [], "annotated_sentence": "貧血を認め、上部消化管造影精査により胃癌が発見され9月30日当科に入院した。", "generated": "貧血を認め、上部消化管造影精査により胃癌が発見され9月30日当科に入院した。[EOS]"}
+{"ID": [66, 20], "entities": [], "annotated_sentence": "2008年4月より理学療法を開始、週1~2回、2~3単位/回にて実施した。", "generated": "2008年4月より理学療法を開始、週1~2回、2~3単位/回にて実施した。[EOS]"}
+{"ID": [34, 17], "entities": [], "annotated_sentence": "理学療法開始時、鼻カニューラにてO2:3L、SpO2:70%台で陥没呼吸がみられ、脈拍は110~120回/回であった。", "generated": "鼻カニューラにてO2:3L、SpO2:70%台で陥没呼吸がみられ、脈拍は110~120回/回であった。[EOS]"}
+{"ID": [60, 18], "entities": [], "annotated_sentence": "また,Gottron徴候や筋痛・関節痛などの増悪はなく,皮膚筋炎患者に対する,炎症所見に基づいた負荷量や翌日の疲労度を調節した運動療法は,機能改善に効果的である可能性が示唆された.", "generated": "また,Gottron徴候や筋痛・関節痛などの増悪はなく,皮膚筋炎患者に対する,炎症所見に基づいた負荷量や翌日の疲労度を調節した運動療法は,機能改善に効果的である可能性が示唆された.[EOS]"}
+{"ID": [34, 4], "entities": [], "annotated_sentence": "そこで、前傾クッションを作成し、坐位保持を導入したので報告するo", "generated": "そこで、前傾クッションを作成し、坐位保持を導入したので報告するo[EOS]"}
+{"ID": [2, 12], "entities": [], "annotated_sentence": "歩行速度[m/sec](精査困難→3.3)握力[kg](2.3/3.7→4.1/4.6)BMI[kg/m2](13.9→15.1)下腿最大囲[cm](22/22→23.6/23),MNA-SF[点](0→8)", "generated": "<m-key>歩行速度</m-key><m-val>[m/sec](精査困難→3.3)</m-val><m-key>握力</m-key><m-val>[kg](2.3/3.7→4.1/4.6)</m-val><m-key>BMI</m-key><m-val>[kg/m2](13.9→15.1)</"}
+{"ID": [4, 1], "entities": [], "annotated_sentence": "【はじめに】近年、脳性麻痺ガイドラインにおいて「task-oriented training」と呼ばれる有意義な活動を目標にした、実際生活場面での繰り返しの練習が推奨されている。", "generated": "【はじめに】近年、脳性麻痺ガイドラインにおいて「task-oriented training」と呼ばれる有意義な活動を目標にした、実際生活場面での繰り返しの練習が推奨されている。[EOS]"}
+{"ID": [20, 9], "entities": [], "annotated_sentence": "腫瘤径:0~80mm(平均28.9mm)。", "generated": "腫瘤径:0~80mm(平均28.9mm)。[EOS]"}
+{"ID": [127, 4], "entities": [], "annotated_sentence": "今回,術後にpCRとなった症例を経験したので報告する.", "generated": "今回,術後にpCRとなった症例を経験したので報告する.[EOS]"}
+{"ID": [89, 17], "entities": [], "annotated_sentence": "まとめ:ドレーン類が多数挿入されている状態でも、基本動作能力が改善した。", "generated": "まとめ:ドレーン類が多数挿入されている状態でも、基本動作能力が改善した。[EOS]"}
+{"ID": [16, 5], "entities": [], "annotated_sentence": "【主訴】意識障害,", "generated": "[EOS]"}
+{"ID": [101, 10], "entities": [], "annotated_sentence": "CCで外側にdistortionを認めカテゴリー4と診断した。", "generated": "CCで外側にdistortionを認めカテゴリー4と診断した。[EOS]"}
+{"ID": [57, 12], "entities": [], "annotated_sentence": "以上より本例をDLEの皮疹を伴った汎発性強皮症と診断した。", "generated": "以上より本例をDLEの皮疹を伴った汎発性強皮症と診断した。[EOS]"}
+{"ID": [37, 3], "entities": [], "annotated_sentence": "【症例】88歳女性。", "generated": "[EOS]"}
+{"ID": [68, 9], "entities": [{"name": "800g/日", "span": [56, 62], "type_id": 35, "type": "m-val_"}, {"name": "ブドウ糖", "span": [63, 67], "type_id": 31, "type": "m-key_executed"}], "annotated_sentence": "術後第7病日までは比較的良好に血糖コントロールがなされていたが徐々に血糖20-30mg/dlに低下するようになり<m-val>800g/日</m-val>の<m-key state=\"executed\">ブドウ糖</m-key>を必要とした。", "generated": "術後第7病日までは比較的良好に血糖コントロールがなされていたが徐々に血糖20-30mg/dlに低下するようになり800g/日のブドウ糖を必要とした。[EOS]"}
+{"ID": [85, 1], "entities": [], "annotated_sentence": "左上葉無気肺を認めます。左上葉気管支は閉塞しており左上葉気管支近位部周囲には肺癌を疑う腫瘤が認められます。左上肺静脈末梢側に浸潤しています。", "generated": "左上葉無気肺を認めます。左上葉気管支は閉塞しており左上葉気管支近位部周囲には肺癌を疑う腫瘤が認められます。左上肺静脈末梢側に浸潤しています。[EOS]"}
+{"ID": [88, 4], "entities": [], "annotated_sentence": "胸水はありませんが、炎症性変化を疑う軽度の左胸膜肥厚を認めます。", "generated": "胸水はありませんが、炎症性変化を疑う軽度の左胸膜肥厚を認めます。[EOS]"}
+{"ID": [6, 3], "entities": [], "annotated_sentence": "症例には本件に関し十分な説明と同意を得ている。", "generated": "[EOS]"}
+{"ID": [78, 8], "entities": [], "annotated_sentence": "肺癌では扁平上皮癌,腺癌がそれぞれ2例.", "generated": "肺癌では扁平上皮癌,腺癌がそれぞれ<m-key>2例</m-key>.[EOS]"}
+{"ID": [73, 2], "entities": [], "annotated_sentence": "Th2-3椎体に浸潤もあります。", "generated": "Th2-3椎体に浸潤もあります。[EOS]"}
+{"ID": [52, 5], "entities": [], "annotated_sentence": "これより,アルコール摂取と即時型アレルギー機序の関連性を吟味しながら,慢性肝障害の血清IgE値の意義について考察を加えたい。", "generated": "これより,アルコール摂取と即時型アレルギー機序の関連性を吟味しながら,慢性肝障害の血清IgE値の意義について考察を加えたい。[EOS]"}
+{"ID": [35, 15], "entities": [], "annotated_sentence": "姿勢評価では膝蓋骨外側偏位がみられた。", "generated": "姿勢評価では膝蓋骨外側偏位がみられた。[EOS]"}
+{"ID": [23, 25], "entities": [], "annotated_sentence": "PSPとPDでは,同程度の運動機能を有する者でも,重心動揺値,姿勢保持障害,歩行指標に差があることが分かった。", "generated": "PSPとPDでは,同程度の運動機能を有する者でも,重心動揺値,姿勢保持障害,歩行指標に差があることが分かった。[EOS]"}
+{"ID": [21, 5], "entities": [], "annotated_sentence": "X-1年12月11日大動脈弁狭窄症に対しTAVIを施行.", "generated": "X-1年12月11日大動脈弁狭窄症に対し<m-key>TAVI</m-key>を施行.[EOS]"}
+{"ID": [58, 9], "entities": [], "annotated_sentence": "病理組織学的所見はadenocarcinoma,MP,N0,M0 StageIで、虫垂はカタル性虫垂炎の所見であった。", "generated": "病理組織学的所見はadenocarcinoma,MP,N0,M0 StageIで、虫垂はカタル性虫垂炎の所見であった。[EOS]"}
+{"ID": [24, 8], "entities": [], "annotated_sentence": "入院時の呼気NO濃度50.1ppb,aNO 9.9ppb,bronchial NO flux(bNO)3.0nl/sで,aNOの上昇が際立っていた.TBLBはalveolitis,BAL細胞分画は好中球優位でCD4/8ratio 0.4.血清Trichosporon抗体は陰性,沈降抗体はCandida albicans,Fusariumが陽性であった.", "generated": "<m-key>呼気NO濃度</m-key><m-val>50.1ppb</m-val>,<m-key>aNO</m-key><m-val>9.9ppb</m-val>,<m-key>bronchial NO flux</m-key><m-val>3.0nl/s</m-val>で,<m-key>aNO</m-key><m"}
+{"ID": [1, 2], "entities": [], "annotated_sentence": "30年前に他院で食道癌根治術(胸骨前経路胃管再建)施行。", "generated": "30年前に他院で食道癌根治術(胸骨前経路胃管再建)施行。[EOS]"}
+{"ID": [63, 12], "entities": [{"name": "ステロイド", "span": [25, 30], "type_id": 31, "type": "m-key_executed"}], "annotated_sentence": "その後皮疹の再燃はみられず,また満月様顔貌以外には<m-key state=\"executed\">ステロイド</m-key>による副作用は認められなかった。", "generated": "その後皮疹の再燃はみられず,また満月様顔貌以外にはステロイドによる副作用は認められなかった。[EOS]"}
+{"ID": [44, 4], "entities": [], "annotated_sentence": "その後さらに黄疸漸増し掻痒感持続して,ついに腹水貯留を来たし急性胃潰瘍による出血を契機として肝不全状態となり死亡(S.48.11.28)した。", "generated": "その後さらに黄疸漸増し掻痒感持続して,ついに腹水貯留を来たし急性胃潰瘍による出血を契機として肝不全状態となり死亡(S.48.11.28)した。[EOS]"}
+{"ID": [21, 16], "entities": [], "annotated_sentence": "外反変形に対し内側フレアーを用いたが、荷重面が変化し前足部外側に剪断力・疼痛が生じたため、前足部外側ウェッジを用い荷重分散を図った。", "generated": "外反変形に対し内側フレアーを用いたが、荷重面が変化し前足部外側に剪断力・疼痛が生じたため、前足部外側ウェッジを用い荷重分散を図った。[EOS]"}
+{"ID": [1, 21], "entities": [], "annotated_sentence": "また,日時や職員の名前を確認するために,日記を想起の手掛かりとして自ら利用することができるようになった。", "generated": "また,日時や職員の名前を確認するために,日記を想起の手掛かりとして自ら利用することができるようになった。[EOS]"}
+{"ID": [75, 3], "entities": [], "annotated_sentence": "現病歴:飲酒後、上腹部痛を訴えられ救急外来受診した。", "generated": "飲酒後、上腹部痛を訴えられ救急外来受診した。[EOS]"}
+{"ID": [10, 4], "entities": [], "annotated_sentence": "出産後も症状が持続し10kgの体重減少を認めたため出産後5カ月目に当院に紹介された。", "generated": "出産後も症状が持続し10kgの体重減少を認めたため出産後5カ月目に<m-key>当院</m-key>に紹介された。[EOS]"}
+{"ID": [57, 6], "entities": [], "annotated_sentence": "現症:両手指から前腕伸側ならびに両足背にびまん性の浮腫性硬化を認める。", "generated": "現症:両手指から前腕伸側ならびに両足背にびまん性の浮腫性硬化を認める。[EOS]"}
+{"ID": [72, 4], "entities": [], "annotated_sentence": "胸水はありません。", "generated": "胸水はありません。[EOS]"}
+{"ID": [51, 3], "entities": [], "annotated_sentence": "筋解離の程度や部位を決定する手術計画の立案や理学療法計画の立案、そして手術および理学療法の効果判定には、術前後での客観的な動作解析が不可欠であると考える。", "generated": "筋解離の程度や部位を決定する手術計画の立案や理学療法計画の立案、そして手術および理学療法の効果判定には、術前後での客観的な動作解析が不可欠であると考える。[EOS]"}
+{"ID": [48, 14], "entities": [], "annotated_sentence": "SIは0に近いほど左右対称であることを示す。", "generated": "[EOS]"}
+{"ID": [16, 2], "entities": [], "annotated_sentence": "有意なサイズの類円形の鎖骨上窩、縦隔、肺門部リンパ節腫大を指摘できません。", "generated": "有意なサイズの類円形の鎖骨上窩、縦隔、肺門部リンパ節腫大を指摘できません。[EOS]"}
+{"ID": [85, 12], "entities": [], "annotated_sentence": "癒着は激しかったが、膵全摘+自家膵移植を行った。", "generated": "癒着は激しかったが、膵全摘+自家膵移植を行った。[EOS]"}
+{"ID": [26, 5], "entities": [], "annotated_sentence": "感染を契機に嘔吐から誤嚥に至り、誤嚥性肺炎と診断。", "generated": "感染を契機に嘔吐から誤嚥に至り、誤嚥性肺炎と診断。[EOS]"}
+{"ID": [53, 1], "entities": [], "annotated_sentence": "【はじめに】線維筋痛症(Fibromyalgia Syndromc 以下FMS)は全身に激しい痛みが生じる原因不明の疾患である。", "generated": "【はじめに】線維筋痛症(Fibromyalgia Syndromc 以下FMS)は全身に激しい痛みが生じる原因不明の疾患である。[EOS]"}
+{"ID": [61, 4], "entities": [], "annotated_sentence": "肝、胆、膵、脾、腎に有意な所見はありません。", "generated": "肝、胆、膵、脾、腎に有意な所見はありません。[EOS]"}
+{"ID": [24, 12], "entities": [], "annotated_sentence": "【倫理的配慮、説明と同意】", "generated": "[EOS]"}
+{"ID": [16, 9], "entities": [], "annotated_sentence": "今回も意識障害が出現し救急外来を受診した.", "generated": "今回も意識障害が出現し救急外来を受診した.[EOS]"}
+{"ID": [55, 6], "entities": [], "annotated_sentence": "その頃より後頸部に浸出性紅斑が出現し,両上肢,軀幹に拡大した。", "generated": "その頃より後頸部に浸出性紅斑が出現し,両上肢,軀幹に拡大した。[EOS]"}
+{"ID": [59, 8], "entities": [], "annotated_sentence": "切断前から両側下肢に筋萎縮を認めた.", "generated": "切断前から両側下肢に筋萎縮を認めた.[EOS]"}
+{"ID": [9, 4], "entities": [], "annotated_sentence": "胃癌の診断にて平成8年12月胃全摘術施行。", "generated": "胃癌の診断にて平成8年12月胃全摘術施行。[EOS]"}
+{"ID": [30, 23], "entities": [], "annotated_sentence": "しかし、生活習慣を改善できず、糖尿病は悪化、透析により活動制限をきたした。", "generated": "しかし、生活習慣を改善できず、糖尿病は悪化、透析により活動制限をきたした。[EOS]"}
+{"ID": [66, 19], "entities": [], "annotated_sentence": "1年程前から車椅子自走時に両股関節屈曲、両膝関節伸展、両足趾屈曲が強くなった。", "generated": "1年程前から車椅子自走時に両股関節屈曲、両膝関節伸展、両足趾屈曲が強くなった。[EOS]"}
+{"ID": [137, 12], "entities": [], "annotated_sentence": "開腹術によるシャント結紮術よりも,BRTOなど侵襲の低い経カテーテル治療を第一選択と考えるべきであるが,本例は,シャントに対する経カテーテル的アプローチが困難な症例であり,手技に伴う出血合併症のため,開腹にて肝外シャント結紮,脾摘術が行われた.", "generated": "<m-key>BRTO</m-key><m-val>など侵襲の低い経カテーテル治療</m-val>を第一選択と考えるべきであるが,本例は,シャントに対する経カテーテル的アプローチが困難な症例であり,手技に伴う出血合併症のため,開腹にて<m-key>肝外シャント結紮,脾摘術</m-key>が行われた.[EOS]"}
+{"ID": [0, 7], "entities": [{"name": "イマチニブ", "span": [38, 43], "type_id": 34, "type": "m-key_other"}, {"name": "CDDO", "span": [47, 51], "type_id": 34, "type": "m-key_other"}], "annotated_sentence": "PersonalizedMedicineの強皮症での運用方法を検討するため,<m-key state=\"other\">イマチニブ</m-key>もしくは<m-key state=\"other\">CDDO</m-key>が6名の強皮症患者皮膚由来の線維芽細胞のコラーゲン産生に及ぼす効果について検討した.", "generated": "PersonalizedMedicineの強皮症での運用方法を検討するため,イマチニブもしくは<m-key>CDDO</m-key>が6名の強皮症患者皮膚由来の線維芽細胞のコラーゲン産生に及ぼす効果について検討した.[EOS]"}
+{"ID": [24, 8], "entities": [], "annotated_sentence": "内訳は8例とも女性で平均年齢64.1±13.8歳であり、CCS固定術を施行した症例は3例、Hansson pin固定術を施行した症例は5例であった。", "generated": "内訳は8例とも女性で平均年齢64.1±13.8歳であり、CCS固定術を施行した症例は3例、Hansson pin固定術を施行した症例は5例であった。[EOS]"}
+{"ID": [16, 7], "entities": [], "annotated_sentence": "症例Aは3歳女児.", "generated": "[EOS]"}
+{"ID": [56, 1], "entities": [], "annotated_sentence": "左肺舌区S4に約24mm大の不整形な充実性結節がみられ,内部に気管支拡張を伴っています。肺癌の可能性が疑われます。精査をご検討ください。", "generated": "左肺舌区S4に約24mm大の不整形な充実性結節がみられ,内部に気管支拡張を伴っています。肺癌の可能性が疑われます。精査をご検討ください。[EOS]"}
+{"ID": [105, 5], "entities": [{"name": "oxaliplatin", "span": [15, 26], "type_id": 32, "type": "m-key_negated"}, {"name": "bevacizumab", "span": [30, 41], "type_id": 31, "type": "m-key_executed"}], "annotated_sentence": "第13コース(10コース目より<m-key state=\"negated\">oxaliplatin</m-key>は休薬、<m-key state=\"executed\">bevacizumab</m-key>は12回投与)開始後20日目に、腹痛と嘔吐を主訴に近医を受診し、イレウスの診断で当院へ搬送となった。", "generated": "第13コース(10コース目より<m-key>oxaliplatin</m-key><m-val>は休薬、</m-val><m-key>bevacizumab</m-key><m-val>は12回投与)開始後20日目に、腹痛と嘔吐を主訴に近医を受診し、イレウスの診断で当院へ搬送となった。[EOS]"}
+{"ID": [144, 12], "entities": [], "annotated_sentence": "切除した検体の重量は33gであった。", "generated": "切除した検体の重量は33gであった。[EOS]"}
+{"ID": [13, 2], "entities": [], "annotated_sentence": "3年前より白アリ駆除業に従事。", "generated": "[EOS]"}
+{"ID": [70, 17], "entities": [], "annotated_sentence": "〔予後〕1年8カ月結石再発なし。", "generated": "<タグ付が付与された文>[EOS]"}
+{"ID": [66, 14], "entities": [], "annotated_sentence": "【経過】", "generated": "[EOS]"}
+{"ID": [16, 5], "entities": [], "annotated_sentence": "N因子はN2と考えます。", "generated": "N因子はN2と考えます。[EOS]"}
+{"ID": [54, 5], "entities": [], "annotated_sentence": "今回,慢性期皮膚筋炎患者に対して股関節外転筋のSTの効果と安全性を検討した.", "generated": "今回,慢性期皮膚筋炎患者に対して股関節外転筋のSTの効果と安全性を検討した.[EOS]"}
+{"ID": [71, 3], "entities": [], "annotated_sentence": "その後腹膜播種巣が増大し10歳時に切除術を施行した.", "generated": "その後腹膜播種巣が増大し10歳時に<m-key>切除術</m-key>を施行した.[EOS]"}
+{"ID": [66, 1], "entities": [], "annotated_sentence": "【はじめに】", "generated": "[EOS]"}
+{"ID": [9, 6], "entities": [], "annotated_sentence": "その2ヶ月後再狭窄による黄疸出現しPTCDにて減黄。", "generated": "その2ヶ月後再狭窄による黄疸出現しPTCDにて減黄。[EOS]"}
+{"ID": [24, 19], "entities": [], "annotated_sentence": "【考察・まとめ】", "generated": "[EOS]"}
+{"ID": [70, 17], "entities": [], "annotated_sentence": "今回我々は術後14年の乳腺浸潤性小葉癌の小腸転移再発と早期胃癌の合併症例を経験したので報告する。", "generated": "今回我々は術後14年の乳腺浸潤性小葉癌の小腸転移再発と早期胃癌の合併症例を経験したので報告する。[EOS]"}
+{"ID": [19, 2], "entities": [], "annotated_sentence": "その他肺野に明らかな異常陰影指摘できません。", "generated": "その他肺野に明らかな異常陰影指摘できません。[EOS]"}
+{"ID": [1, 20], "entities": [], "annotated_sentence": "日記を開始した直後は,自発的な取り組みはみられていなかったが,2週間後には自発的に記入しようとする様子がみられ8週間後には自発的な記入が定着した。", "generated": "日記を開始した直後は,自発的な取り組みはみられていなかったが,2週間後には自発的に記入しようとする様子がみられ8週間後には自発的な記入が定着した。[EOS]"}
+{"ID": [8, 11], "entities": [], "annotated_sentence": "術後経過は良好で術語22日目に退院となった。", "generated": "術後経過は良好で術語22日目に退院となった。[EOS]"}
+{"ID": [72, 9], "entities": [], "annotated_sentence": "なお、 PT介入時とBWSTT介入時の頻度は同様に行った(週4~5回)。", "generated": "なお、 PT介入時とBWSTT介入時の頻度は同様に行った(週4~5回)。[EOS]"}
+{"ID": [82, 18], "entities": [{"name": "ICI", "span": [4, 7], "type_id": 34, "type": "m-key_other"}], "annotated_sentence": "【考察】<m-key state=\"other\">ICI</m-key>関連の肝障害は多彩な組織像を呈する.", "generated": "ICI関連の肝障害は多彩な組織像を呈する.[EOS]"}
+{"ID": [45, 2], "entities": [], "annotated_sentence": "深部静脈血栓症(以下DVT)は肺塞栓症(以下PE)の原因となり、予後不良の転帰を示すため、急性期からDVTの予防や早期発見が重要とされている。", "generated": "深部静脈血栓症(以下DVT)は肺塞栓症(以下PE)の原因となり、予後不良の転帰を示すため、急性期からDVTの予防や早期発見が重要とされている。[EOS]"}
+{"ID": [71, 1], "entities": [], "annotated_sentence": "肺尖部にはブラを認めます。", "generated": "[EOS]"}
+{"ID": [24, 12], "entities": [], "annotated_sentence": "aNOは本症における急性相反応物質のひとつである可能性が示唆された.", "generated": "aNOは本症における急性相反応物質のひとつである可能性が示唆された.[EOS]"}
+{"ID": [47, 1], "entities": [], "annotated_sentence": "今回我々は術後3年目に転移再発をきたしたpTla食道癌の1例を経験したので報告する。", "generated": "今回我々は術後3年目に転移再発をきたしたpTla食道癌の1例を経験したので報告する。[EOS]"}
+{"ID": [45, 2], "entities": [], "annotated_sentence": "縦隔、肺門、腋窩に病的リンパ節腫大は見られません。", "generated": "縦隔、肺門、腋窩に病的リンパ節腫大は見られません。[EOS]"}
+{"ID": [24, 2], "entities": [], "annotated_sentence": "その他、肺・縦隔に特記所見ありません。胸水は認めません。", "generated": "その他、肺・縦隔に特記所見ありません。胸水は認めません。[EOS]"}
+{"ID": [2, 5], "entities": [], "annotated_sentence": "わずかに両側胸水を認めます。", "generated": "わずかに両側胸水を認めます。[EOS]"}
+{"ID": [46, 6], "entities": [], "annotated_sentence": "【経過】", "generated": "[EOS]"}
+{"ID": [11, 10], "entities": [], "annotated_sentence": "内視鏡的に全摘が可能と判断したため,照射を12Gyで中断して3月初旬にELPSにて病巣を切除した。", "generated": "内視鏡的に全摘が可能と判断したため,照射を12Gyで中断して3月初旬に<m-key>ELPS</m-key>にて病巣を切除した。[EOS]"}
+{"ID": [0, 4], "entities": [], "annotated_sentence": "胸水はありません。", "generated": "胸水はありません。[EOS]"}
+{"ID": [29, 7], "entities": [], "annotated_sentence": "爪囲紅斑(-)。", "generated": "爪囲紅斑(-)。[EOS]"}
+{"ID": [31, 1], "entities": [{"name": "ワルファリン(WF)", "span": [4, 14], "type_id": 34, "type": "m-key_other"}], "annotated_sentence": "【目的】<m-key state=\"other\">ワルファリン(WF)</m-key>は血栓予防を目的に汎用されるが、その効果は個人差が大きく、また併用薬との相互作用により投与量設定に苦慮する場合が多い。", "generated": "【目的】<m-key>ワルファリン</m-key><m-val>は血栓予防を目的に汎用されるが、その効果は個人差が大きく、また併用薬との相互作用により投与量設定に苦慮する場合が多い。[EOS]"}
+{"ID": [66, 8], "entities": [], "annotated_sentence": "胸水貯留はありません。", "generated": "胸水貯留はありません。[EOS]"}
+{"ID": [140, 10], "entities": [{"name": "S-1/CDDP", "span": [0, 8], "type_id": 34, "type": "m-key_other"}], "annotated_sentence": "<m-key state=\"other\">S-1/CDDP</m-key>を用いた切除不能進行胃癌の平均余命は約13か月と報告されているが,down stagingにより根治切除し得た例では,長期生存例も多数報告する.", "generated": "S-1/CDDPを用いた切除不能進行胃癌の平均余命は約13か月と報告されているが,down stagingにより根治切除し得た例では,長期生存例も多数報告する.[EOS]"}
+{"ID": [12, 2], "entities": [], "annotated_sentence": "昭和62年3月14日当科初診。", "generated": "[EOS]"}
+{"ID": [106, 3], "entities": [], "annotated_sentence": "【現病歴】20XX年1月頃より全身倦怠感および食欲不振を認め近医を受診した,その頃の血液検査でわずかに肝胆道系酵素の上昇は認めていたが,20XX年7月より胆道系酵素の急激な上昇を認めたため,原因精査目的に当院当科紹介となった.", "generated": "【現病歴】20XX年1月頃より全身倦怠感および食欲不振を認め近医を受診した,その頃の血液検査でわずかに肝胆道系酵素の上昇は認めていたが,20XX年7月より<m-key>胆道系酵素</m-key><m-val>の急激な上昇</m-val>を認めたため,原因精査目的に当院当科紹介となった.[EOS]"}
+{"ID": [15, 2], "entities": [], "annotated_sentence": "リンパ節の有意な腫大は指摘できません。リンパ節転移を疑う所見は指摘できません。", "generated": "リンパ節の有意な腫大は指摘できません。リンパ節転移を疑う所見は指摘できません。[EOS]"}
+{"ID": [34, 16], "entities": [], "annotated_sentence": "バイタル著変なく、第34病日、自宅退院となる。", "generated": "バイタル著変なく、第34病日、自宅退院となる。[EOS]"}
+{"ID": [4, 5], "entities": [], "annotated_sentence": "現在、GMFCS:IVレベルで日常的な移動には電動車いすを使用している。", "generated": "現在、GMFCS:IVレベルで日常的な移動には電動車いすを使用している。[EOS]"}
+{"ID": [14, 1], "entities": [], "annotated_sentence": "広範囲の胸壁浸潤に対して病巣切除とチタン性リコンストラクシヨンブレート(以下プレート)による再建がQ.O.Lの改善をもたらした局所進行乳癌の1例を経験した.", "generated": "広範囲の胸壁浸潤に対して病巣切除とチタン性リコンストラクシヨンブレート(以下プレート)による再建がQ.O.Lの改善をもたらした局所進行乳癌の1例を経験した.[EOS]"}
+{"ID": [16, 13], "entities": [], "annotated_sentence": "治療仮説としては,接触による自己の身体認識の欠如から体幹背面と床面との関係性が作れない状態と考えられたため,まず手掌に対し弱い接触刺激を受け入れることから行い,徐々に手指の屈筋緊張が緩和されたところで,自分で自分の身体に触れるダブルタッチを可能な範囲で他動かつ愛護的に行った.", "generated": "<m-key>エトレチナート</m-key><m-val>30mg/日</m-val>投与開始し,皮疹は安定化。[EOS]"}
+{"ID": [42, 2], "entities": [], "annotated_sentence": "深部静脈血栓症(DVT)は、大腿静脈や総腸骨静脈などの深在性静脈内で血液凝固による血栓が生じる病態をいう。", "generated": "深部静脈血栓症(DVT)は、大腿静脈や総腸骨静脈などの深在性静脈内で血液凝固による血栓が生じる病態をいう。[EOS]"}
+{"ID": [51, 24], "entities": [], "annotated_sentence": "久保らの報告では、ヒト歩行中の腓腹筋の筋線維束・腱の動態を超音波で観察した結果、立脚中期から後期で腓腹筋が遠心性収縮を行っているときに、筋全長は伸張しているにもかかわらず、筋線維東長はほぼ一定の値を示している。", "generated": "<m-key>ヒト歩行中の腓腹筋</m-key><m-val>の筋線維束・腱の動態を超音波で観察した結果、立脚中期から後期で腓腹筋が遠心性収縮を行っているときに、筋全長は伸張しているにもかかわらず、筋線維東長はほぼ一定の値を示している。[EOS]"}
+{"ID": [130, 10], "entities": [], "annotated_sentence": "又胸部レ線で左肺門リンパ節腫大(+)。", "generated": "又胸部レ線で左肺門リンパ節腫大(+)。[EOS]"}
+{"ID": [22, 9], "entities": [], "annotated_sentence": "CTでは慢性肝障害,脾腫,皮下浮腫増悪を認め,両側胸水貯留,肺水腫と右上葉浸潤影を合併していた.", "generated": "CTでは慢性肝障害,脾腫,皮下浮腫増悪を認め,両側胸水貯留,肺水腫と右上葉浸潤影を合併していた.[EOS]"}
+{"ID": [45, 9], "entities": [], "annotated_sentence": "8病日:D-dimer:38.0と上昇を認めたが、造影CT検査では血栓を認めず。", "generated": "8病日:D-dimer:38.0と上昇を認めたが、造影CT検査では血栓を認めず。[EOS]"}
+{"ID": [41, 7], "entities": [], "annotated_sentence": "80歳代前半の軽費老人ホーム入所中の女性。", "generated": "[EOS]"}
+{"ID": [37, 7], "entities": [], "annotated_sentence": "入院2日目に医師、看護師とともに腹臥位療法を開始し入院14日目まで4時間/回、2回/日の頻度で継続した。", "generated": "入院2日目に医師、看護師とともに腹臥位療法を開始し入院14日目まで<m-key>4時間/回</m-key><m-val>、2回/日の頻度で継続した。[EOS]"}
+{"ID": [35, 5], "entities": [], "annotated_sentence": "対象は77歳女性。", "generated": "[EOS]"}
+{"ID": [73, 14], "entities": [], "annotated_sentence": "10月25日、坐位姿勢として骨盤前傾しているものの、触診では腰椎前弯は減少しており、坐位での体幹前屈時に左PSISは右PSISよりも前方移動が少ないことが認められた。", "generated": "坐位姿勢として骨盤前傾しているものの、触診では腰椎前弯は減少しており、坐位での体幹前屈時に左PSISは右PSISよりも前方移動が少ないことが認められた。[EOS]"}
+{"ID": [102, 6], "entities": [{"name": "diltiazem", "span": [4, 13], "type_id": 31, "type": "m-key_executed"}, {"name": "nitroglycerin", "span": [43, 56], "type_id": 31, "type": "m-key_executed"}], "annotated_sentence": "その後、<m-key state=\"executed\">diltiazem</m-key>の継続服用にて胸痛殆ど消失するも年2~3回ACP発現、これは<m-key state=\"executed\">nitroglycerin</m-key>内服で容易に消失す。", "generated": "その後、<m-key>diltiazem</m-key><m-val>の継続服用にて胸痛殆ど消失するも年2~3回ACP発現、これは<m-key>nitroglycerin</m-key><m-val>内服で容易に消失す。[EOS]"}
+{"ID": [62, 1], "entities": [], "annotated_sentence": "行動療法では,いわゆる治療者-患者関係が主要な治療要因と関連して取り扱われることは余りない。", "generated": "行動療法では,いわゆる治療者-患者関係が主要な治療要因と関連して取り扱われることは余りない。[EOS]"}
+{"ID": [43, 13], "entities": [], "annotated_sentence": "心臓超音波:推定右室圧60mmHgと中等度の肺高血圧。", "generated": "心臓超音波:推定右室圧<m-val>60mmHg</m-val>と中等度の肺高血圧。[EOS]"}
+{"ID": [42, 1], "entities": [], "annotated_sentence": "右肺下葉に15mm大の結節がみられ,右下葉気管支を閉塞しています。右肺下葉は無気肺に陥っています。", "generated": "右肺下葉に15mm大の結節がみられ,右下葉気管支を閉塞しています。右肺下葉は無気肺に陥っています。[EOS]"}
+{"ID": [52, 30], "entities": [], "annotated_sentence": "今後も継続して行い、報告していきたい。", "generated": "今後も継続して行い、報告していきたい。[EOS]"}
+{"ID": [56, 6], "entities": [], "annotated_sentence": "右肺中葉S5に多角形小結節を認めますが,良性病変と思われます。", "generated": "右肺中葉S5に多角形小結節を認めますが,良性病変と思われます。[EOS]"}
+{"ID": [123, 8], "entities": [{"name": "造影剤", "span": [24, 27], "type_id": 31, "type": "m-key_executed"}], "annotated_sentence": "腹部造影CTにて胆嚢壁は造影されず、また胆嚢内に<m-key state=\"executed\">造影剤</m-key>の血管外漏出を認め、胆嚢壊死による出血と考えられた。", "generated": "腹部造影CTにて胆嚢壁は造影されず、また胆嚢内に造影剤の血管外漏出を認め、胆嚢壊死による出血と考えられた。[EOS]"}
+{"ID": [13, 6], "entities": [], "annotated_sentence": "Th7椎体周囲に軟部影を認め、骨転移を疑います。左第6肋骨に骨硬化像を認め、こちらも転移を疑います。", "generated": "Th7椎体周囲に軟部影を認め、骨転移を疑います。左第6肋骨に骨硬化像を認め、こちらも転移を疑います。[EOS]"}
+{"ID": [40, 5], "entities": [], "annotated_sentence": "現病歴:46歳時黄疸と瘙痒,口腔乾燥出現。", "generated": "現病歴:46歳時黄疸と瘙痒,口腔乾燥出現。[EOS]"}
+{"ID": [122, 5], "entities": [], "annotated_sentence": "特異的IgEはシラカンバ・ハンノキでクラス5,モモ・リンゴでクラス3,イチゴでクラス2陽性であり,大豆はクラス1であった,プリックテストでは,豆乳・大豆で(3+),おぼろ豆腐・湯葉・豆腐で(2+)陽性であった.", "generated": "特異的IgEはシラカンバ・ハンノキでクラス5,モモ・リンゴでクラス3,イチゴでクラス2陽性であり,大豆はクラス1であった,プリックテストでは,豆乳・大豆で<m-val>3+</m-val>,おぼろ豆腐・湯葉・豆腐で<m-val>2+</m-val>陽性であった.[EOS]"}
+{"ID": [90, 3], "entities": [], "annotated_sentence": "第8~11胸椎椎体に骨硬化性陰影を認めます。骨硬化性骨転移を疑います。", "generated": "第8~11胸椎椎体に骨硬化性陰影を認めます。骨硬化性骨転移を疑います。[EOS]"}
+{"ID": [131, 12], "entities": [], "annotated_sentence": "体幹および四肢の皮膚は萎縮が強く,PUVA lentigineが多発。", "generated": "体幹および四肢の皮膚は萎縮が強く,PUVA lentigineが多発。[EOS]"}
+{"ID": [23, 7], "entities": [], "annotated_sentence": "対象は2014年4月から2015年10月までに,当院へ通院あるいは入院していたPSP患者(13名,年齢:72.1±8.9歳),PD患者(14名,年齢:74.4±5.6歳)で歩行自立から監視レベルの運動機能を有する者とした。", "generated": "<m-key>対象</m-key>は2014年4月から2015年10月までに,<m-key>当院</m-key>へ通院あるいは入院していた<m-key>PSP患者</m-key>(13名,年齢:72.1±8.9歳),<m-key>PD患者</m-key>(14名,年齢:74.4±5.6歳)で歩行自立から監視レベルの運動機能"}
+{"ID": [39, 7], "entities": [], "annotated_sentence": "その他、観察範囲内に明らかな異常を指摘できません。", "generated": "その他、観察範囲内に明らかな異常を指摘できません。[EOS]"}
+{"ID": [99, 8], "entities": [], "annotated_sentence": "方法は、局所麻酔下、一時型尿道ステントを抜去後、永久型尿道ステントを留置した。", "generated": "方法は、局所麻酔下、一時型尿道ステントを抜去後、<m-key>永久型尿道ステント</m-key><m-val>を留置した。</m-val>[EOS]"}
+{"ID": [2, 3], "entities": [], "annotated_sentence": "胸水はありません。", "generated": "胸水はありません。[EOS]"}
+{"ID": [48, 14], "entities": [], "annotated_sentence": "個々の症例に応じた臨機応変な判断が必要と考えられ、化学療法でCRが得られた進行直腸癌の1例を経験したので若干の文献的考察を加え報告する。", "generated": "個々の症例に応じた臨機応変な判断が必要と考えられ、化学療法でCRが得られた進行直腸癌の1例を経験したので若干の文献的考察を加え報告する。[EOS]"}
+{"ID": [38, 27], "entities": [], "annotated_sentence": "本症例報告において振動刺激の有効性は断定できないが、今後パーキンソン症状に対する振動刺激の影響を明らかにする必要がある。", "generated": "本症例報告において振動刺激の有効性は断定できないが、今後パーキンソン症状に対する振動刺激の影響を明らかにする必要がある。[EOS]"}
+{"ID": [59, 31], "entities": [], "annotated_sentence": "また,SF-36v21TMの社会的生活機能改善は,本人の希望に沿った屋外歩行や階段昇降の早期実施が可能となり切断後に制限を覚悟していた趣味活動再開や仕事復帰への希望が持てたからであると考える.", "generated": "また,SF-36v21TMの社会的生活機能改善は,本人の希望に沿った屋外歩行や階段昇降の早期実施が可能となり切断後に制限を覚悟していた趣味活動再開や仕事復帰への希望が持てたからであると考える.[EOS]"}
+{"ID": [69, 11], "entities": [{"name": "プレガバリン", "span": [40, 46], "type_id": 32, "type": "m-key_negated"}], "annotated_sentence": "開始9日後、急激な腎機能の悪化と尿管ステント閉塞を認め、ただちに右腎瘻を造設し、<m-key state=\"negated\">プレガバリン</m-key>を中止した。", "generated": "開始9日後、急激な腎機能の悪化と尿管ステント閉塞を認め、ただちに右腎瘻を造設し、<m-key>プレガバリン</m-key>を中止した。[EOS]"}
+{"ID": [96, 16], "entities": [], "annotated_sentence": "しかしいずれの検査も異常値ではあるが,Wilson病と診断できるほどの値ではなく,遺伝子変異も認めなかった.", "generated": "しかしいずれの検査も異常値ではあるが,Wilson病と診断できるほどの値ではなく,遺伝子変異も認めなかった.[EOS]"}
+{"ID": [7, 3], "entities": [], "annotated_sentence": "また神経筋疾患による呼吸筋力弱化による不十分な咳嗽や嚥下機能低下は肺合併症の原因となっている。", "generated": "また神経筋疾患による呼吸筋力弱化による不十分な咳嗽や嚥下機能低下は肺合併症の原因となっている。[EOS]"}
+{"ID": [19, 4], "entities": [], "annotated_sentence": "数ケ月後に消褪。", "generated": "数ケ月後に消褪。[EOS]"}
+{"ID": [3, 8], "entities": [], "annotated_sentence": "薬剤リンパ球刺激刺験,貼布試験はともに陰性。", "generated": "薬剤リンパ球刺激刺験,貼布試験はともに陰性。[EOS]"}
+{"ID": [61, 7], "entities": [], "annotated_sentence": "その他、観察範囲内に明らかな異常所見を認めません。", "generated": "その他、観察範囲内に明らかな異常所見を認めません。[EOS]"}
+{"ID": [5, 11], "entities": [], "annotated_sentence": "受傷前の日常生活動作は自立していた。", "generated": "[EOS]"}
+{"ID": [40, 2], "entities": [], "annotated_sentence": "初診:平成元年2月。", "generated": "[EOS]"}
+{"ID": [38, 20], "entities": [], "annotated_sentence": "【考察】", "generated": "[EOS]"}
+{"ID": [13, 6], "entities": [], "annotated_sentence": "症例は20代女性,診断名は頸椎症。", "generated": "症例は20代女性,診断名は頸椎症。[EOS]"}
+{"ID": [39, 1], "entities": [], "annotated_sentence": "【目的】", "generated": "[EOS]"}
+{"ID": [39, 13], "entities": [], "annotated_sentence": "【結果】", "generated": "[EOS]"}
+{"ID": [19, 1], "entities": [], "annotated_sentence": "縦隔浸潤が疑われますが、明らかな上大静脈浸潤は指摘できません(T4)。右上葉枝はこれにより狭窄し、上葉無気肺を呈しています。", "generated": "縦隔浸潤が疑われますが、明らかな上大静脈浸潤は指摘できません(T4)。右上葉枝はこれにより狭窄し、上葉無気肺を呈しています。[EOS]"}
+{"ID": [94, 1], "entities": [], "annotated_sentence": "我々は最近,本邦では稀な特発性妊娠黄疸の一症例を経験したので報告する。", "generated": "我々は最近,本邦では稀な特発性妊娠黄疸の一症例を経験したので報告する。[EOS]"}
+{"ID": [41, 15], "entities": [], "annotated_sentence": "介入開始後、早期に日中の臥床は減り、4週目には歩行時の痛みの軽減を認めた。", "generated": "介入開始後、早期に日中の臥床は減り、4週目には歩行時の痛みの軽減を認めた。[EOS]"}
+{"ID": [146, 6], "entities": [], "annotated_sentence": "腹部CTではS状結腸に径48mm大の腫瘍を認め、膀胱、膣断端への広範な直接浸潤と253番および左側方リンパ節転移を認め、S状結腸癌,cSI(膀胱、膣), cN3, cHO, cPO,cM1(#283), cStagelVと診断した。", "generated": "腹部CTではS状結腸に径48mm大の腫瘍を認め、膀胱、膣断端への広範な直接浸潤と253番および左側方リンパ節転移を認め、S状結腸癌,cSI(膀胱、膣), cN3, cHO, cPO,cM1(#283), cStagelVと診断した。[EOS]"}
+{"ID": [34, 1], "entities": [], "annotated_sentence": "一部、胸膜陥入を認めますが、明かな胸膜浸潤は指摘出来ません。", "generated": "一部、胸膜陥入を認めますが、明かな胸膜浸潤は指摘出来ません。[EOS]"}
+{"ID": [62, 1], "entities": [{"name": "茵蔯蒿湯", "span": [0, 4], "type_id": 34, "type": "m-key_other"}], "annotated_sentence": "<m-key state=\"other\">茵蔯蒿湯</m-key>は,胆汁分泌促進作用や抗炎症作用,静菌作用があるとされ,胆道閉鎖症の術後早期に投与することが有効であると報告されている.", "generated": "茵蔯蒿湯は,胆汁分泌促進作用や抗炎症作用,静菌作用があるとされ,胆道閉鎖症の術後早期に投与することが有効であると報告されている.[EOS]"}
+{"ID": [75, 5], "entities": [], "annotated_sentence": "血液検査でアミラーゼ上昇を認め、アルコール性慢性膵炎、膵石と診断された。", "generated": "血液検査でアミラーゼ上昇を認め、アルコール性慢性膵炎、膵石と診断された。[EOS]"}
+{"ID": [61, 27], "entities": [], "annotated_sentence": "また,この走行フォームは股関節ROM・筋力向上に伴い改善されたため,股関節伸展運動が走行時の重心上下運動にも影響していることが示唆される。", "generated": "また,この走行フォームは股関節ROM・筋力向上に伴い改善されたため,股関節伸展運動が走行時の重心上下運動にも影響していることが示唆される。[EOS]"}
+{"ID": [86, 4], "entities": [], "annotated_sentence": "現病歴:昭和40年頃発症。昭和59年頃より腫瘍期。", "generated": "現病歴:昭和40年頃発症。昭和59年頃より腫瘍期。[EOS]"}
+{"ID": [13, 7], "entities": [], "annotated_sentence": "以上より肺癌(cT4N2M1c)と考えます。", "generated": "以上より肺癌(cT4N2M1c)と考えます。[EOS]"}
+{"ID": [98, 6], "entities": [], "annotated_sentence": "皮疹は臨床的・組織学的に脂漏性湿疹と乾癬のどちらの性格も有していた。", "generated": "皮疹は臨床的・組織学的に脂漏性湿疹と乾癬のどちらの性格も有していた。[EOS]"}
+{"ID": [18, 15], "entities": [], "annotated_sentence": "神経学的所見:垂直方向の眼球運動障害,両下肢の踵膝試験陽性,右下腿三頭筋高緊張,失調性歩行,姿勢反射障害,構音・嚥下障害,認知障害(MMSE:22点)。", "generated": "垂直方向の眼球運動障害,両下肢の踵膝試験陽性,右下腿三頭筋高緊張,失調性歩行,姿勢反射障害,構音・嚥下障害,認知障害(MMSE:22点)。[EOS]"}
+{"ID": [62, 2], "entities": [], "annotated_sentence": "しかし,行動療法においては,修正目標を提示したり,患者にある行動をとらせたりなど,治療者はむしろ積極的な役割をとる。", "generated": "しかし,行動療法においては,修正目標を提示したり,患者にある行動をとらせたりなど,治療者はむしろ積極的な役割をとる。[EOS]"}
+{"ID": [39, 10], "entities": [], "annotated_sentence": "再手術前リハは、離床、ROM練習中心に実施。術後5日よりリハ再開。", "generated": "再手術前リハは、離床、ROM練習中心に実施。術後5日より<m-key>リハ</m-key><m-val>再開</m-val>。[EOS]"}
+{"ID": [73, 10], "entities": [], "annotated_sentence": "10月21日より担当となり、11月6日に自宅退院となった。", "generated": "[EOS]"}
+{"ID": [106, 7], "entities": [], "annotated_sentence": "血液検査所見および画像所見より原発性胆汁性胆管炎を疑い,肝生検を施行した,肝生検の病理像では,門脈域と類洞内にリンパ球主体の中等度から高度の炎症細胞浸潤がみられた.", "generated": "血液検査所見および画像所見より原発性胆汁性胆管炎を疑い,肝生検を施行した,肝生検の病理像では,門脈域と類洞内にリンパ球主体の中等度から高度の炎症細胞浸潤がみられた.[EOS]"}
+{"ID": [54, 14], "entities": [], "annotated_sentence": "左股関節外転筋に対しては高負荷で,側臥位で1RMの70%にて求心性収縮を10回×3セット実施した.", "generated": "左股関節外転筋に対しては高負荷で,側臥位で<m-key>1RM</m-key><m-val>の70%</m-val>にて求心性収縮を10回×3セット実施した.[EOS]"}
+{"ID": [104, 17], "entities": [{"name": "PSL", "span": [6, 9], "type_id": 31, "type": "m-key_executed"}, {"name": "45mg/日(1mg/kg/日)", "span": [10, 26], "type_id": 35, "type": "m-val_"}], "annotated_sentence": "第4病日より<m-key state=\"executed\">PSL</m-key> <m-val>45mg/日(1mg/kg/日)</m-val>の投与を開始した.", "generated": "第4病日より<m-key>PSL</m-key><m-val>45mg/日(1mg/kg/日)</m-val>の投与を開始した.[EOS]"}
+{"ID": [83, 6], "entities": [], "annotated_sentence": "昭和63年、顔面にも皮疹出現。", "generated": "昭和63年、顔面にも皮疹出現。[EOS]"}
+{"ID": [95, 10], "entities": [{"name": "コハク酸メチルプレドニゾロンナトリウム", "span": [7, 26], "type_id": 31, "type": "m-key_executed"}], "annotated_sentence": "皮疹の軽快後,<m-key state=\"executed\">コハク酸メチルプレドニゾロンナトリウム</m-key>のパッチテスト,皮内テスト,薬剤リンパ球幼若化試験を施行するもいずれも陰性。", "generated": "皮疹の軽快後,<m-key>コハク酸メチルプレドニゾロンナトリウム</m-key><m-val>のパッチテスト,皮内テスト,薬剤リンパ球幼若化試験を施行するもいずれも陰性。[EOS]"}
+{"ID": [42, 10], "entities": [], "annotated_sentence": "結果", "generated": "結果[EOS]"}
+{"ID": [39, 9], "entities": [], "annotated_sentence": "筋生検,筋電図では有意な所見は得られなかった。", "generated": "筋生検,筋電図では有意な所見は得られなかった。[EOS]"}
+{"ID": [5, 11], "entities": [], "annotated_sentence": "その結果、全身の反り返りは消失し、笑顔がみられた。", "generated": "その結果、全身の反り返りは消失し、笑顔がみられた。[EOS]"}
+{"ID": [104, 19], "entities": [], "annotated_sentence": "【考察】IrAEsとしての肝障害には,肝胆道系酵素上昇を伴う肝不全,肝炎,硬化性胆管炎が報告されている.", "generated": "【考察】IrAEsとしての肝障害には,肝胆道系酵素上昇を伴う肝不全,肝炎,硬化性胆管炎が報告されている.[EOS]"}
+{"ID": [65, 5], "entities": [], "annotated_sentence": "【方法】入院中の統合失調症患者について、同一日の処方を調査した。", "generated": "【方法】入院中の統合失調症患者について、同一日の処方を調査した。[EOS]"}
+{"ID": [54, 9], "entities": [], "annotated_sentence": "EMG:四肢中枢でlow voltage。", "generated": "EMG:四肢中枢でlow voltage。[EOS]"}
+{"ID": [59, 17], "entities": [], "annotated_sentence": "評価方法として,OHの程度は立位時の血圧,脈拍の変化,歩行機能は6分間歩行距離(以下,6MWD),Physiological Cost Index(以下,PCI),10m歩行,歩行観察を用いた.", "generated": "評価方法として,OHの程度は立位時の血圧,脈拍の変化,歩行機能は6分間歩行距離(以下,6MWD),Physiological Cost Index(以下,PCI),10m歩行,歩行観察を用いた.[EOS]"}
+{"ID": [55, 11], "entities": [], "annotated_sentence": "胃生検にて未分化腺癌と判明した。", "generated": "胃生検にて未分化腺癌と判明した。[EOS]"}
+{"ID": [23, 2], "entities": [], "annotated_sentence": "右肺門から縦隔にかけて、多数の結節を認めます。いずれもリンパ節腫大を疑います。リンパ節転移の混在の可能性が高いと思います。", "generated": "右肺門から縦隔にかけて、多数の結節を認めます。いずれもリンパ節腫大を疑います。リンパ節転移の混在の可能性が高いと思います。[EOS]"}
+{"ID": [6, 3], "entities": [], "annotated_sentence": "胸水貯留を認めません。", "generated": "胸水貯留を認めません。[EOS]"}
+{"ID": [18, 3], "entities": [], "annotated_sentence": "両肺尖部にbulla、右肺上葉・中葉や左肺下葉に小結節、両肺下葉には左側優位に線状索状影を認め、陳旧性炎症性変化を疑います。", "generated": "両肺尖部にbulla、右肺上葉・中葉や左肺下葉に小結節、両肺下葉には左側優位に線状索状影を認め、陳旧性炎症性変化を疑います。[EOS]"}
+{"ID": [30, 10], "entities": [], "annotated_sentence": "今回、2011年7月に発熱、左足背部より排膿もみられ、創部感染のため入院となった。", "generated": "今回、2011年7月に発熱、左足背部より排膿もみられ、創部感染のため入院となった。[EOS]"}
+{"ID": [69, 14], "entities": [], "annotated_sentence": "【結果】", "generated": "[EOS]"}
+{"ID": [131, 8], "entities": [{"name": "0.3%8MOP軟膏", "span": [8, 18], "type_id": 31, "type": "m-key_executed"}], "annotated_sentence": "その後10年間,<m-key state=\"executed\">0.3%8MOP軟膏</m-key>を外用して自宅で日光浴をしていた。", "generated": "その後10年間,<m-key>0.3%8MOP</m-key><m-val>軟膏</m-val>を外用して自宅で日光浴をしていた。[EOS]"}
+{"ID": [139, 2], "entities": [], "annotated_sentence": "【症例】27歳女性.", "generated": "[EOS]"}
+{"ID": [60, 7], "entities": [], "annotated_sentence": "上肢挙上,起立困難となり,Y+1月Z日に他院を受診し精査加療目的で入院.その後,脱力症状が増悪しGottron徴候,機械工の手がみられ,Z+30日に皮膚筋炎と診断.", "generated": "上肢挙上,起立困難となり,Y+1月Z日に他院を受診し精査加療目的で入院.その後,脱力症状が増悪しGottron徴候,機械工の手がみられ,Z+30日に<m-key>皮膚筋炎</m-key>と診断。[EOS]"}
+{"ID": [127, 5], "entities": [], "annotated_sentence": "症例は62歳,男性.", "generated": "[EOS]"}
+{"ID": [84, 3], "entities": [], "annotated_sentence": "症例は71歳、女性。", "generated": "[EOS]"}
+{"ID": [70, 4], "entities": [], "annotated_sentence": "〔入院時現症〕腹部は異常なし。", "generated": "[EOS]"}
+{"ID": [5, 5], "entities": [], "annotated_sentence": "胸水貯留を認めません。", "generated": "胸水貯留を認めません。[EOS]"}
+{"ID": [123, 9], "entities": [], "annotated_sentence": "さらに肝表面に腹水が出現し胆嚢穿孔も示唆されたため、緊急に腹腔鏡下胆嚢摘出術を行った。", "generated": "さらに肝表面に腹水が出現し胆嚢穿孔も示唆されたため、緊急に腹腔鏡下胆嚢摘出術を行った。[EOS]"}
+{"ID": [21, 1], "entities": [], "annotated_sentence": "腫瘤は胸壁に連続してみえ,左第2肋骨の骨折も伴っていることから,胸壁浸潤しているものと考えます。", "generated": "腫瘤は胸壁に連続してみえ,左第2肋骨の骨折も伴っていることから,胸壁浸潤しているものと考えます。[EOS]"}
+{"ID": [7, 2], "entities": [], "annotated_sentence": "く主訴〉発熱,発疹", "generated": "[EOS]"}
+{"ID": [121, 1], "entities": [{"name": "セレコキシブ", "span": [4, 10], "type_id": 31, "type": "m-key_executed"}], "annotated_sentence": "【目的】<m-key state=\"executed\">セレコキシブ</m-key>による多形紅斑型薬疹の1例の報告", "generated": "【目的】セレコキシブによる多形紅斑型薬疹の1例の報告[EOS]"}
+{"ID": [129, 14], "entities": [], "annotated_sentence": "【病理】病理検索では,右卵巣線維腫に管状腺癌の浸潤が認められた.", "generated": "【病理】病理検索では,右卵巣線維腫に<m-key>管状腺癌</m-key>の浸潤が認められた.[EOS]"}
+{"ID": [2, 5], "entities": [], "annotated_sentence": "椎体や骨盤骨に硬化像を散見し、多発骨転移の可能性があります。", "generated": "椎体や骨盤骨に硬化像を散見し、多発骨転移の可能性があります。[EOS]"}
+{"ID": [94, 8], "entities": [], "annotated_sentence": "以後瘙痒感,肝機能は急速に改善したが,高Triglyceride血症のみ持続した。", "generated": "以後瘙痒感,肝機能は急速に改善したが,高Triglyceride血症のみ持続した。[EOS]"}
+{"ID": [78, 2], "entities": [], "annotated_sentence": "縦隔や肺門に有意なリンパ節腫大は指摘できません。", "generated": "縦隔や肺門に有意なリンパ節腫大は指摘できません。[EOS]"}
+{"ID": [146, 7], "entities": [{"name": "mFOLFOX6", "span": [43, 51], "type_id": 31, "type": "m-key_executed"}], "annotated_sentence": "治癒切除は困難と判断し、横行結腸双孔式人工肛門造設術を施行した後に、術前化学療法として<m-key state=\"executed\">mFOLFOX6</m-key>を約6ヵ月間、計7クール施行した。", "generated": "治癒切除は困難と判断し、横行結腸双孔式人工肛門造設術を施行した後に、術前化学療法として<m-key>mFOLFOX6</m-key><m-val>を約6ヵ月間、計7クール</m-val>施行した。[EOS]"}
+{"ID": [6, 8], "entities": [], "annotated_sentence": "IgE-RIST5171U/ml,RASTはダニとHDが陽性.", "generated": "IgE-RIST5171U/ml,RASTはダニとHDが陽性.[EOS]"}
+{"ID": [139, 10], "entities": [], "annotated_sentence": "4cmの小開腹で行い,術中透視を用いて責任病変を同定した.", "generated": "4cmの小開腹で行い,術中透視を用いて責任病変を同定した.[EOS]"}
+{"ID": [115, 9], "entities": [], "annotated_sentence": "病理所見でも胆嚢壁の全層性の壊死、好中球の浸潤を認め、病巣には桿菌が認められ壊疽性の急性胆嚢炎およびこれを責任病巣として矛盾しないという診断を得た。", "generated": "病理所見でも胆嚢壁の全層性の壊死、好中球の浸潤を認め、病巣には桿菌が認められ壊疽性の急性胆嚢炎およびこれを責任病巣として矛盾しないという診断を得た。[EOS]"}
+{"ID": [56, 13], "entities": [], "annotated_sentence": "【結論】本症例は,両上肢支持相で前方支持側右股関節屈曲制限により,代償的に右腰腸肋筋を過剰収縮させ,腰椎屈曲右側屈左回旋のアライメントを呈していた。", "generated": "【結論】本症例は,両上肢支持相で前方支持側右股関節屈曲制限により,代償的に右腰腸肋筋を過剰収縮させ,腰椎屈曲右側屈左回旋のアライメントを呈していた。[EOS]"}
+{"ID": [27, 2], "entities": [], "annotated_sentence": "右肺下葉には炎症瘢痕と思われる索状影を認めます。", "generated": "右肺下葉には炎症瘢痕と思われる索状影を認めます。[EOS]"}
+{"ID": [54, 21], "entities": [], "annotated_sentence": "STは,簡便に実施可能で,多くの筋に適応できるため,自宅での自主トレーニングにも適していると考えられる.", "generated": "STは,簡便に実施可能で,多くの筋に適応できるため,自宅での自主トレーニングにも適していると考えられる.[EOS]"}
+{"ID": [20, 2], "entities": [], "annotated_sentence": "上肺野には軽度の気腫性変化を認めます。", "generated": "上肺野には軽度の気腫性変化を認めます。[EOS]"}
+{"ID": [71, 26], "entities": [], "annotated_sentence": "それに対して,装具を用いて積極的な理学療法を進めた。", "generated": "それに対して,装具を用いて積極的な理学療法を進めた。[EOS]"}
+{"ID": [11, 11], "entities": [], "annotated_sentence": "膜嚢胞性病変は、結節性紅斑など皮膚脂肪織炎では認められる事が知られているが、サルコイドーシスに伴うものはまれと思われる。", "generated": "膜嚢胞性病変は、結節性紅斑など皮膚脂肪織炎では認められる事が知られているが、サルコイドーシスに伴うものはまれと思われる。[EOS]"}
+{"ID": [1, 9], "entities": [], "annotated_sentence": "さらに、 AFP産生性の胃管癌は我々の検索範囲内では過去に1例のみであり、考察を交えて報告する。", "generated": "さらに、 AFP産生性の胃管癌は我々の検索範囲内では過去に1例のみであり、考察を交えて報告する。[EOS]"}
+{"ID": [18, 29], "entities": [], "annotated_sentence": "PSP-Cは,症例数が非常に少なく,大規模な介入研究が難しい。", "generated": "PSP-Cは,症例数が非常に少なく,大規模な介入研究が難しい。[EOS]"}
+{"ID": [49, 2], "entities": [], "annotated_sentence": "RFS発生の高リスク因子としてBMI、 血清リン(以下IP)、カリウム、マグネシウムなどの低値があるが、IPの管理は特に重要である。", "generated": "RFS発生の高リスク因子としてBMI、血清リン(以下IP)、カリウム、マグネシウムなどの低値があるが、IPの管理は特に重要である。[EOS]"}
+{"ID": [82, 12], "entities": [{"name": "PSL", "span": [0, 3], "type_id": 31, "type": "m-key_executed"}, {"name": "0.5mg/kg", "span": [4, 12], "type_id": 35, "type": "m-val_"}], "annotated_sentence": "<m-key state=\"executed\">PSL</m-key> <m-val>0.5mg/kg</m-val>が投与され3週後にはAST 11U/L, ALT 26U/L, ALP 566U/L, γGTP 73U/Lに改善をした.", "generated": "<m-key>PSL</m-key><m-val>0.5mg/kg</m-val>が投与され3週後にはAST<m-val>11U/L</m-val>, ALT<m-val>26U/L</m-val>, ALP<m-val>566U/L</m-val>, γGTP<m-val>73U/L</m-val>に改善"}
+{"ID": [58, 19], "entities": [], "annotated_sentence": "二症例ともに、寡動の検査は術前と著変なかった。", "generated": "二症例ともに、寡動の検査は術前と著変なかった。[EOS]"}
+{"ID": [44, 8], "entities": [], "annotated_sentence": "5年間の経過と考察を報告する.", "generated": "[EOS]"}
+{"ID": [132, 7], "entities": [], "annotated_sentence": "血液,膿庖からの細菌培養は陰性。", "generated": "血液,膿庖からの細菌培養は陰性。[EOS]"}
+{"ID": [38, 7], "entities": [], "annotated_sentence": "入院前は電動車いすにてADLは自立していた。", "generated": "[EOS]"}
+{"ID": [55, 9], "entities": [], "annotated_sentence": "両下肢に軽度の筋力低下があり,腹部に板状の硬結と左頸部に小指頭大のリンパ節が触知された。", "generated": "両下肢に軽度の筋力低下があり,腹部に板状の硬結と左頸部に小指頭大のリンパ節が触知された。[EOS]"}
+{"ID": [1, 6], "entities": [], "annotated_sentence": "術後8ヶ月の造影CTにて多発肝転移を認め、 AFPは1798ng/mLと高値を示し、 AFP産生胃管癌、多発肝転移の診断となった。", "generated": "術後8ヶ月の造影CTにて多発肝転移を認め、 AFPは1798ng/mLと高値を示し、 AFP産生胃管癌、多発肝転移の診断となった。[EOS]"}
+{"ID": [59, 10], "entities": [], "annotated_sentence": "入院後、ヘパリン置換し、手術当日午前中に、右内頸静脈から一時的下大静脈フィルター(東レ・ニューハウスプロテクト)を留置し、午後から腹腔鏡下胆嚢摘出術を施行した。", "generated": "ヘパリン置換し、手術当日午前中に、右内頸静脈から一時的下大静脈フィルター(東レ・ニューハウスプロテクト)を留置し、午後から腹腔鏡下胆嚢摘出術を施行した。[EOS]"}
+{"ID": [25, 20], "entities": [], "annotated_sentence": "【結語】DIHSは稀な疾患ではあるが,重篤であり早急に診断し,治療する必要がある.", "generated": "【結語】DIHSは稀な疾患ではあるが,重篤であり早急に診断し,治療する必要がある.[EOS]"}
+{"ID": [8, 9], "entities": [], "annotated_sentence": "後日、尿培養よりC.albicansと同定された。", "generated": "後日、尿培養より<m-key>C.albicans</m-key>と同定された。[EOS]"}
+{"ID": [26, 7], "entities": [{"name": "ICS", "span": [11, 14], "type_id": 32, "type": "m-key_negated"}], "annotated_sentence": "【結論】ER受診症例は<m-key state=\"negated\">ICS</m-key>の使用がなされていない症例が未だに多い.", "generated": "【結論】ER受診症例はICSの使用がなされていない症例が未だに多い.[EOS]"}
+{"ID": [126, 1], "entities": [], "annotated_sentence": "症例:66歳女性", "generated": "症例:66歳女性[EOS]"}
+{"ID": [43, 2], "entities": [], "annotated_sentence": "慢性血栓塞栓性肺高血圧症(以下CTEPH)は、器質化した血栓による慢性的な肺動脈閉塞により肺高血圧症(以下PH)を合併した病態で、公費対象の特定疾患である。", "generated": "慢性血栓塞栓性肺高血圧症(以下CTEPH)は、器質化した血栓による慢性的な肺動脈閉塞により肺高血圧症(以下PH)を合併した病態で、公費対象の特定疾患である。[EOS]"}
+{"ID": [122, 1], "entities": [], "annotated_sentence": "60歳女性.", "generated": "[EOS]"}
+{"ID": [112, 11], "entities": [], "annotated_sentence": "【結語】後腹膜には組織学的に種々の腫瘍が稀ながら発生し、しかも悪性の確率が高い。", "generated": "【結語】後腹膜には組織学的に種々の腫瘍が稀ながら発生し、しかも悪性の確率が高い。[EOS]"}
+{"ID": [16, 10], "entities": [], "annotated_sentence": "甲状腺右葉に長径80mmの腫瘤を認めます。造影後のみの画像しかないため、造影効果は不明です。数年前より著変なく、良性病変と考えます。", "generated": "甲状腺右葉に長径80mmの腫瘤を認めます。造影後のみの画像しかないため、造影効果は不明です。数年前より著変なく、良性病変と考えます。[EOS]"}
+{"ID": [21, 7], "entities": [], "annotated_sentence": "術後リハビリ目的にX年1月8日転院となったが転院先でも同様に意識障害,高アンモニア血症を反復するようになっていた.", "generated": "術後リハビリ目的にX年1月8日転院となったが転院先でも同様に意識障害,高アンモニア血症を反復するようになっていた.[EOS]"}
+{"ID": [1, 16], "entities": [], "annotated_sentence": "記入後は内容について症例と共に読み返しを行い,感想を伝えたりその時の気持ちを聞く作業を行う。", "generated": "記入後は内容について症例と共に読み返しを行い,感想を伝えたりその時の気持ちを聞く作業を行う。[EOS]"}
+{"ID": [53, 18], "entities": [], "annotated_sentence": "【結語】現在のところ尋常性乾癬や抗TNF-α抗体治療と大腸癌発生との関連は不明であり,今後,症例を蓄積し検討する必要があると思われた.", "generated": "【結語】現在のところ尋常性乾癬や抗TNF-α抗体治療と大腸癌発生との関連は不明であり,今後,症例を蓄積し検討する必要があると思われた.[EOS]"}
+{"ID": [38, 4], "entities": [], "annotated_sentence": "腫瘤は縦隔や胸膜に広く接しており,浸潤が疑われます。", "generated": "腫瘤は縦隔や胸膜に広く接しており,浸潤が疑われます。[EOS]"}
+{"ID": [52, 12], "entities": [], "annotated_sentence": "接触支持面は後頭部・左側頭部、左肩甲帯、右体幹、右腎部の圧が大きい。", "generated": "接触支持面は後頭部・左側頭部、左肩甲帯、右体幹、右腎部の圧が大きい。[EOS]"}
+{"ID": [8, 4], "entities": [{"name": "MCFG", "span": [20, 24], "type_id": 31, "type": "m-key_executed"}], "annotated_sentence": "今回、 Candida尿路感染症に対して<m-key state=\"executed\">MCFG</m-key>を投与した2症例の臨床経過と血中MCFG濃度を報告する。", "generated": "今回、 Candida尿路感染症に対して<m-key>MCFG</m-key><m-val>を投与した2症例の臨床経過と血中MCFG濃度を報告する。[EOS]"}
+{"ID": [21, 2], "entities": [], "annotated_sentence": "#5リンパ節が⻑形10mm程度と軽度の腫大を認めます。類円形であり、転移の可能性があります。可能であればFDG/CTでの評価をご検討ください。", "generated": "#5リンパ節が⻑形10mm程度と軽度の腫大を認めます。類円形であり、転移の可能性があります。可能であればFDG/CTでの評価をご検討ください。[EOS]"}
+{"ID": [116, 6], "entities": [], "annotated_sentence": "9月9日より倦怠感を自覚,10日に38°Cの発熱が出現したため,当院を受診した.", "generated": "9月9日より倦怠感を自覚,10日に38°Cの発熱が出現したため,<m-key>当院</m-key>を受診した.[EOS]"}
+{"ID": [18, 14], "entities": [], "annotated_sentence": "作業療法と言語療法も合わせて実施した。", "generated": "作業療法と言語療法も合わせて実施した。[EOS]"}
+{"ID": [94, 5], "entities": [], "annotated_sentence": "全身状態は良好で,理学的には肝を1横指触知した。", "generated": "全身状態は良好で,理学的には肝を1横指触知した。[EOS]"}
+{"ID": [23, 26], "entities": [], "annotated_sentence": "今後,これらの特性を考慮した介入研究を進める必要があると考えられる。", "generated": "今後,これらの特性を考慮した介入研究を進める必要があると考えられる。[EOS]"}
+{"ID": [95, 5], "entities": [], "annotated_sentence": "肝は左葉腫大し辺縁鈍ですが、慢性肝障害ありませんでしょうか。", "generated": "肝は左葉腫大し辺縁鈍ですが、慢性肝障害ありませんでしょうか。[EOS]"}
+{"ID": [34, 8], "entities": [], "annotated_sentence": "肝組織では,中心静脈周囲の肝細胞での胆汁うっ滞,グリソン鞘での小型リンパ球主体の炎症性細胞浸潤,小葉内に巣状の肝細胞壊死が認められ,胆汁輸送障害と肝炎像を示す薬剤性肝障害と診断した.", "generated": "<m-key>エトレチナート</m-key><m-val>30mg/日</m-val>投与開始し,皮疹は安定化。[EOS]"}
+{"ID": [8, 7], "entities": [], "annotated_sentence": "手術所見は胃体部小弯を中心とする巨大な腫瘤は小網を巻き込み穿通しており肝臓へ広範囲に接していた。", "generated": "手術所見は胃体部小弯を中心とする巨大な腫瘤は小網を巻き込み穿通しており肝臓へ広範囲に接していた。[EOS]"}
+{"ID": [74, 14], "entities": [], "annotated_sentence": "ALB値は開始時2.22±0.51g/dlから終了時2.46±0.67g/dlであり、6症例において低栄養状態の改善は認められなかった。", "generated": "ALB値は開始時2.22±0.51g/dlから終了時2.46±0.67g/dlであり、6症例において低栄養状態の改善は認められなかった。[EOS]"}
+{"ID": [26, 6], "entities": [], "annotated_sentence": "その後急速に病状悪化し、当院に緊急搬送され、ARDSと診断される。", "generated": "その後急速に病状悪化し、<m-key>ARDS</m-key>と診断される。[EOS]"}
+{"ID": [79, 10], "entities": [{"name": "PSL", "span": [15, 18], "type_id": 32, "type": "m-key_negated"}, {"name": "UDCA", "span": [22, 26], "type_id": 31, "type": "m-key_executed"}], "annotated_sentence": "その後胆管炎に改善が見られ, <m-key state=\"negated\">PSL</m-key>終了とし<m-key state=\"executed\">UDCA</m-key>単独投与とした.", "generated": "その後胆管炎に改善が見られ, PSL終了とし<m-key>UDCA</m-key><m-val>単独投与</m-val>とした.[EOS]"}
+{"ID": [11, 3], "entities": [], "annotated_sentence": "左肺門部,気管分岐下,左下部気管傍リンパ節が腫大しており,リンパ節転移と考えます。", "generated": "左肺門部,気管分岐下,左下部気管傍リンパ節が腫大しており,リンパ節転移と考えます。[EOS]"}
+{"ID": [76, 11], "entities": [{"name": "ステロイド", "span": [22, 27], "type_id": 31, "type": "m-key_executed"}], "annotated_sentence": "残存腸管にも潰瘍が多発している可能性があり、<m-key state=\"executed\">ステロイド</m-key>長期投与中のCMV腸炎が鑑別診断に上げられた。", "generated": "残存腸管にも潰瘍が多発している可能性があり、ステロイド長期投与中のCMV腸炎が鑑別診断に上げられた。[EOS]"}
+{"ID": [16, 18], "entities": [{"name": "リファキシミン,ラクツロース", "span": [16, 30], "type_id": 31, "type": "m-key_executed"}, {"name": "エタノラミンオレイト(EO)", "span": [49, 63], "type_id": 34, "type": "m-key_other"}], "annotated_sentence": "【考察】太い脾腎シャントを有し,<m-key state=\"executed\">リファキシミン,ラクツロース</m-key>などの内服薬が無効な肝性昏睡に対しては<m-key state=\"other\">エタノラミンオレイト(EO)</m-key>を用いたB-RTOが奏功する場合が多い.", "generated": "太い脾腎シャントを有し,リファキシミン,ラクツロースなどの内服薬が無効な肝性昏睡に対しては<m-key>エタノラミンオレイト</m-key><m-val>を用いたB-RTOが奏功する場合が多い.[EOS]"}
+{"ID": [15, 2], "entities": [], "annotated_sentence": "一方で,部分的脾動脈塞栓術(PSE)は,脾動脈を部分的に塞栓することにより,脾臓容量を縮小,脾機能亢進を是正し,門脈圧ならびに肝機能を改善し得る治療法である.", "generated": "一方で,部分的脾動脈塞栓術(PSE)は,脾動脈を部分的に塞栓することにより,脾臓容量を縮小,脾機能亢進を是正し,門脈圧ならびに肝機能を改善し得る治療法である.[EOS]"}
+{"ID": [77, 7], "entities": [], "annotated_sentence": "以上より肺癌(cT4N3M1c)と考えます。", "generated": "以上より肺癌(cT4N3M1c)と考えます。[EOS]"}
+{"ID": [55, 6], "entities": [], "annotated_sentence": "右肺下葉には部分無気肺と思われる索状影を認めます。", "generated": "右肺下葉には部分無気肺と思われる索状影を認めます。[EOS]"}
+{"ID": [29, 3], "entities": [], "annotated_sentence": "平成2年4月4日に食道癌根治術施行。", "generated": "平成2年4月4日に食道癌根治術施行。[EOS]"}
+{"ID": [19, 6], "entities": [], "annotated_sentence": "次第に浸出傾向を示し増悪したため,当科受診。", "generated": "次第に浸出傾向を示し増悪したため,当科受診。[EOS]"}
+{"ID": [18, 7], "entities": [], "annotated_sentence": "約3週間の運動療法にて起き上がりと立ち上がりが獲得できた介入を報告する。", "generated": "約3週間の運動療法にて起き上がりと立ち上がりが獲得できた介入を報告する。[EOS]"}
+{"ID": [3, 6], "entities": [], "annotated_sentence": "肝に淡い低吸収域を認め転移の可能性があります。USでもご確認ください。", "generated": "肝に淡い低吸収域を認め転移の可能性があります。USでもご確認ください。[EOS]"}
+{"ID": [25, 12], "entities": [], "annotated_sentence": "食思不振のため経口摂取が少なく、10月3日から中心静脈栄養法(以下TPN)を開始した。", "generated": "食思不振のため経口摂取が少なく、10月3日から中心静脈栄養法(以下TPN)を開始した。[EOS]"}
+{"ID": [30, 17], "entities": [], "annotated_sentence": "理学療法ではADL訓練を中心に実施した。", "generated": "理学療法ではADL訓練を中心に実施した。[EOS]"}
+{"ID": [16, 8], "entities": [{"name": "ラクツロースとBCAA製剤", "span": [3, 16], "type_id": 31, "type": "m-key_executed"}, {"name": "リファキシミンおよびレボカルチン", "span": [48, 64], "type_id": 31, "type": "m-key_executed"}, {"name": "BCAA製剤", "span": [74, 80], "type_id": 31, "type": "m-key_executed"}], "annotated_sentence": "当初は<m-key state=\"executed\">ラクツロースとBCAA製剤</m-key>のみでコントロール可能であったが,徐々にコントロール不良となり,<m-key state=\"executed\">リファキシミンおよびレボカルチン</m-key>を追加し,更に週3回<m-key state=\"executed\">BCAA製剤</m-key>の点滴を受けるも頻回に肝性昏睡に陥っていた.", "generated": "<m-key>ラクツロース</m-key><m-val>とBCAA製剤</m-val>のみでコントロール可能であったが,徐々にコントロール不良となり,<m-key>リファキシミン</m-key><m-val>およびレボカルチン</m-val>を追加し,更に週3回<m-val>BCAA製剤</m-val>の点滴を受けるも頻回に肝性昏睡"}
+{"ID": [80, 10], "entities": [], "annotated_sentence": "内視鏡所見でGrade2と改善を認め入院後5か月目に退院.", "generated": "内視鏡所見でGrade2と改善を認め入院後5か月目に退院.[EOS]"}
+{"ID": [39, 4], "entities": [], "annotated_sentence": "現病歴:平成元年夏,躯幹に紅色丘疹,暮には顔面に紅斑が出現,難治性であるため,某皮膚科より紹介され受診した。", "generated": "現病歴:平成元年夏,躯幹に紅色丘疹,暮には顔面に紅斑が出現,難治性であるため,某皮膚科より紹介され受診した。[EOS]"}
+{"ID": [68, 12], "entities": [{"name": "免疫チェックポイント阻害薬", "span": [9, 22], "type_id": 31, "type": "m-key_executed"}], "annotated_sentence": "本症例の病理組織は<m-key state=\"executed\">免疫チェックポイント阻害薬</m-key>による自己免疫的な機序よりは放射線化学療法による肝障害を疑う所見であったが,放射線化学療法のみで照射範囲の肝臓に壊死性の多発肝腫瘤が出現することは極めて稀である.", "generated": "本症例の病理組織は免疫チェックポイント阻害薬による自己免疫的な機序よりは放射線化学療法による肝障害を疑う所見であったが,放射線化学療法のみで照射範囲の肝臓に壊死性の多発肝腫瘤が出現することは極めて稀である.[EOS]"}
+{"ID": [92, 9], "entities": [], "annotated_sentence": "症例3:21歳男性、幼小児期は重症の喘息児であった。", "generated": "症例3:21歳男性、幼小児期は重症の喘息児であった。[EOS]"}
+{"ID": [61, 25], "entities": [], "annotated_sentence": "本症例は,過度の走行,患側股関節周囲筋力の低下,腰椎前轡,ハムストリングスの柔軟性低下など,仙骨疲労骨折症例の特徴が類似して骨盤へ勇断力を高めるメカニズムと一致する。", "generated": "本症例は,過度の走行,患側股関節周囲筋力の低下,腰椎前屈,ハムストリングスの柔軟性低下など,仙骨疲労骨折症例の特徴が類似して骨盤へ勇断力を高めるメカニズムと一致する。[EOS]"}
+{"ID": [2, 15], "entities": [], "annotated_sentence": "【結論】今回,誤嚥性肺炎のリスクが非常に高く自宅退院は困難と診断されていた症例であったが,医療保険から介護保険分野にかけて同一担当者が携わり,連携の中心となることで,情報をご家族様や訪問リハビリスタッフ(ST)とシームレスに共有することが出来た.", "generated": "【結論】今回,誤嚥性肺炎のリスクが非常に高く自宅退院は困難と診断されていた症例であったが,医療保険から介護保険分野にかけて同一担当者が携わり,連携の中心となることで,情報をご家族様や訪問リハビリスタッフ(ST)とシームレスに共有することが出来た.[EOS]"}
+{"ID": [120, 5], "entities": [{"name": "胃瘻", "span": [0, 2], "type_id": 31, "type": "m-key_executed"}, {"name": "栄養剤", "span": [20, 23], "type_id": 31, "type": "m-key_executed"}], "annotated_sentence": "<m-key state=\"executed\">胃瘻</m-key>からの漏出があるため,その防止目的で<m-key state=\"executed\">栄養剤</m-key>をゲル化し,漏出は消失した.", "generated": "胃瘻からの漏出があるため,その防止目的で栄養剤をゲル化し,漏出は消失した.[EOS]"}
+{"ID": [101, 5], "entities": [], "annotated_sentence": "有意な胸水認めません。", "generated": "有意な胸水認めません。[EOS]"}
+{"ID": [39, 13], "entities": [], "annotated_sentence": "術後FAMT療法を施行したが,腫瘤は増大し,不幸の転帰をとった。", "generated": "術後<m-key>FAMT</m-key><m-val>療法</m-val>を施行したが,腫瘤は増大し,不幸の転帰をとった。[EOS]"}
+{"ID": [13, 21], "entities": [], "annotated_sentence": "その結果,介入後2ヶ月で疼痛消失,座位では頭部マルアライメントが改善し,上位頸椎の左回旋・側屈を伴わずに前屈が可能となった。", "generated": "その結果,介入後2ヶ月で疼痛消失,座位では頭部マルアライメントが改善し,上位頸椎の左回旋・側屈を伴わずに前屈が可能となった。[EOS]"}
+{"ID": [134, 13], "entities": [], "annotated_sentence": "術後合併症なく術後11病日に退院した。", "generated": "術後合併症なく術後11病日に退院した。[EOS]"}
+{"ID": [104, 18], "entities": [{"name": "PSL", "span": [13, 16], "type_id": 31, "type": "m-key_executed"}], "annotated_sentence": "肝機能障害は改善を認め, <m-key state=\"executed\">PSL</m-key>を漸減していき,第49病日に退院となった,", "generated": "肝機能障害は改善を認め, PSLを漸減していき,第49病日に退院となった,[EOS]"}
+{"ID": [57, 2], "entities": [], "annotated_sentence": "気管チューブのカフ圧はベッド上の体位変換で変動し,VAP予防のためには自動カフ圧計が有効である.しかし,早期離床に伴う端坐位時のカフ圧変動は明らかでない.今回,ベッドアップや端坐位における自動カフ圧計の使用有無によるカフ圧変動差を1症例で検討した.", "generated": "<m-key>気管チューブ</m-key><m-val>のカフ圧</m-val>はベッド上の体位変換で変動し,<m-key>VAP</m-key>予防のためには自動カフ圧計が有効である.しかし,早期離床に伴う端坐位時のカフ圧変動は明らかでない.今回,ベッドアップや端坐位における自動カフ圧計の使用有無によるカフ"}
+{"ID": [69, 9], "entities": [], "annotated_sentence": "他のM因子は判断できず、MXです。", "generated": "他のM因子は判断できず、MXです。[EOS]"}
+{"ID": [55, 12], "entities": [], "annotated_sentence": "高齢者の口腔感染症は、数日で致死的状態へ移行し得る。", "generated": "高齢者の口腔感染症は、数日で致死的状態へ移行し得る。[EOS]"}
+{"ID": [78, 13], "entities": [], "annotated_sentence": "【考察】癌患者の場合,種々の検査が行われるが,この中で偶発的に他疾患がみつかることは稀ではない.", "generated": "【考察】癌患者の場合,種々の検査が行われるが,この中で偶発的に他疾患がみつかることは稀ではない.[EOS]"}
+{"ID": [72, 8], "entities": [], "annotated_sentence": "3症例はいずれも術後7日目より、ストレッチや筋力トレーニング、平行棒や歩行器を用いた歩行トレーニングなどの通常理学療法(PT)介入を実施した後、 BWSTTによる介入を開始した。", "generated": "3症例はいずれも術後7日目より、ストレッチや筋力トレーニング、平行棒や歩行器を用いた歩行トレーニングなどの通常理学療法(PT)介入を実施した後、<m-key>BWSTT</m-key>による介入を開始した。[EOS]"}
+{"ID": [3, 2], "entities": [{"name": "VCM", "span": [0, 3], "type_id": 34, "type": "m-key_other"}], "annotated_sentence": "<m-key state=\"other\">VCM</m-key>の臨床効果は作用時間に依存するとされているが、近年AUC0-24とMICの比(AUC/MIC)と相関するとの報告が散見される。", "generated": "VCMの臨床効果は作用時間に依存するとされているが、近年AUC0-24とMICの比(AUC/MIC)と相関するとの報告が散見される。[EOS]"}
+{"ID": [6, 3], "entities": [], "annotated_sentence": "【症例】12歳の女児.", "generated": "[EOS]"}
+{"ID": [107, 16], "entities": [], "annotated_sentence": "第2、3肋間のリンパ節は内胸動静脈に強固に固着しており右内胸動静脈の合併切除も余儀なくされた。", "generated": "第2,3肋間のリンパ節は内胸動静脈に強固に固着しており右内胸動静脈の合併切除も余儀なくされた。[EOS]"}
+{"ID": [11, 9], "entities": [], "annotated_sentence": "2月末からCRTx(weekly DOC 15mg)を開始したが,開始3日目に経鼻内視鏡検査にて右PS内側(嚢胞と診断していた部位)に小潰瘍を認め,生検にて扁平上皮癌の診断を得た。", "generated": "<m-key>CRtx</m-key><m-val>（weekly DOC 15mg）</m-val>を開始したが,開始3日目に経鼻内視鏡検査にて右PS内側（嚢胞と診断していた部位）に小潰瘍を認め,生検にて扁平上皮癌の診断を得た。[EOS]"}
+{"ID": [30, 9], "entities": [], "annotated_sentence": "普通便以降に伴い19病日より投与量を段階的に増量し、21病日には必要栄養量を充足した。", "generated": "普通便以降に伴い19病日より投与量を段階的に増量し、21病日には必要栄養量を充足した。[EOS]"}
+{"ID": [66, 7], "entities": [], "annotated_sentence": "緊急で開腹したところ、腫大した虫垂を認め、さらに盲腸に約50mmの硬い腫瘤性病変を触知したため、回盲部切除術を施行した。", "generated": "緊急で開腹したところ、腫大した虫垂を認め、さらに盲腸に約<m-val>50mm</m-val>の硬い腫瘤性病変を触知したため、回盲部切除術を施行した。[EOS]"}
+{"ID": [7, 24], "entities": [{"name": "ステロイド", "span": [2, 7], "type_id": 31, "type": "m-key_executed"}], "annotated_sentence": "2)<m-key state=\"executed\">ステロイド</m-key>の減量中再燃.", "generated": "2)ステロイドの減量中再燃.[EOS]"}
+{"ID": [22, 3], "entities": [], "annotated_sentence": "【現病歴】肝炎の原因となる輸血歴,手術歴,獣肉等の食事摂取歴,家族歴はない.", "generated": "【現病歴】肝炎の原因となる輸血歴,手術歴,獣肉等の食事摂取歴,家族歴はない.[EOS]"}
+{"ID": [4, 13], "entities": [], "annotated_sentence": "110m歩行(2分37秒)26分間歩行(30m)3歩容(ワイドベースだが側方への重心移動は少なく立脚期が短縮しており前方への推進が少ない)4wee-FIM(4:最小介助)5GMFM88(51%)期間終了時の評価では、110m歩行(集中リハ後:1分35秒、卒業式前:58秒)26分間歩行(45m)3歩容(歩隔が狭くなった、立脚期の延長、ストライド延長)4wee-FIM:(6:修正自立)5GMFM88(58%)となった。", "generated": "<m-key>110m歩行</m-key><m-val>2分37秒</m-val>26分間歩行<m-val>30m</m-val>3歩容<m-val>ワイドベースだが側方への重心移動は少なく立脚期が短縮しており前方への推進が少ない</m-val>4wee-FIM<m-val>4:最小介助</m-val>5GMFM88("}
+{"ID": [71, 22], "entities": [], "annotated_sentence": "自宅はピックアップウォーカーを使用。", "generated": "自宅はピックアップウォーカーを使用。[EOS]"}
+{"ID": [147, 3], "entities": [], "annotated_sentence": "今回我々は,巨大な脾腎シャントを有する非代償性肝硬変患者にBRTOを施行し,肝機能が劇的に改善した1例を経験したので報告する.", "generated": "今回我々は,巨大な脾腎シャントを有する非代償性肝硬変患者にBRTOを施行し,肝機能が劇的に改善した1例を経験したので報告する.[EOS]"}
+{"ID": [99, 1], "entities": [], "annotated_sentence": "充実部は径()mmであり、上皮内腺癌(AIS)、微少浸潤性腺癌(MIA)、置換型腺癌(LPA)が鑑別に挙がります。T分類でT1mi相当と思われます。両側下葉S6に小結節を認めますが形態的には陳旧性炎症性結節などの良性結節を疑います。", "generated": "充実部は径()mmであり、上皮内腺癌(AIS)、微少浸潤性腺癌(MIA)、置換型腺癌(LPA)が鑑別に挙がります。T分類でT1mi相当と思われます。両側下葉S6に小結節を認めますが形態的には陳旧性炎症性結節などの良性結節を疑います。[EOS]"}
+{"ID": [82, 6], "entities": [{"name": "ニボルマブ", "span": [0, 5], "type_id": 31, "type": "m-key_executed"}], "annotated_sentence": "<m-key state=\"executed\">ニボルマブ</m-key>3コース終了後に乾癬型薬疹の出現と同時にAST 93U/L, ALT 94U/L, ALP 1341U/L, γGTP 149U/Lの肝胆道系酵素の上昇を認めた.", "generated": "ニボルマブ3コース終了後に乾癬型薬疹の出現と同時にAST<m-val>93</m-val>U/L, ALT<m-val>94</m-val>U/L, ALP<m-val>1341</m-val>U/L, γGTP<m-val>149</m-val>U/Lの肝胆道系酵素の上昇を認めた.[EOS"}
+{"ID": [0, 8], "entities": [{"name": "オビソート", "span": [21, 26], "type_id": 31, "type": "m-key_executed"}, {"name": "ノルアドレナリン", "span": [47, 55], "type_id": 31, "type": "m-key_executed"}], "annotated_sentence": "【結論】運動による発汗では膨疹の出現なく,<m-key state=\"executed\">オビソート</m-key>の皮内テスト陰性からコリン性葦麻疹を否定,<m-key state=\"executed\">ノルアドレナリン</m-key>皮内テスト陰性からアドレナリン葦麻疹を否定.", "generated": "【結論】運動による発汗では膨疹の出現なく,オビソートの皮内テスト陰性からコリン性葦麻疹を否定,ノルアドレナリン皮内テスト陰性からアドレナリン葦麻疹を否定.[EOS]"}
+{"ID": [129, 11], "entities": [], "annotated_sentence": "巨大右卵巣腫瘍と小腸が2ヶ所で強固に癒着していた.", "generated": "巨大右卵巣腫瘍と小腸が2ヶ所で強固に癒着していた.[EOS]"}
+{"ID": [135, 10], "entities": [], "annotated_sentence": "婦人科領域では治療成績を損なわない適応を選んで卵巣移動固定術が行われてきたが,大腸癌では直接浸潤や転移がない限り卵巣は切除対象とならないため,若年例では腹腔鏡による卵巣の移動固定術は検討の余地があると考えられる.", "generated": "婦人科領域では治療成績を損なわない適応を選んで卵巣移動固定術が行われてきたが,大腸癌では直接浸潤や転移がない限り卵巣は切除対象とならないため,若年例では腹腔鏡による卵巣の移動固定術は検討の余地があると考えられる.[EOS]"}
+{"ID": [24, 5], "entities": [], "annotated_sentence": "今回、当院にて理学療法を施行し5カ月経過まで追えた症例の股関節可動域とADLについて報告する。", "generated": "今回、<m-key>理学療法</m-key>を施行し5カ月経過まで追えた症例の股関節可動域とADLについて報告する。[EOS]"}
+{"ID": [52, 8], "entities": [], "annotated_sentence": "撮像範囲に強く骨転移を疑うような骨破壊や腫瘤性病変は認めません。", "generated": "撮像範囲に強く骨転移を疑うような骨破壊や腫瘤性病変は認めません。[EOS]"}
+{"ID": [28, 2], "entities": [], "annotated_sentence": "心拡大みられません。", "generated": "[EOS]"}
+{"ID": [10, 7], "entities": [], "annotated_sentence": "撮像範囲に強く骨転移を疑うような骨破壊や腫瘤性病変は認めません。", "generated": "撮像範囲に強く骨転移を疑うような骨破壊や腫瘤性病変は認めません。[EOS]"}
+{"ID": [29, 8], "entities": [], "annotated_sentence": "Gottron徴候(±)。", "generated": "Gottron徴候(±)。[EOS]"}
+{"ID": [2, 8], "entities": [], "annotated_sentence": "施行後、USにて瘤内への血流消失を確認し、腹部の拍動性腫瘤の消失を確認した。", "generated": "施行後、USにて瘤内への血流消失を確認し、腹部の拍動性腫瘤の消失を確認した。[EOS]"}
+{"ID": [18, 4], "entities": [], "annotated_sentence": "食道裂孔ヘルニアを認めます。", "generated": "食道裂孔ヘルニアを認めます。[EOS]"}
+{"ID": [147, 5], "entities": [], "annotated_sentence": "肝移植目的で某大学病院外科に紹介されるも実現せず,セカンドオピニオン目的で当科を紹介受診した.", "generated": "肝移植目的で某大学病院外科に紹介されるも実現せず,セカンドオピニオン目的で当科を紹介受診した.[EOS]"}
+{"ID": [73, 3], "entities": [], "annotated_sentence": "両肺下葉に多発結節を認め、多発肺内転移と考えます。", "generated": "両肺下葉に多発結節を認め、多発肺内転移と考えます。[EOS]"}
+{"ID": [48, 2], "entities": [], "annotated_sentence": "下痢を訴え近医を受診し貧血を指摘され紹介入院した。", "generated": "下痢を訴え近医を受診し貧血を指摘され紹介入院した。[EOS]"}
+{"ID": [84, 11], "entities": [], "annotated_sentence": "以上から、膵胆管高位合流と診断された。", "generated": "以上から、膵胆管高位合流と診断された。[EOS]"}
+{"ID": [132, 3], "entities": [], "annotated_sentence": "脳梗塞の既往があり,高血圧,軽症糖尿病で内科通院中であった。", "generated": "脳梗塞の既往があり,高血圧,軽症糖尿病で内科通院中であった。[EOS]"}
+{"ID": [42, 16], "entities": [], "annotated_sentence": "骨盤・下肢静脈のDVTでは発生部位により、膝窩静脈から中枢側の中枢型(腸骨型、大腿型)と末梢側の末梢型(下腿型)に分けられる。", "generated": "骨盤・下肢静脈のDVTでは発生部位により、膝窩静脈から中枢側の中枢型(腸骨型、大腿型)と末梢側の末梢型(下腿型)に分けられる。[EOS]"}
+{"ID": [74, 7], "entities": [], "annotated_sentence": "【方法】", "generated": "[EOS]"}
+{"ID": [16, 1], "entities": [], "annotated_sentence": "【目的】", "generated": "[EOS]"}
+{"ID": [36, 15], "entities": [{"name": "クラリスロマイシン", "span": [0, 9], "type_id": 32, "type": "m-key_negated"}, {"name": "DCV/ASV", "span": [17, 24], "type_id": 31, "type": "m-key_executed"}], "annotated_sentence": "<m-key state=\"negated\">クラリスロマイシン</m-key>は休薬となり、 <m-key state=\"executed\">DCV/ASV</m-key>を導入することとなった。", "generated": "クラリスロマイシンは休薬となり,DCV/ASVを導入することとなった。[EOS]"}
+{"ID": [15, 9], "entities": [], "annotated_sentence": "ABAデザインで行い、A期はペダリング運動のみをB期は電気刺激を併用し、各期1週間とした。", "generated": "ABAデザインで行い,A期はペダリング運動のみをB期は電気刺激を併用し,各期1週間とした。[EOS]"}
+{"ID": [53, 16], "entities": [], "annotated_sentence": "術後,皮膚病変に変化は見られなかった.", "generated": "術後,皮膚病変に変化は見られなかった.[EOS]"}
+{"ID": [33, 7], "entities": [], "annotated_sentence": "臍帯ヘルニア、両大血管右室起始・大動脈肺動脈窓、異所性膵、口蓋裂を合併したが、手術施行済みであった。", "generated": "臍帯ヘルニア、両大血管右室起始・大動脈肺動脈窓、異所性膵、口蓋裂を合併したが、手術施行済みであった。[EOS]"}
+{"ID": [6, 1], "entities": [], "annotated_sentence": "やや尾側の右下葉背側には不整形のすりガラス影が出現しています。こちらは炎症性変化かもしれませんが、あわせて経過観察をお願いします。", "generated": "やや尾側の右下葉背側には不整形のすりガラス影が出現しています。こちらは炎症性変化かもしれませんが、あわせて経過観察をお願いします。[EOS]"}
+{"ID": [68, 10], "entities": [{"name": "EPIR", "span": [47, 51], "type_id": 31, "type": "m-key_executed"}, {"name": "20mg", "span": [51, 55], "type_id": 35, "type": "m-val_"}], "annotated_sentence": "肝転移巣も急速に増大し、肝転移巣のブドウ糖の消費による低血糖と考え11月11日血管造影を施行し<m-key state=\"executed\">EPIR</m-key><m-val>20mg</m-val>の動注を行った。", "generated": "肝転移巣も急速に増大し、肝転移巣のブドウ糖の消費による低血糖と考え11月11日血管造影を施行し<m-key>EPIR</m-key><m-val>20mg</m-val>の動注を行った。[EOS]"}
+{"ID": [5, 2], "entities": [], "annotated_sentence": "短期入所の超重症児(者)は、病院へと生活環境が変化することによるストレスから筋緊張やてんかん発作などの身体的変化が現れる児も多い。", "generated": "短期入所の超重症児(者)は、病院へと生活環境が変化することによるストレスから筋緊張やてんかん発作などの身体的変化が現れる児も多い。[EOS]"}
+{"ID": [7, 19], "entities": [], "annotated_sentence": "<根拠>", "generated": "[EOS]"}
+{"ID": [72, 7], "entities": [], "annotated_sentence": "症例2:19歳,女。", "generated": "症例2:19歳,女。[EOS]"}
+{"ID": [59, 13], "entities": [], "annotated_sentence": "義足完成(1~42日目)までの期間,OH症状出現のため立位訓練を中止.", "generated": "義足完成(1~42日目)までの期間,OH症状出現のため立位訓練を中止.[EOS]"}
+{"ID": [23, 19], "entities": [], "annotated_sentence": "筋力,歩行,動的バランス能力に有意差は認められなかった。", "generated": "筋力,歩行,動的バランス能力に有意差は認められなかった。[EOS]"}
+{"ID": [15, 1], "entities": [], "annotated_sentence": "右肺上葉を中心として、約xcmの境界明瞭な分葉状の腫瘤性病変を認めます。原発性肺癌を疑います。肺尖部から縦隔、後方胸壁などに浸潤しています。椎体右側、右肋骨などにも溶骨性変化があり、骨への浸潤もみられます。", "generated": "右肺上葉を中心として、約xcmの境界明瞭な分葉状の腫瘤性病変を認めます。原発性肺癌を疑います。肺尖部から縦隔、後方胸壁などに浸潤しています。椎体右側、右肋骨などにも溶骨性変化があり、骨への浸潤もみられます。[EOS]"}
+{"ID": [59, 7], "entities": [], "annotated_sentence": "Demandは再就職,趣味である.球場での野球観戦.", "generated": "Demandは再就職,趣味である.球場での野球観戦.[EOS]"}
+{"ID": [27, 9], "entities": [], "annotated_sentence": "【倫理的配慮】", "generated": "[EOS]"}
+{"ID": [63, 23], "entities": [], "annotated_sentence": "その後,CPX結果に基づき術後38日目より自転車エルゴメーターでの有酸素運動や基本動作訓練を実施し,屋内歩行は自立レベルまで改善した。", "generated": "その後,CPX結果に基づき術後38日目より自転車エルゴメーターでの有酸素運動や基本動作訓練を実施し,屋内歩行は自立レベルまで改善した。[EOS]"}
+{"ID": [20, 4], "entities": [], "annotated_sentence": "胸水はありません。", "generated": "胸水はありません。[EOS]"}
+{"ID": [60, 10], "entities": [{"name": "プレドニン", "span": [6, 11], "type_id": 31, "type": "m-key_executed"}, {"name": "50mg", "span": [11, 15], "type_id": 35, "type": "m-val_"}], "annotated_sentence": "当院転院後,<m-key state=\"executed\">プレドニン</m-key><m-val>50mg</m-val>を内服.", "generated": "<m-key>プレドニン</m-key><m-val>50mg</m-val>を内服.[EOS]"}
+{"ID": [74, 15], "entities": [], "annotated_sentence": "しかし、治療経過においてIPや小腸穿孔を発症し充分な抗癌剤治療が行えず、またIPに対するステロイド治療による免疫抑制状態も生存期間の短縮につながったと考えられる。", "generated": "しかし、治療経過においてIPや小腸穿孔を発症し充分な抗癌剤治療が行えず、またIPに対するステロイド治療による免疫抑制状態も生存期間の短縮につながったと考えられる。[EOS]"}
+{"ID": [27, 3], "entities": [], "annotated_sentence": "今回,われわれは本邦でもほとんど症例報告の無い,ANに合併した若年性脳梗塞に対してリハビリテーションを行う機会を得ることができ,その経験を報告する.", "generated": "今回,われわれは本邦でもほとんど症例報告の無い,ANに合併した若年性脳梗塞に対してリハビリテーションを行う機会を得ることができ,その経験を報告する.[EOS]"}
+{"ID": [59, 26], "entities": [], "annotated_sentence": "ストライド長が延長した.", "generated": "ストライド長が延長した.[EOS]"}
+{"ID": [117, 9], "entities": [], "annotated_sentence": "用手的送気にて右中葉無気肺の軽度改善が得られたものの、気管支のねじれは改善しなかった。", "generated": "用手的送気にて右中葉無気肺の軽度改善が得られたものの、気管支のねじれは改善しなかった。[EOS]"}
+{"ID": [30, 5], "entities": [], "annotated_sentence": "【説明と同意】", "generated": "[EOS]"}
+{"ID": [30, 13], "entities": [], "annotated_sentence": "切断後から介入し、ADLはFIM84点と移乗、移動面で減点が大きかったが、退院時は屋内ピックアップ、屋外車いすとし、FIM115点まで改善した。", "generated": "切断後から介入し、ADLはFIM84点と移乗、移動面で減点が大きかったが、退院時は屋内ピックアップ、屋外車いすとし、FIM115点まで改善した。[EOS]"}
+{"ID": [4, 3], "entities": [], "annotated_sentence": "結果:健常者と比べ純粋尿酸結石症例では血清尿酸値と1日尿酸排泄量は有為に高かった.", "generated": "結果:健常者と比べ純粋尿酸結石症例では血清尿酸値と1日尿酸排泄量は有為に高かった.[EOS]"}
+{"ID": [32, 16], "entities": [], "annotated_sentence": "運動時腋窩部の伸張痛が認められた。", "generated": "運動時腋窩部の伸張痛が認められた。[EOS]"}
+{"ID": [24, 11], "entities": [], "annotated_sentence": "可動域測定は、日本整形外科学会、日本リハビリテーション学会に準じゴニオメータを使用して計測した値である。", "generated": "可動域測定は、日本整形外科学会、日本リハビリテーション学会に準じ<m-key>ゴニオメータ</m-key>を使用して計測した値である。[EOS]"}
+{"ID": [17, 7], "entities": [], "annotated_sentence": "切除標本では腫瘍の最大経は120mm、免疫組織科学的にc-kit陰性、CD34陰性、S-100陰性、desmin陽性であり胃平滑筋肉腫と診断した。", "generated": "切除標本では腫瘍の最大経は120mm、免疫組織科学的に<m-key>c-kit</m-key><m-val>陰性</m-val>、<m-key>CD34</m-key><m-val>陰性</m-val>、<m-key>S-100</m-key><m-val>陰性</m-val>、<m-key>desmin</m-key><m"}
+{"ID": [11, 6], "entities": [], "annotated_sentence": "後頸筋群に進展する径61×32×50mmのリンパ節腫脹を認め,open biopsyにて扁平上皮癌と診断された。", "generated": "後頸筋群に進展する径61×32×50mmのリンパ節腫脹を認め,open biopsyにて扁平上皮癌と診断された。[EOS]"}
+{"ID": [86, 1], "entities": [], "annotated_sentence": "症例:48歳女性,", "generated": "症例:48歳女性,[EOS]"}
+{"ID": [71, 2], "entities": [], "annotated_sentence": "近年,尖足に対しては薬物療法の報告は多い。", "generated": "近年,尖足に対しては薬物療法の報告は多い。[EOS]"}
+{"ID": [38, 12], "entities": [{"name": "ドパミン製剤", "span": [14, 20], "type_id": 31, "type": "m-key_executed"}], "annotated_sentence": "しかし、入院8日目に点滴での<m-key state=\"executed\">ドパミン製剤</m-key>投与が開始されたことでROM、発語、自動運動に改善が見られた。", "generated": "しかし、入院8日目に点滴での<m-key>ドパミン製剤</m-key><m-val>投与が開始されたことでROM、発語、自動運動に改善が見られた。[EOS]"}
+{"ID": [136, 11], "entities": [], "annotated_sentence": "幽門側胃切除DO郭清、胆嚢合併切除を行った。", "generated": "幽門側胃切除DO郭清、胆嚢合併切除を行った。[EOS]"}
+{"ID": [11, 2], "entities": [], "annotated_sentence": "左肺下葉中枢側にはsatellitelesionと思われる結節を複数認めます。", "generated": "左肺下葉中枢側にはsatellitelesionと思われる結節を複数認めます。[EOS]"}
+{"ID": [66, 9], "entities": [], "annotated_sentence": "撮像範囲に強く骨転移を疑う骨破壊や腫瘤影は認めません。", "generated": "撮像範囲に強く骨転移を疑う骨破壊や腫瘤影は認めません。[EOS]"}
+{"ID": [71, 28], "entities": [], "annotated_sentence": "しかし,左下肢の支持性が問題となった。", "generated": "[EOS]"}
+{"ID": [83, 3], "entities": [], "annotated_sentence": "昭和60年10月頃、前脛骨部にあせも様皮疹出現。", "generated": "昭和60年10月頃、前脛骨部にあせも様皮疹出現。[EOS]"}
+{"ID": [73, 4], "entities": [], "annotated_sentence": "主訴は腰部の疼痛。", "generated": "[EOS]"}
+{"ID": [141, 4], "entities": [], "annotated_sentence": "性染色体XYであったが外性器形成不全のため女児として乳幼児期を過ごした.", "generated": "性染色体XYであったが外性器形成不全のため女児として乳幼児期を過ごした.[EOS]"}
+{"ID": [61, 11], "entities": [], "annotated_sentence": "X線画像所見で異常は認められず, MRI画像所見にて上記診断された。", "generated": "X線画像所見で異常は認められず, MRI画像所見にて上記診断された。[EOS]"}
+{"ID": [25, 4], "entities": [], "annotated_sentence": "胸水貯留を認めません。", "generated": "胸水貯留を認めません。[EOS]"}
+{"ID": [99, 18], "entities": [], "annotated_sentence": "永久型尿道ステントは長期経過にても有用であった。", "generated": "永久型尿道ステントは長期経過にても有用であった。[EOS]"}
+{"ID": [16, 9], "entities": [], "annotated_sentence": "M因子はM1cと考えます。", "generated": "<m-key>M因子</m-key>は<m-key>M1c</m-key>と考えます。[EOS]"}
+{"ID": [85, 5], "entities": [], "annotated_sentence": "前医でGroove pancreatitisを疑い、同年2月1日PpPD施行。", "generated": "前医でGroove pancreatitisを疑い、同年2月1日<m-key>PpPD</m-key>施行。[EOS]"}
+{"ID": [37, 4], "entities": [], "annotated_sentence": "縦隔・肺門リンパ節に病的腫大は認めません。N因子はN0と考えます。", "generated": "縦隔・肺門リンパ節に病的腫大は認めません。N因子はN0と考えます。[EOS]"}
+{"ID": [73, 5], "entities": [], "annotated_sentence": "ADLは車椅子レベルで院内自立されており、問題点としては疼痛による歩行困難であった。", "generated": "ADLは車椅子レベルで院内自立されており、問題点としては疼痛による歩行困難であった。[EOS]"}
+{"ID": [13, 12], "entities": [], "annotated_sentence": "今後本剤使用者には肝障害のみならず,皮膚障害にも充分な注意を払うことが望まれる。", "generated": "今後本剤使用者には肝障害のみならず,皮膚障害にも充分な注意を払うことが望まれる。[EOS]"}
+{"ID": [66, 1], "entities": [], "annotated_sentence": "腫瘤と胸膜との間の脂肪層が消失しており、胸膜浸潤を疑います。", "generated": "腫瘤と胸膜との間の脂肪層が消失しており、胸膜浸潤を疑います。[EOS]"}
+{"ID": [19, 5], "entities": [], "annotated_sentence": "肝は辺縁鈍で慢性肝障害が示唆されますが、粗大な腫瘤は指摘できません。", "generated": "肝は辺縁鈍で慢性肝障害が示唆されますが、粗大な腫瘤は指摘できません。[EOS]"}
+{"ID": [41, 10], "entities": [], "annotated_sentence": "運動はデイケアなど敷地内の施設で最大週4回行っているが、それ以外では痛みの恐怖感から臥床傾向が強い。", "generated": "運動はデイケアなど敷地内の施設で最大週4回行っているが、それ以外では痛みの恐怖感から<m-key>臥床</m-key>傾向が強い。[EOS]"}
+{"ID": [121, 11], "entities": [{"name": "セレコキシブ", "span": [0, 6], "type_id": 34, "type": "m-key_other"}], "annotated_sentence": "<m-key state=\"other\">セレコキシブ</m-key>による薬疹の報告は,本邦では2008年以来9例の報告があり,自験例を含めて文献的考察を加えた.", "generated": "セレコキシブによる薬疹の報告は,本邦では2008年以来9例の報告があり,自験例を含めて文献的考察を加えた.[EOS]"}
+{"ID": [71, 10], "entities": [], "annotated_sentence": "この頃より,両側足関節変形が出現し,徐々に進行。", "generated": "この頃より,両側足関節変形が出現し,徐々に進行。[EOS]"}
+{"ID": [72, 1], "entities": [], "annotated_sentence": "不全脊髄損傷患者に対する歩行トレーニングとして、近年注目をあびている。", "generated": "不全脊髄損傷患者に対する歩行トレーニングとして、近年注目をあびている。[EOS]"}
+{"ID": [31, 6], "entities": [{"name": "WF", "span": [14, 16], "type_id": 31, "type": "m-key_executed"}], "annotated_sentence": " 脳梗塞、左房内血栓に対して<m-key state=\"executed\">WF</m-key>投与開始となった。", "generated": "脳梗塞、左房内血栓に対して<m-key>WF</m-key><m-val>投与開始となった。[EOS]"}
+{"ID": [54, 5], "entities": [], "annotated_sentence": "外来で経過観察中,昭和63年3月18日より咳嗽,全身倦怠感,微熱,関節痛,筋肉痛,顔と両手の紅斑が出現し、再入院する。", "generated": "外来で経過観察中,昭和63年3月18日より咳嗽,全身倦怠感,微熱,関節痛,筋肉痛,顔と両手の紅斑が出現し、再入院する。[EOS]"}
+{"ID": [28, 8], "entities": [], "annotated_sentence": "転院時アンモニア176μg/dL, フィッシャー比1.4(基準2.43~4.4),血中シトルリン27.8nmol/mL(基準17.1~42.6nmol/mL).", "generated": "<m-key>アンモニア</m-key><m-val>176μg/dL</m-val>, フィッシャー比<m-val>1.4</m-val>(基準<m-val>2.43~4.4</m-val>),血中シトルリン<m-val>27.8nmol/mL</m-val>(基準<m-val>17.1~42.6nm"}
+{"ID": [50, 3], "entities": [], "annotated_sentence": "胸水みられません。", "generated": "胸水みられません。[EOS]"}
+{"ID": [60, 5], "entities": [], "annotated_sentence": "右副腎に腫瘤性病変を認めます。転移や腺腫が鑑別に挙がります。", "generated": "右副腎に腫瘤性病変を認めます。転移や腺腫が鑑別に挙がります。[EOS]"}
+{"ID": [0, 1], "entities": [], "annotated_sentence": "全身性強皮症は自己免疫を背景とした血管障害,線維化という結びつきにくい3つの現象が混在した,膠原病である.", "generated": "全身性強皮症は自己免疫を背景とした血管障害,線維化という結びつきにくい3つの現象が混在した,膠原病である.[EOS]"}
+{"ID": [71, 17], "entities": [], "annotated_sentence": "X+2週:ギプスヒールを用いて部分荷重開始。", "generated": "X+2週:ギプスヒールを用いて<m-key>部分荷重</m-key>開始。[EOS]"}
+{"ID": [66, 5], "entities": [], "annotated_sentence": "両側肺尖部にはブラを認めます。", "generated": "両側肺尖部にはブラを認めます。[EOS]"}
+{"ID": [71, 4], "entities": [], "annotated_sentence": "肺癌とした場合、積極的に肺転移を疑う病変は指摘できません。", "generated": "肺癌とした場合、積極的に肺転移を疑う病変は指摘できません。[EOS]"}
+{"ID": [52, 3], "entities": [], "annotated_sentence": "今回、病棟と姿勢ケアを行うことで変形の改善やスタッフの意識の変化が認められた症例について報告する。", "generated": "今回、病棟と姿勢ケアを行うことで変形の改善やスタッフの意識の変化が認められた症例について報告する。[EOS]"}
+{"ID": [69, 13], "entities": [{"name": "プレガバリン", "span": [25, 31], "type_id": 31, "type": "m-key_executed"}], "annotated_sentence": "本症例では、尿路閉塞と開通による腎機能の変動により<m-key state=\"executed\">プレガバリン</m-key>の血中濃度が変動し、こうした有害事象が出現したと考えられた。", "generated": "本症例では、尿路閉塞と開通による腎機能の変動により<m-key>プレガバリン</m-key><m-val>の血中濃度が変動し、こうした有害事象が出現したと考えられた。[EOS]"}
+{"ID": [60, 2], "entities": [], "annotated_sentence": "縦隔や左鎖骨上窩、左胃動脈領域、肝門部、傍大動脈に腫大リンパ節を散見し多発リンパ節転移が疑われます。", "generated": "縦隔や左鎖骨上窩、左胃動脈領域、肝門部、傍大動脈に腫大リンパ節を散見し多発リンパ節転移が疑われます。[EOS]"}
+{"ID": [13, 14], "entities": [], "annotated_sentence": "頭部を正中位へ修正することで自動運動時の疼痛消失。", "generated": "頭部を正中位へ修正することで自動運動時の疼痛消失。[EOS]"}
+{"ID": [20, 1], "entities": [], "annotated_sentence": "右肺門部リンパ節は腫瘍と一塊となって腫大していると思われ、転移が示唆されます。気管分岐下リンパ節も病的腫大が疑われ、転移が示唆されます(N2)。", "generated": "右肺門部リンパ節は腫瘍と一塊となって腫大していると思われ、転移が示唆されます。気管分岐下リンパ節も病的腫大が疑われ、転移が示唆されます(N2)。[EOS]"}
+{"ID": [110, 10], "entities": [], "annotated_sentence": "癒着剥離すると、胆嚢と肝臓の間に膿瘍腔があり膿性の排液を認めた。", "generated": "癒着剥離すると、胆嚢と肝臓の間に膿瘍腔があり膿性の排液を認めた。[EOS]"}
+{"ID": [65, 6], "entities": [], "annotated_sentence": "3)Gerota筋膜後葉を剥離して,腎茎部に到達した。", "generated": "3)Gerota筋膜後葉を剥離して,腎茎部に到達した。[EOS]"}
+{"ID": [101, 4], "entities": [], "annotated_sentence": "症例:42歳女性", "generated": "[EOS]"}
+{"ID": [56, 15], "entities": [], "annotated_sentence": "FWによる伸展型腰痛症の評価治療には,腰椎過伸展の要因だけでなく,1両上肢支持相での前方支持側股関節屈曲制限,それに伴う2腰椎骨盤帯の左右非対称性,その結果起こる3FW後半の側屈回旋に着目する必要性が示唆された。", "generated": "FWによる伸展型腰痛症の評価治療には,腰椎過伸展の要因だけでなく,1両上肢支持相での前方支持側股関節屈曲制限,それに伴う2腰椎骨盤帯の左右非対称性,その結果起こる3FW後半の側屈回旋に着目する必要性が示唆された。[EOS]"}
+{"ID": [22, 3], "entities": [], "annotated_sentence": "有意な胸水認めません。", "generated": "有意な胸水認めません。[EOS]"}
+{"ID": [59, 5], "entities": [], "annotated_sentence": "右気管支、気管も浸潤しているようです。", "generated": "右気管支、気管も浸潤しているようです。[EOS]"}
+{"ID": [114, 3], "entities": [], "annotated_sentence": "病理診断は多発胃癌で病変は2か所あり,ML,AntLess,type3,por, pT3,ly1,vOおよびM,Post,0‐Ilc,tub1,pTlb2,lyO,vO, pN2MOPOHO,pStage3Aであった.", "generated": "病理診断は多発胃癌で病変は2か所あり,ML,AntLess,type3,por, pT3,ly1,vOおよびM,Post,0‐Ilc,tub1,pTlb2,lyO,vO, pN2MOPOHO,pStage3Aであった.[EOS]"}
+{"ID": [34, 12], "entities": [], "annotated_sentence": "第15病日に呼吸リハ目的で理学療法開始となる。", "generated": "第15病日に呼吸リハ目的で理学療法開始となる。[EOS]"}
+{"ID": [31, 2], "entities": [], "annotated_sentence": "初診:昭63年9月。", "generated": "[EOS]"}
+{"ID": [63, 8], "entities": [], "annotated_sentence": "蛍光抗体間接法では抗細胞間抗体価は640倍であった。", "generated": "蛍光抗体間接法では抗細胞間抗体価は<m-val>640倍</m-val>であった。[EOS]"}
+{"ID": [103, 17], "entities": [{"name": "prednisolone", "span": [2, 14], "type_id": 31, "type": "m-key_executed"}, {"name": "1mg/kg/day", "span": [14, 24], "type_id": 35, "type": "m-val_"}], "annotated_sentence": "以後<m-key state=\"executed\">prednisolone</m-key><m-val>1mg/kg/day</m-val>で投与を開始し,漸減しAST/ALTは約2か月後には基準値となった.", "generated": "以後<m-key>prednisolone</m-key><m-val>1mg/kg/day</m-val>で投与を開始し,漸減しAST/ALTは約2か月後には基準値となった.[EOS]"}
+{"ID": [28, 20], "entities": [], "annotated_sentence": "無症状で偶然診断されたり,高齢になって初めて肝性脳症で診断される報告もあり,非硬変肝症例における肝性脳症の鑑別として念頭に置くべきと考えられた.", "generated": "無症状で偶然診断されたり,高齢になって初めて肝性脳症で診断される報告もあり,非硬変肝症例における肝性脳症の鑑別として念頭に置くべきと考えられた.[EOS]"}
+{"ID": [8, 6], "entities": [], "annotated_sentence": "尿閉にて尿道カテーテルが留置されていた。", "generated": "尿閉にて尿道カテーテルが留置されていた。[EOS]"}
+{"ID": [15, 13], "entities": [], "annotated_sentence": "各評価結果をA1開始時、B期開始時、B期終了時、A2終了時の順に示す。", "generated": "各評価結果をA1開始時、B期開始時、B期終了時、A2終了時の順に示す。[EOS]"}
+{"ID": [146, 2], "entities": [], "annotated_sentence": "血性帯下を主訴に近医を受診。", "generated": "血性帯下を主訴に近医を受診。[EOS]"}
+{"ID": [16, 6], "entities": [], "annotated_sentence": "中等量の左胸水貯留を認めます。胸膜播種を疑う結節は認めませんが、4週間前には認めない所見であり、癌性胸水の可能性が高いと考えます。", "generated": "中等量の左胸水貯留を認めます。胸膜播種を疑う結節は認めませんが、4週間前には認めない所見であり、癌性胸水の可能性が高いと考えます。[EOS]"}
+{"ID": [74, 8], "entities": [], "annotated_sentence": "評価は褥瘡状態評価法(以下,DESIGN)を用い、褥瘡の面積や縮小率は創傷面積測定器ビジトラック(Smith&nephew社製)にて測定した。", "generated": "評価は褥瘡状態評価法(以下,DESIGN)を用い、褥瘡の面積や縮小率は創傷面積測定器ビジトラック(Smith&nephew社製)にて測定した。[EOS]"}
+{"ID": [119, 2], "entities": [], "annotated_sentence": "原発巣、リンパ節転移への効果を期待しておこなうが、IM、上皮内伸展や多発病巣といった副病変への効果がみられることも少なくない。", "generated": "原発巣、リンパ節転移への効果を期待しておこなうが、IM、上皮内伸展や多発病巣といった副病変への効果がみられることも少なくない。[EOS]"}
+{"ID": [76, 1], "entities": [], "annotated_sentence": "症例は70歳の女性。", "generated": "[EOS]"}
+{"ID": [73, 18], "entities": [], "annotated_sentence": "しかし短距離で疼痛出現し歩行困難となった。", "generated": "短距離で疼痛出現し歩行困難となった。[EOS]"}
+{"ID": [35, 26], "entities": [], "annotated_sentence": "また、症例は外出する機会が多く、1日中歩くことも多い。", "generated": "また、症例は外出する機会が多く、1日中歩くことも多い。[EOS]"}
+{"ID": [55, 12], "entities": [], "annotated_sentence": "皮膚組織像:前腕と後頸部より採取した標本では,表皮に液状変性と真皮上層に強い浮腫を認めた。", "generated": "皮膚組織像:前腕と後頸部より採取した標本では,表皮に液状変性と真皮上層に強い浮腫を認めた。[EOS]"}
+{"ID": [23, 12], "entities": [], "annotated_sentence": "各指標間の関連をSpearmanの順位相関係数を用いて検討した。", "generated": "各指標間の関連をSpearmanの順位相関係数を用いて検討した。[EOS]"}
+{"ID": [70, 5], "entities": [], "annotated_sentence": "〔血液検査〕貧血なし。", "generated": "[EOS]"}
+{"ID": [11, 5], "entities": [], "annotated_sentence": "FNAにてクラス5と診断されたため2008年11月末に当科へ紹介された。", "generated": "FNAにてクラス5と診断されたため2008年11月末に当科へ紹介された。[EOS]"}
+{"ID": [39, 8], "entities": [], "annotated_sentence": "平成22年12月MVR、TAP、Mazeの手術施行。術後10病日に心内膜炎を合併し、僧帽弁脱落を認め、急性心不全、間質性肺炎を併発。", "generated": "平成22年12月MVR、TAP、Mazeの手術施行。術後10病日に心内膜炎を合併し、僧帽弁脱落を認め、急性心不全、間質性肺炎を併発。[EOS]"}
+{"ID": [31, 6], "entities": [], "annotated_sentence": "一方,3年前より舌右側面に小腫瘤あり,徐々に増大。", "generated": "一方,3年前より舌右側面に小腫瘤あり,徐々に増大。[EOS]"}
+{"ID": [24, 4], "entities": [], "annotated_sentence": "右肺中葉や両肺下葉の末梢には小結節が散在しています。いずれも矩形を呈しており、転移よりも陳旧性炎症性変化を疑います。", "generated": "右肺中葉や両肺下葉の末梢には小結節が散在しています。いずれも矩形を呈しており、転移よりも陳旧性炎症性変化を疑います。[EOS]"}
+{"ID": [119, 5], "entities": [], "annotated_sentence": "3ヵ月前からの通過障害を主訴に内視鏡検査を施行し、食道病変を指摘された。", "generated": "3ヵ月前からの通過障害を主訴に内視鏡検査を施行し、食道病変を指摘された。[EOS]"}
+{"ID": [59, 19], "entities": [], "annotated_sentence": "【結果】本症例の安静時血圧は約110/70mm/Hg,脈拍80~90回/分.", "generated": "【結果】本症例の安静時血圧は約<m-val>110</m-val>/<m-val>70</m-val>mm/Hg,脈拍<m-val>80~90</m-val>回/分.[EOS]"}
+{"ID": [53, 17], "entities": [], "annotated_sentence": "【病理組織学的検査】C,type0-IIa,pM,tubl in adenoma,pN0,sH0,sP0, M0,fStage0とS,type1,tub1,pSS,sN0,sP0,cM0,fStage IIであった.", "generated": "<m-key>C,type0-IIa,pM,tubl in adenoma,pN0,sH0,sP0, M0,fStage0</m-key><m-val>とS,type1,tub1,pSS,sN0,sP0,cM0,fStage IIであった.</m-val>[EOS]"}
+{"ID": [65, 9], "entities": [], "annotated_sentence": "精神科臨床薬学研究会での処方調査(PCP研究会Newsletterより)は、対象患者数21,823名、平均年齢58.1歳であった。", "generated": "精神科臨床薬学研究会での処方調査(PCP研究会Newsletterより)は、対象患者数21,823名,平均年齢58.1歳であった。[EOS]"}
+{"ID": [10, 1], "entities": [], "annotated_sentence": "腫瘤は肋間筋や左第2肋骨に明らかに浸潤しています。", "generated": "腫瘤は肋間筋や左第2肋骨に明らかに浸潤しています。[EOS]"}
+{"ID": [38, 3], "entities": [], "annotated_sentence": "しかし、その報告は健常者、または脳卒中患者に対するものが多く、その他の病態に対する振動刺激の効果を示す報告は少ない。", "generated": "しかし、その報告は健常者、または脳卒中患者に対するものが多く、その他の病態に対する振動刺激の効果を示す報告は少ない。[EOS]"}
+{"ID": [59, 20], "entities": [], "annotated_sentence": "術後6日目の平行棒内立位は血圧71/34mm/Hgまで低下.", "generated": "術後6日目の平行棒内立位は血圧<m-val>71/34</m-val>mm/Hgまで低下.[EOS]"}
+{"ID": [57, 1], "entities": [], "annotated_sentence": "肺腺癌(Tis相当)と考えます。", "generated": "[EOS]"}
+{"ID": [7, 9], "entities": [], "annotated_sentence": "左肺門部肺癌−左上葉無気肺(cT?N2M1c、気道内に沿った腫瘍進展を疑う)、多発転移(右肺下葉、肝、右副腎、Th6-7傍椎体、左第6肋骨)", "generated": "左肺門部肺癌−左上葉無気肺(cT?N2M1c、気道内に沿った腫瘍進展を疑う)、多発転移(右肺下葉、肝、右副腎、Th6-7傍椎体、左第6肋骨)[EOS]"}
+{"ID": [9, 8], "entities": [], "annotated_sentence": "内服照射テスト陽性。", "generated": "内服照射テスト陽性。[EOS]"}
+{"ID": [24, 18], "entities": [], "annotated_sentence": "今回の検討8症例から外した9症例も含めた17症例の中で、術後1年経過で大腿骨頭壊死に至った症例は1例(CCS施行、非転位型)であった。", "generated": "今回の検討8症例から外した9症例も含めた17症例の中で、術後1年経過で大腿骨頭壊死に至った症例は1例(CCS施行、非転位型)であった。[EOS]"}
+{"ID": [73, 24], "entities": [], "annotated_sentence": "【まとめ】本症例は最終的には腸骨筋収縮によって疼痛軽減し、歩行獲得となった。", "generated": "【まとめ】本症例は最終的には腸骨筋収縮によって疼痛軽減し、歩行獲得となった。[EOS]"}
+{"ID": [21, 5], "entities": [], "annotated_sentence": "診断名:RA、右変形性膝関節症 主訴:歩行時痛(VAS8)", "generated": "診断名:RA、右変形性膝関節症 主訴:歩行時痛(VAS8)[EOS]"}
+{"ID": [22, 2], "entities": [], "annotated_sentence": "【主訴】歩行困難,黄疸,下腿浮腫.", "generated": "【主訴】歩行困難,黄疸,下腿浮腫.[EOS]"}
+{"ID": [23, 2], "entities": [], "annotated_sentence": "今回我々は、腹腔動脈から通常分枝した総肝動脈が、門脈の背側尾側を走行し、門脈右側から腹側へと出現する走行異常を有する胃癌患者を経験したので報告する。", "generated": "今回我々は、腹腔動脈から通常分枝した総肝動脈が、門脈の背側尾側を走行し、門脈右側から腹側へと出現する走行異常を有する胃癌患者を経験したので報告する。[EOS]"}
+{"ID": [14, 2], "entities": [], "annotated_sentence": "右肺門部に腫瘤と一塊となった腫大リンパ節を認め転移が疑われます。縦隔にも軽度腫大リンパ節を散見します。反応性でも矛盾しないサイズですが、転移も否定できないためPETでもご確認ください。", "generated": "右肺門部に腫瘤と一塊となった腫大リンパ節を認め転移が疑われます。縦隔にも軽度腫大リンパ節を散見します。反応性でも矛盾しないサイズですが、転移も否定できないためPETでもご確認ください。[EOS]"}
+{"ID": [24, 2], "entities": [], "annotated_sentence": "大腿骨頸部骨折の骨接合術は一般的には非転位型が適応となり、若年者においては転位型にも適応されている。", "generated": "大腿骨頸部骨折の骨接合術は一般的には非転位型が適応となり、若年者においては<m-key>転位型</m-key>にも適応されている。[EOS]"}
+{"ID": [51, 17], "entities": [], "annotated_sentence": "立脚期での左右股関節屈曲モーメントの値が増加していた。", "generated": "立脚期での左右股関節屈曲モーメントの値が増加していた。[EOS]"}
+{"ID": [20, 12], "entities": [], "annotated_sentence": "(まとめ)以上の結果を無再発症例と多変量解析で検討を行った結果、乳癌術後の再発を予測するうえで独立した危険因子は、組織型がscirrhousの症例であると考えられた。", "generated": "(まとめ)以上の結果を無再発症例と多変量解析で検討を行った結果、乳癌術後の再発を予測するうえで独立した危険因子は、組織型がscirrhousの症例であると考えられた。[EOS]"}
+{"ID": [31, 6], "entities": [], "annotated_sentence": "強く骨転移を疑うような骨破壊や腫瘤性病変は認めません。", "generated": "強く骨転移を疑うような骨破壊や腫瘤性病変は認めません。[EOS]"}
+{"ID": [65, 11], "entities": [], "annotated_sentence": "【結果】", "generated": "[EOS]"}
+{"ID": [87, 1], "entities": [], "annotated_sentence": "縦隔、肺門、腋窩などに病的リンパ節腫大は認めません。", "generated": "縦隔、肺門、腋窩などに病的リンパ節腫大は認めません。[EOS]"}
+{"ID": [36, 3], "entities": [{"name": "経口薬", "span": [3, 6], "type_id": 34, "type": "m-key_other"}], "annotated_sentence": "また、<m-key state=\"other\">経口薬</m-key>による冶療となるため、患者のアドヒアランスが重要となる。", "generated": "また、経口薬による冶療となるため、患者のアドヒアランスが重要となる。[EOS]"}
+{"ID": [130, 12], "entities": [], "annotated_sentence": "DNCB感作不成立。", "generated": "DNCB感作不成立。[EOS]"}
+{"ID": [34, 6], "entities": [], "annotated_sentence": "原疾患は18トリソミーで、Fallot四徴症等を合併した重症心身障害児(発達指数DQ12)である。", "generated": "Fallot四徴症等を合併した重症心身障害児(発達指数DQ12)である。[EOS]"}
+{"ID": [7, 2], "entities": [], "annotated_sentence": "同病変は胸膜とは離れています。", "generated": "[EOS]"}
+{"ID": [34, 27], "entities": [], "annotated_sentence": "本症例でも、前傾クッションを作成し呼吸が安定しやすい前傾坐位を導入したことで、骨盤、胸郭が安定し、頭頸部のコントロールが向上し、運動発達の一助となったと考えた。", "generated": "本症例でも、前傾クッションを作成し呼吸が安定しやすい前傾坐位を導入したことで、骨盤、胸郭が安定し、頭頸部のコントロールが向上し、運動発達の一助となったと考えた。[EOS]"}
+{"ID": [48, 11], "entities": [], "annotated_sentence": "屋外歩行の実用性を評価するため,10m歩行テストを評価した。", "generated": "屋外歩行の実用性を評価するため,10m歩行テストを評価した。[EOS]"}
+{"ID": [47, 13], "entities": [], "annotated_sentence": "これまで当科で加療したpT1a以下の食道癌は19例中で、再発を見たのは本症例のみであった。", "generated": "これまで当科で加療したpT1a以下の食道癌は19例中で、再発を見たのは本症例のみであった。[EOS]"}
+{"ID": [21, 2], "entities": [], "annotated_sentence": "【主訴】意識障害", "generated": "[EOS]"}
+{"ID": [109, 5], "entities": [{"name": "吸入ステロイド(ICS)", "span": [0, 12], "type_id": 31, "type": "m-key_executed"}, {"name": "SABA", "span": [43, 47], "type_id": 31, "type": "m-key_executed"}], "annotated_sentence": "<m-key state=\"executed\">吸入ステロイド(ICS)</m-key>での治療されていた症例は41%,内服治療例13%,無治療および<m-key state=\"executed\">SABA</m-key>のみでの治療症例46%であり,平均入院日数は9日であった.", "generated": "吸入ステロイド(ICS)での治療されていた症例は41%,内服治療例13%,無治療およびSABAのみでの治療症例46%であり,平均入院日数は9日であった.[EOS]"}
+{"ID": [136, 7], "entities": [], "annotated_sentence": "腹部単純CTでは幽門前庭部の全周性壁肥厚を認め、PET-CTでは同部と大網への集積のほか、後頭部頭半棘筋、背部頭半棘筋、左肩棘上筋、右腋下皮下、左上腕三頭筋、左大殿筋、左大腿皮下、右大腿中間広筋に集積を認めた。", "generated": "腹部単純CTでは幽門前庭部の全周性壁肥厚を認め、PET-CTでは同部と大網への集積のほか、後頭部頭半棘筋、背部頭半棘筋、左肩棘上筋、右腋下皮下、左上腕三頭筋、左大殿筋、左大腿皮下、右大腿中間広筋に集積を認めた。[EOS]"}
+{"ID": [68, 2], "entities": [], "annotated_sentence": "血疾を主訴に当院紹介となり,CT・気管支鏡検査の結果,非小細胞肺癌と診断された.", "generated": "血疾を主訴に当院紹介となり,CT・気管支鏡検査の結果,非小細胞肺癌と診断された.[EOS]"}
+{"ID": [10, 6], "entities": [], "annotated_sentence": "胸水貯留はありません。", "generated": "胸水貯留はありません。[EOS]"}
+{"ID": [17, 2], "entities": [], "annotated_sentence": "妊娠初期より貧血を指摘されていた。", "generated": "妊娠初期より貧血を指摘されていた。[EOS]"}
+{"ID": [40, 22], "entities": [], "annotated_sentence": "今回,運動耐容能改善が得られた因子として,骨格筋の強化が図れたことが一要因であると考える.", "generated": "今回,運動耐容能改善が得られた因子として,骨格筋の強化が図れたことが一要因であると考える.[EOS]"}
+{"ID": [26, 1], "entities": [], "annotated_sentence": "両側肺底部には炎症瘢痕を疑う索状影が認められます。", "generated": "両側肺底部には炎症瘢痕を疑う索状影が認められます。[EOS]"}
+{"ID": [13, 13], "entities": [], "annotated_sentence": "前屈動作として下位頸椎の動きはほとんど見られず,上位頸椎の左回旋・側屈を伴い,前屈最終域で頭部左回旋位となった。", "generated": "前屈動作として下位頸椎の動きはほとんど見られず,上位頸椎の左回旋・側屈を伴い,前屈最終域で頭部左回旋位となった。[EOS]"}
+{"ID": [55, 9], "entities": [], "annotated_sentence": "両症例の共通事項は、1)高齢者であり、2)歯科疾患からの感染が誘因となり、3)数日で致死的状態へ移行した点である。", "generated": "両症例の共通事項は、1)高齢者であり、2)歯科疾患からの感染が誘因となり、3)数日で致死的状態へ移行した点である。[EOS]"}
+{"ID": [38, 10], "entities": [], "annotated_sentence": "【医学的経過】", "generated": "[EOS]"}
+{"ID": [27, 8], "entities": [], "annotated_sentence": "4月18日朝CT/MRIにて右中大脳動脈脳梗塞所見を認め,当院脳神経外科転棟転科.同日リハビリテーション開始となった.", "generated": "CT/MRIにて右中大脳動脈脳梗塞所見を認め,リハビリテーション開始となった.[EOS]"}
+{"ID": [20, 14], "entities": [{"name": "脂肪製剤", "span": [0, 4], "type_id": 31, "type": "m-key_executed"}], "annotated_sentence": "<m-key state=\"executed\">脂肪製剤</m-key>に混入する大豆蛋白によるアレルギーの報告は少なく,好酸球性胃腸炎の例はこれまでに報告がない.", "generated": "脂肪製剤に混入する大豆蛋白によるアレルギーの報告は少なく,好酸球性胃腸炎の例はこれまでに報告がない.[EOS]"}
+{"ID": [48, 5], "entities": [], "annotated_sentence": "【方法】対象は脳梗塞発症1ヵ月経過した70歳代の女性とし,病巣は左放線冠であった。", "generated": "【方法】対象は脳梗塞発症1ヵ月経過した70歳代の女性とし,病巣は左放線冠であった。[EOS]"}
+{"ID": [109, 7], "entities": [{"name": "ICS", "span": [17, 20], "type_id": 32, "type": "m-key_negated"}], "annotated_sentence": "【結論】当院での入院となった症例で<m-key state=\"negated\">ICS</m-key>が使用されていなかった症例は半数を超えており,その多くは一般医通院症例であり,また頻回のER受診症例も多かった,", "generated": "【結論】当院での入院となった症例でICSが使用されていなかった症例は半数を超えており,その多くは一般医通院症例であり,また頻回のER受診症例も多かった,[EOS]"}
+{"ID": [62, 13], "entities": [], "annotated_sentence": "この結果から行動療法における治療者・患者関係は治療技法との関連できまるものであろうといえる。", "generated": "この結果から行動療法における治療者・患者関係は治療技法との関連できまるものであろうといえる。[EOS]"}
+{"ID": [13, 3], "entities": [], "annotated_sentence": "上肺野優位の気腫性変化が認められます。", "generated": "[EOS]"}
+{"ID": [2, 9], "entities": [{"name": "NBCA", "span": [4, 8], "type_id": 34, "type": "m-key_other"}], "annotated_sentence": "【結語】<m-key state=\"other\">NBCA</m-key>は1980年代より脳動脈瘤や動静脈痩、肝臓出血、腎臓出血などに使用され、有効な塞栓物質として報告されている。", "generated": "【結語】NBCAは1980年代より脳動脈瘤や動静脈痩、肝臓出血、腎臓出血などに使用され、有効な塞栓物質として報告されている。[EOS]"}
+{"ID": [28, 8], "entities": [{"name": "メキシレチン", "span": [15, 21], "type_id": 31, "type": "m-key_executed"}, {"name": "リドカイン", "span": [28, 33], "type_id": 31, "type": "m-key_executed"}, {"name": "30mg/h", "span": [34, 40], "type_id": 35, "type": "m-val_"}], "annotated_sentence": "ところが心室頻拍が出現するため<m-key state=\"executed\">メキシレチン</m-key>が開始となり、<m-key state=\"executed\">リドカイン</m-key>を<m-val>30mg/h</m-val>で再開し11時間後のリドカイン血中濃度は7.83μg/mLとなった。", "generated": "心室頻拍が出現するため<m-key>メキシレチン</m-key><m-val>が開始</m-val>となり,リドカインを30mg/hで再開し11時間後のリドカイン血中濃度は7.83μg/mLとなった。[EOS]"}
+{"ID": [65, 13], "entities": [], "annotated_sentence": "2)合併症はなかった。", "generated": "[EOS]"}
+{"ID": [5, 17], "entities": [], "annotated_sentence": "この時点で骨折部の疼痛は消失していた。", "generated": "この時点で骨折部の疼痛は消失していた。[EOS]"}
+{"ID": [51, 3], "entities": [], "annotated_sentence": "主訴:顔面に生じた紅色丘疹。", "generated": "[EOS]"}
+{"ID": [96, 1], "entities": [], "annotated_sentence": "右肺上葉にも結節影を認めますが、以前の検診CTでも認めており、前回と著変ありません。良性結節を疑います。", "generated": "右肺上葉にも結節影を認めますが、以前の検診CTでも認めており、前回と著変ありません。良性結節を疑います。[EOS]"}
+{"ID": [66, 12], "entities": [], "annotated_sentence": "今回我々は盲腸と虫垂にみられるまれな好酸球性大腸炎の一例を経験したので文献的考察を加えて報告する。", "generated": "今回我々は盲腸と虫垂にみられるまれな好酸球性大腸炎の一例を経験したので文献的考察を加えて報告する。[EOS]"}
+{"ID": [41, 2], "entities": [], "annotated_sentence": "右下葉に浸潤影が認められ、肺炎併発を疑います。", "generated": "右下葉に浸潤影が認められ、肺炎併発を疑います。[EOS]"}
+{"ID": [81, 8], "entities": [], "annotated_sentence": "女性乳癌に準じて男性乳癌に対するセンチネルリンパ節生検実施例の報告は散見されつつあるが、男性乳癌に対する乳房部分切除術については症例数が少ないため報告例は少なくその意義に関しては不明な点が多い。", "generated": "女性乳癌に準じて男性乳癌に対するセンチネルリンパ節生検実施例の報告は散見されつつあるが、男性乳癌に対する乳房部分切除術については症例数が少ないため報告例は少なくその意義に関しては不明な点が多い。[EOS]"}
+{"ID": [49, 11], "entities": [], "annotated_sentence": "また,直前CTで指摘された門脈血栓が上腸間膜静脈にまで及んでおり,門脈圧亢進症性腸症で内圧上昇した静脈に更なる内圧上昇が加わり,びまん性出血による下部消化管出血を呈した可能性が示唆された.", "generated": "また,直前CTで指摘された門脈血栓が上腸間膜静脈にまで及んでおり,門脈圧亢進症性腸症で内圧上昇した静脈に更なる内圧上昇が加わり,びまん性出血による下部消化管出血を呈した可能性が示唆された.[EOS]"}
+{"ID": [110, 1], "entities": [], "annotated_sentence": "【症例】75歳、男", "generated": "[EOS]"}
+{"ID": [56, 5], "entities": [], "annotated_sentence": "背景肺には気腫が目立ちます。", "generated": "[EOS]"}
+{"ID": [29, 8], "entities": [], "annotated_sentence": "[考察]慢性肝疾患,肝硬変での低酸素血症の原因としてはシャント,拡散障害,換気血流比不均衡等がある,今回の検討ではクモ状血管腫を有する肝疾患患者ではシャント率の増加があり,低酸素血症を認めた.", "generated": "[考察]慢性肝疾患,肝硬変での低酸素血症の原因としてはシャント,拡散障害,換気血流比不均衡等がある,今回の検討ではクモ状血管腫を有する肝疾患患者ではシャント率の増加があり,低酸素血症を認めた.[EOS]"}
+{"ID": [16, 14], "entities": [], "annotated_sentence": "家族へ十分なICの後に脾腎シャント閉塞術を行なった.", "generated": "家族へ十分なICの後に<m-key>脾腎シャント</m-key>閉塞術を行なった.[EOS]"}
+{"ID": [73, 7], "entities": [], "annotated_sentence": "組織学的には,変性した血管を中心とする,壊死を伴う肉芽腫であり,バザン硬結性紅斑の組織像に一致。", "generated": "組織学的には,変性した血管を中心とする,壊死を伴う肉芽腫であり,バザン硬結性紅斑の組織像に一致。[EOS]"}
+{"ID": [3, 10], "entities": [{"name": "1500mg", "span": [17, 23], "type_id": 35, "type": "m-val_"}], "annotated_sentence": "さらに投与継続し,36時間後(総量<m-val>1500mg</m-val>)に乾癬様の紅斑,麟屑および膿疱が出現。", "generated": "さらに投与継続し,36時間後(総量<m-val>1500mg</m-val>)に乾癬様の紅斑,麟屑および膿疱が出現。[EOS]"}
+{"ID": [56, 6], "entities": [], "annotated_sentence": "初診時ではX線検査に異常なく,理学評価は,FW動作時痛Numeric Rating Scale(以下NRS)10,右Kemp test陰性も右腰部痛があり,右第4/5腰椎,第1仙椎(以下L4/5/S1)椎間関節に圧痛がみられ,prone instability test(以下PIT)陽性,右腰腸肋筋に筋硬結があり,圧痛,収縮時痛が存在した。", "generated": "<m-key>X線検査</m-key>に異常なく,理学評価は,FW動作時痛<m-val>Numeric Rating Scale(以下NRS)</m-val>10,右Kemp test陰性も右腰部痛があり,右第4/5腰椎,第1仙椎(以下L4/5/S1)椎間関節に圧痛がみられ,prone instability test(以下PIT)陽性"}
+{"ID": [14, 3], "entities": [], "annotated_sentence": "右乳房腫瘤を主訴に1999年5月当科を受診.", "generated": "右乳房腫瘤を主訴に1999年5月当科を受診.[EOS]"}
+{"ID": [20, 9], "entities": [], "annotated_sentence": "症状は軽快したが消失はしなかった.", "generated": "症状は軽快したが消失はしなかった.[EOS]"}
+{"ID": [105, 2], "entities": [], "annotated_sentence": "症例は68歳男性。", "generated": "[EOS]"}
+{"ID": [23, 7], "entities": [], "annotated_sentence": "術後の検討で造影CT検査において同様の所見が確認された。", "generated": "術後の検討で造影CT検査において同様の所見が確認された。[EOS]"}
+{"ID": [24, 11], "entities": [], "annotated_sentence": "x帰院3日後のNO値はaNOのみ入院時と同レベルまで上昇し,SP-Dも再上昇した.", "generated": "x帰院3日後のNO値はaNOのみ入院時と同レベルまで上昇し,SP-Dも再上昇した.[EOS]"}
+{"ID": [48, 9], "entities": [], "annotated_sentence": "値が高いものほど,立位制御への貢献度が高いことを示す。", "generated": "[EOS]"}
+{"ID": [32, 26], "entities": [], "annotated_sentence": "訓練開始後、肩関節可動域の改善と疼痛の軽減、内省の変化が認められた。", "generated": "訓練開始後、肩関節可動域の改善と疼痛の軽減、内省の変化が認められた。[EOS]"}
+{"ID": [71, 6], "entities": [], "annotated_sentence": "【方法】", "generated": "[EOS]"}
+{"ID": [107, 3], "entities": [], "annotated_sentence": "今回、われわれは乳房再建インプラント挿入後の乳癌術後傍胸骨リンパ節転移に対して胸腔鏡下摘出生検を施行した1例について報告する。", "generated": "今回、われわれは乳房再建インプラント挿入後の乳癌術後傍胸骨リンパ節転移に対して胸腔鏡下摘出生検を施行した1例について報告する。[EOS]"}
+{"ID": [11, 7], "entities": [], "annotated_sentence": "経鼻内視鏡検査,及びGFにて右下咽頭内側に白色の小腫瘤を認識したが,この時点では嚢胞と判断し,原発不明頸部リンパ節癌と診断した。", "generated": "経鼻内視鏡検査,及びGFにて右下咽頭内側に白色の小腫瘤を認識したが,この時点では嚢胞と判断し,原発不明頸部リンパ節癌と診断した。[EOS]"}
+{"ID": [120, 10], "entities": [{"name": "ゲル化栄養剤", "span": [8, 14], "type_id": 34, "type": "m-key_other"}], "annotated_sentence": "【考察】成人では<m-key state=\"other\">ゲル化栄養剤</m-key>の注入は広く行われている.", "generated": "【考察】成人ではゲル化栄養剤の注入は広く行われている.[EOS]"}
+{"ID": [26, 12], "entities": [], "annotated_sentence": "特徴的であったのが下肢において筋力低下が著しく、足関節底背屈以外はMMT1~2程度の筋力しか有していなかった。", "generated": "特徴的であったのが下肢において筋力低下が著しく、足関節底背屈以外はMMT1~2程度の筋力しか有していなかった。[EOS]"}
+{"ID": [73, 1], "entities": [], "annotated_sentence": "右第1−3肋骨に腫瘍は浸潤を受けており、胸壁浸潤と考えます。", "generated": "右第1−3肋骨に腫瘍は浸潤を受けており、胸壁浸潤と考えます。[EOS]"}
+{"ID": [41, 1], "entities": [], "annotated_sentence": "右下葉に不整形結節を認めます。10年前のCTではこの病変は指摘できず、副腫瘍結節を疑います。右上葉S1に辺縁平滑な結節を認めます。10年前のCTと著変なく、良性結節を疑います。T分類でT3相当と思われます。", "generated": "右下葉に不整形結節を認めます。10年前のCTではこの病変は指摘できず、副腫瘍結節を疑います。右上葉S1に辺縁平滑な結節を認めます。10年前のCTと著変なく、良性結節を疑います。T分類でT3相当と思われます。[EOS]"}
+{"ID": [16, 1], "entities": [], "annotated_sentence": "肺野には副腫瘍結節を疑う病変を指摘できません。T分類でT4相当と思われます。", "generated": "肺野には副腫瘍結節を疑う病変を指摘できません。T分類でT4相当と思われます。[EOS]"}
+{"ID": [36, 2], "entities": [], "annotated_sentence": "右肺上葉S1外層に結節影を認めますが、こちらは過去のCTでもみられ、変化ありません。良性結節性病変を疑うものであり、肺転移ではなさそうです。", "generated": "右肺上葉S1外層に結節影を認めますが、こちらは過去のCTでもみられ、変化ありません。良性結節性病変を疑うものであり、肺転移ではなさそうです。[EOS]"}
+{"ID": [14, 2], "entities": [], "annotated_sentence": "症例は63歳,女性.", "generated": "[EOS]"}
+{"ID": [103, 22], "entities": [{"name": "ステロイド", "span": [22, 27], "type_id": 34, "type": "m-key_other"}], "annotated_sentence": "早期に肝生検を行い診断を確定した後,速やかに<m-key state=\"other\">ステロイド</m-key>を導入することが肝要と考える.", "generated": "早期に肝生検を行い診断を確定した後,速やかに<m-key>ステロイド</m-key><m-val>を導入することが肝要と考える.[EOS]"}
+{"ID": [21, 15], "entities": [], "annotated_sentence": "また踏み切りを容易にするためロッカーバーを用いた。", "generated": "また踏み切りを容易にするためロッカーバーを用いた。[EOS]"}
+{"ID": [43, 18], "entities": [], "annotated_sentence": "脂質異常あり。", "generated": "脂質異常あり。[EOS]"}
+{"ID": [131, 9], "entities": [], "annotated_sentence": "治療は週3~5回,午前10時から90分間日光浴をした。", "generated": "治療は週3~5回,午前10時から90分間日光浴をした。[EOS]"}
+{"ID": [101, 7], "entities": [], "annotated_sentence": "家族歴:乳癌・卵巣癌なし母:胃癌", "generated": "<m-key>乳癌</m-key><m-key>卵巣癌</m-key>なし母:胃癌[EOS]"}
+{"ID": [53, 15], "entities": [], "annotated_sentence": "術後第9病日に退院した.", "generated": "[EOS]"}
+{"ID": [134, 5], "entities": [], "annotated_sentence": "平成23年9月検診で便潜血を指摘され精査のため当院に紹介された。", "generated": "平成23年9月検診で便潜血を指摘され精査のため<m-key>当院</m-key>に紹介された。[EOS]"}
+{"ID": [40, 4], "entities": [], "annotated_sentence": "両肺尖部に気腫性変化を認めます。", "generated": "両肺尖部に気腫性変化を認めます。[EOS]"}
+{"ID": [58, 5], "entities": [], "annotated_sentence": "しかし、CTで盲腸壁が肥厚しており、虫垂が通常の虫垂炎よりも腫大していたため、盲腸癌や虫垂粘液嚢胞腺腫の合併を疑った。", "generated": "CTで盲腸壁が肥厚しており、虫垂が通常の虫垂炎よりも腫大していたため、盲腸癌や虫垂粘液嚢胞腺腫の合併を疑った。[EOS]"}
+{"ID": [13, 6], "entities": [], "annotated_sentence": "背部のMED正常。", "generated": "背部のMED正常。[EOS]"}
+{"ID": [10, 10], "entities": [], "annotated_sentence": "手術所見はPo、 Ho、 N1(+)、 Ai、 stagelll a,根治度であった。", "generated": "手術所見はPo、 Ho、 N1(+)、 Ai、 stagelll a,根治度であった。[EOS]"}
+{"ID": [32, 1], "entities": [], "annotated_sentence": "縦隔、肺門、腋窩などに病的リンパ節腫大は認めません。", "generated": "縦隔、肺門、腋窩などに病的リンパ節腫大は認めません。[EOS]"}
+{"ID": [67, 10], "entities": [], "annotated_sentence": "各項目に対して、学校評価は不注意に関する症状4項目および多動・衝動性に関する症状1項目に有意な改善がみられ、家庭評価は不注意に関する症状3項目に有意な改善がみられた。", "generated": "各項目に対して、学校評価は不注意に関する症状4項目および多動・衝動性に関する症状1項目に有意な改善がみられ、家庭評価は不注意に関する症状3項目に有意な改善がみられた。[EOS]"}
+{"ID": [58, 21], "entities": [], "annotated_sentence": "【考察】二症例に共通した術後経過の特徴は、1.術後初期では顕著であった平衡障害は、数週内は改善を示したこと、2.対照的に寡動やすくみ足は術後の変化が少ないこと、3.姿勢の後方への不安定性に対して踵部補高が有効であったこと、4.裸足と踵部補高のTUG所要時間の差は経時的に縮小していったことである。", "generated": "【考察】二症例に共通した術後経過の特徴は、1.術後初期では顕著であった平衡障害は、数週内は改善を示したこと、2.対照的に寡動やすくみ足は術後の変化が少ないこと、3.姿勢の後方への不安定性に対して踵部補高が有効であったこと、4.裸足と踵部補高のTUG所要時間の差は経時的に縮小していったことである。[EOS]"}
+{"ID": [47, 8], "entities": [], "annotated_sentence": "手術所見は、Lt、0-Ipl、T1b、N1、M0、IM0、StageIであった。", "generated": "手術所見は、Lt、0-Ipl、T1b、N1、M0、IM0、StageIであった。[EOS]"}
+{"ID": [39, 6], "entities": [], "annotated_sentence": "その他腰痛,軽度の四肢筋力の低下を認めた。", "generated": "その他腰痛,軽度の四肢筋力の低下を認めた。[EOS]"}
