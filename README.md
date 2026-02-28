@@ -1,1 +1,1 @@
-# J-ClinicalBench-release
+# J-ClinicalBench
