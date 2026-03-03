@@ -2,7 +2,10 @@
 
 J-ClinicalBench is a benchmark dataset and evaluation suite for Japanese clinical NLP. 
 
+
 ## Overview
+
+<img src="assets/clinicalbench_intro_v5.png" width="500">
 
 J-ClinicalBench consists of **nine clinical NLP tasks** organized into three capability groups:
 
