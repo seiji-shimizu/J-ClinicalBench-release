@@ -10,44 +10,6 @@ J-ClinicalBench consists of **nine clinical NLP tasks** organized into three cap
 * **Generation** (Summarization, Simplification)
 * **Understanding** (NER, RE, ADE classification, TNM staging)
 
----
-## 📂 Repository Structure
-
-```
-
-J-ClinicalBench-release/
-├── data/        # Benchmark datasets
-├── results/     # Model evaluation outputs
-└── README.md
-
-````
-
-### `data/`
-
-Contains the released benchmark datasets used for evaluation.  
-Typical contents may include:
-
-- Train/dev/test splits  
-- Task-specific annotations  
-- Preprocessed clinical text  
-
-> ⚠️ Update this section with exact dataset details if needed.
-
----
-
-### `results/`
-
-Contains evaluation outputs for baseline or reference models.
-
-Examples:
-
-- Model predictions  
-- Evaluation metrics  
-- Benchmark comparison tables  
-
-> ⚠️ Update with specific model names if desired.
-
----
 ## 📋 Tasks
 Datasets marked with ⋆ are newly constructed in the benchmark.
 
@@ -82,7 +44,6 @@ Recommend all suitable medications for the patient given their clinical descript
 **Objective:**
 Answer questions derived from the Japanese national medical board examination.
 
----
 
 ### ✍️ Clinical Generation Tasks
 
@@ -114,8 +75,6 @@ Extract key safety information (e.g., event type, contributing factors, outcomes
 
 **Objective:**
 Rewrite clinical text into patient-friendly Japanese while preserving medical accuracy.
-
----
 
 ### 🔍 Clinical Understanding Tasks
 
@@ -155,6 +114,42 @@ These tasks focus on structured information extraction and document-level unders
 
 **Input:** Clinical document
 **Output:** TNM stage labels (e.g., T2a, N0, M0)
+
+---
+## 📂 Repository Structure
+
+```
+
+J-ClinicalBench-release/
+├── data/        # Benchmark datasets
+├── results/     # Model evaluation outputs
+└── README.md
+
+````
+
+### `data/`
+
+Contains the released benchmark datasets used for evaluation.  
+Typical contents may include:
+
+- Train/dev/test splits  
+- Task-specific annotations  
+- Preprocessed clinical text  
+
+> ⚠️ Update this section with exact dataset details if needed.
+
+
+### `results/`
+
+Contains evaluation outputs for baseline or reference models.
+
+Examples:
+
+- Model predictions  
+- Evaluation metrics  
+- Benchmark comparison tables  
+
+> ⚠️ Update with specific model names if desired.
 
 
 ---
