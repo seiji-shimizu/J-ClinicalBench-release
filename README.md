@@ -19,7 +19,7 @@ J-ClinicalBench-release/
 ├── assets/
 ├── data/
 │   ├── benchmarks/  # annotated datasets
-│   ├──generated/    # generation by LLMs
+│   ├──generated/    # generated outputs by LLMs
 │   └── raw/         # raw clinical documents
 │   
 ├── results/         # evaluated performance scores
