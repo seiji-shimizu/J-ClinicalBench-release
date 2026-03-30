@@ -39,7 +39,7 @@ Raw documents used in the benchmark
 - `MH/`: Medication history documents
 - `RN/`: Referral notes
 
-## 📋 Tasks
+## 📋 Tasks in `data/benchmarks`
 
 Datasets marked with `⋆` are newly constructed in this benchmark.
 
