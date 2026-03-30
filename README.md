@@ -130,4 +130,5 @@ Contributions are welcome via issues and pull requests.
 ## 📧 Contact
 
 Maintainer: **Seiji Shimizu** 
-mail: shimizu.seiji.so8@is.naist.jp
+
+Mail: shimizu.seiji.so8@is.naist.jp
