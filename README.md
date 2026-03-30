@@ -1,6 +1,6 @@
 # J-ClinicalBench
 
-J-ClinicalBench is a benchmark dataset and evaluation suite for Japanese clinical NLP.
+This repository contains raw clinical documents, annotated dtasets and evaluation results of the paper "J-ClinicalBench: A Benchmark for Evaluating Large Language Models on Practical Clinical Tasks in Japanese".
 
 ## Overview
 
@@ -8,9 +8,9 @@ J-ClinicalBench is a benchmark dataset and evaluation suite for Japanese clinica
 
 J-ClinicalBench consists of **nine clinical NLP tasks** organized into three capability groups:
 
-- **Reasoning** (CCA, MR, ExamQA)
+- **Reasoning** (Clinical Code Assignment, Medication Recommendatoin, Exam-style QA)
 - **Generation** (Hospitalization Summarization, Incident Report Summarization, Clinical Text Simplification)
-- **Understanding** (NER, RE, ADE classification, TNM staging)
+- **Understanding** (Named Entiry Recognition, Relation Extraction, Document Classification)
 
 ## 📂 Folder Structure
 
@@ -109,13 +109,6 @@ Datasets marked with `⋆` are newly constructed in this benchmark.
 
 ## 🧪 Intended Use
 
-J-ClinicalBench is intended for:
-
-- Clinical NLP research
-- Japanese medical language modeling
-- LLM benchmarking
-- Academic comparison studies
-
 Not intended for direct clinical decision making.
 
 ## 📝 Citation
@@ -136,4 +129,5 @@ Contributions are welcome via issues and pull requests.
 
 ## 📧 Contact
 
-Maintainer: **Seiji Shimizu**
+Maintainer: **Seiji Shimizu** 
+mail: shimizu.seiji.so8@is.naist.jp
