@@ -22,7 +22,7 @@ J-ClinicalBench-release/
 │   ├──generated/    # generation by LLMs
 │   └── raw/         # raw clinical documents
 │   
-├── results/
+├── results/         # evaluated performance scores
 └── README.md
 ```
 
