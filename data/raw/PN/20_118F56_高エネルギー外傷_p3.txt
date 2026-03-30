@@ -1,0 +1,30 @@
+【118F56】Progress note (3/5)
+
+S (うなずきあり)
+O 
+デクスメデトミジン 0.4μg/kg/h フェンタニル 40μg/hで鎮痛、RASS 0〜-1
+人工呼吸器使用中、モード　A/C PSV PS 5 PEEP 5
+f 18 TV 420ml MV 7.56L/min 
+P/F 250 pCO2 38Torr
+胸部CT：みぎ下葉肺炎像改善傾向
+Hr 100ml/h Lac 1.2
+入室からのIn out balance +1000ml
+左横隔膜下ドレーン 20ml/day 漿液性　骨盤底ドレーン 10ml/day 漿液性
+経管栄養 消化態栄養剤 30ml/h 1080kcal タンパク量 66g/day
+泥状便あり
+腹部CT：胆嚢内に新規の胆石あり
+AST 60U/L ALT 47U/L ALP 130U/L γ-GTP 80U/L
+低K血症点滴補正中 60 mEq/L/day K 3.7mEq/L
+Hb 10.8g/dl, PLT 40/μl, Fbg 380mg/dl  輸血需要なし
+WBC 8700 /μL, CRP 16 mg/dl
+抗菌薬：
+第3病日〜第6病日 CTRX
+第6病日〜　ABPC/SBT
+SU prophylaxis PPI ivq12h
+DVT prophylaxis 低分子ヘパリン 2000IUq12h 投与開始
+A/P
+本日SAT、SBT clearした。
+肺炎加療中でありP/F改善傾向であり抜管も検討したが、肝逸脱酵素上昇のため抜管を見送り、再評価目的の単純CTを施行した。
+肺炎は改善傾向であったが、胆嚢内に新規胆石あり、CTRXによる偽胆石症を疑い抗菌薬をABPC/SBTに変更した。
+呼吸循環安定して経過していれば明日抜管とする。
+

@@ -1,0 +1,22 @@
+【118C50】Progress note (3/5)
+
+S いま何日ですか
+O
+GCS E4V5M6
+抜管後 RR 16 /min, SpO2 98%(酸素マスク O2 4L/min)
+HR 90 /min, BP 120/60 mmHg Lac 1.2
+腹部正中創 パッキング中 浸出液少量
+左後腹膜ドレーン 40ml/day 漿液性　骨盤底ドレーン 40ml/day 漿液性
+経管栄養間欠投与 消化態栄養剤 1080kcal タンパク量 66g/day
+泥状便あり
+電解質異常なし
+輸血需要なし
+WBC 8000 /μL, CRP 11.8 mg/dl
+抗菌薬：なし
+SU prophylaxis PPI ivq12h
+DVT prophylaxis 低分子ヘパリン 2000IUq12h 
+A/P
+SAT、SBTクリアし抜管した。
+ドレーン排液量、性状も問題なく、ドレーン抜去とした。
+第7病日に造影CTで画像フォロー予定。
+

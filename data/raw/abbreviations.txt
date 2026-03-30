@@ -1,0 +1,8 @@
+CR: case report
+DS: discharge summary
+IR: incident report
+MH: medication history
+NR: nursing report
+PN: progress note
+RN: referral note
+RR: radiology report
