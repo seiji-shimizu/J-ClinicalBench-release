@@ -18,9 +18,9 @@ J-ClinicalBench consists of **nine clinical NLP tasks** organized into three cap
 J-ClinicalBench-release/
 ├── assets/
 ├── data/
-│   ├── benchmarks/        
-│   ├──generated/
-│   └── raw/               
+│   ├── benchmarks/  # annotated datasets
+│   ├──generated/    # generation by LLMs
+│   └── raw/         # raw clinical documents
 │   
 ├── results/
 └── README.md
