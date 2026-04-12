@@ -116,11 +116,7 @@ Not intended for direct clinical decision making.
 If you use J-ClinicalBench in your research, please cite:
 
 ```bibtex
-@dataset{jclinicalbench,
-  title={J-ClinicalBench: Japanese Clinical NLP Benchmark},
-  author={Shimizu, Seiji},
-  year={2025},
-}
+comming soon
 ```
 
 ## 🤝 Contributing
