@@ -50,10 +50,14 @@ Datasets marked with `⋆` are newly constructed in this benchmark.
 - Input: Clinical note (`text` column of `data/benchmarks/CLR/CCA/data.csv`)
 - Output: All corresponding diagnostic codes (MedDRA) (`medra_list` column of `data/benchmarks/CLR/CCA/data.csv`)
 
+IAA was 0.80 in accuracy and released clnflict-resolved annotations.
+
 #### 2. Medication Recommendation (MR) ⋆
 
 - Input: Clinical note (`text` column of `data/benchmarks/CLR/MR/data.csv`)
 - Output: Recommended medications (`medications` column of `data/benchmarks/CLR/MR/data.csv`)
+
+IAA was 0.92 in accuracy.
 
 #### 3. Exam-style Question Answering (ExamQA)
 
