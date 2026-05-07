@@ -39,11 +39,13 @@ Raw Japanese clinical corpora used in the benchmark
 - `MH/`: Medication history documents (薬歴)
 - `RN/`: Referral notes (予習サマリ)
 
+* Creation of additional DS and PN corpora is in progress and soon to be updated
+
 ## 📋 Tasks in `data/benchmarks`
 
 Datasets marked with `⋆` are newly constructed in this benchmark.
 
-### 🧠 Clinical Reasoning Tasks
+### 🧠 Reasoning Tasks
 
 #### 1. Clinical Code Assignment (CCA) ⋆
 
@@ -58,15 +60,15 @@ IAA was 0.80 in accuracy and the final conflict-resolved version is released.
 - Input: Clinical note (`text` column of `data/benchmarks/CLR/MR/data.csv`)
 - Output: Recommended medications (`medications` column of `data/benchmarks/CLR/MR/data.csv`)
 
-IAA was 0.92 in accuracy.
+IAA was 0.92 in accuracy (evaluate_mr_annotation_accuracy.ipynb in results).
 
 #### 3. Exam-style Question Answering (ExamQA)
 
-- Source: Adapted from IGAKU QA benchmark
+- Source: "Clinical questions" (the ones beginning with ``The patient is an XX-year-old...'') adapted from igakuQA (the formatting same as JMedBench).
 - Input: Medical exam question (`question` and `options` fields of `data/benchmarks/CLR/MCQA/igakuqa_clinical_test.jsonl` and `data/benchmarks/CLR/MCQA/igakuqa_clinical_train.jsonl`)
 - Output: Correct answer choice (`answer_idx` field in the same JSONL files)
 
-### ✍️ Clinical Generation Tasks
+### ✍️ Generation Tasks
 
 #### 4. Hospitalization Summarization ⋆
 
@@ -76,6 +78,8 @@ IAA was 0.92 in accuracy.
 - Output:
   - DS setting: concise summary (`summary` column of `data/benchmarks/CLG/HS_DS/data_summary.csv`)
   - PN setting: concise summary (`summary` field of `data/benchmarks/CLG/HS_PN/data.json`)
+
+* Creation of additional DS and PN corpora is in progress and the dataset is soon to be updated
 
 #### 5. Incident Report Summarization ⋆
 
@@ -90,7 +94,7 @@ IAA was 0.92 in accuracy.
   - `input_text` column of `data/benchmarks/CLG/CTS/RR_simplification.csv`
 - Output: Lay-person oriented rewrite (`simplified_text` column in each CTS file above)
 
-### 🔍 Clinical Understanding Tasks
+### 🔍 Understanding Tasks
 
 #### 7. Named Entity Recognition (NER)
 
