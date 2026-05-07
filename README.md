@@ -64,7 +64,7 @@ IAA was 0.92 in accuracy (evaluate_mr_annotation_accuracy.ipynb in results).
 
 #### 3. Exam-style Question Answering (ExamQA)
 
-- Source: "Clinical questions" (the ones beginning with ``The patient is an XX-year-old...'') adapted from igakuQA (the formatting same as JMedBench).
+- Source: "Clinical questions" (the ones start with ``The patient is an XX-year-old...'') adapted from igakuQA (the formatting same as JMedBench).
 - Input: Medical exam question (`question` and `options` fields of `data/benchmarks/CLR/MCQA/igakuqa_clinical_test.jsonl` and `data/benchmarks/CLR/MCQA/igakuqa_clinical_train.jsonl`)
 - Output: Correct answer choice (`answer_idx` field in the same JSONL files)
 
@@ -110,7 +110,7 @@ IAA was 0.92 in accuracy (evaluate_mr_annotation_accuracy.ipynb in results).
 
 - ADE Detection
   - Input: clinical document (`text` column of `data/benchmarks/CLU/DC_ADE/data.csv`; medication context in `medication`)
-  - Output: adverse event label (`label` column, `有/無`)
+  - Output: adverse event label (`label` column, `有 (exists)/無 (does not exist)`)
 - TNM Classification
   - Input: clinical document (`text` column of `data/benchmarks/CLU/DC_TMN/data.csv`)
   - Output: TNM labels (`t`, `n`, `m` columns of `data/benchmarks/CLU/DC_TMN/data.csv`)
