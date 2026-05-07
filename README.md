@@ -49,8 +49,9 @@ Datasets marked with `⋆` are newly constructed in this benchmark.
 
 - Input: Clinical note (`text` column of `data/benchmarks/CLR/CCA/data.csv`)
 - Output: All corresponding diagnostic codes (MedDRA) (`medra_list` column of `data/benchmarks/CLR/CCA/data.csv`)
+* Only non-negated diseases/symptoms are included in the annotation.
 
-IAA was 0.80 in accuracy and released clnflict-resolved annotations.
+IAA was 0.80 in accuracy and the final conflict-resolved version is released.
 
 #### 2. Medication Recommendation (MR) ⋆
 
