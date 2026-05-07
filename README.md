@@ -98,17 +98,17 @@ IAA was 0.92 in accuracy (evaluate_mr_annotation_accuracy.ipynb in results).
 
 ### 🔍 Understanding Tasks
 
-#### 7. Named Entity Recognition (NER)
+#### 7. Named Entity Recognition (`CLU/NER_Disease` and `CLU/NER_Medication`)
 
 - Input: Clinical text (`text` field in JSONL files under `data/benchmarks/CLU/NER_Disease/` and `data/benchmarks/CLU/NER_Medication/`: `train_cr.json`, `train_rr.json`, `test_rr.json`)
 - Output: Entity spans and labels (`entities` field in the same JSONL files; `annotated_sentence` is also provided)
 
-#### 8. Relation Extraction (RE)
+#### 8. Relation Extraction (`CLU/RE_Ent` and `CLU/RE_Time`)
 
 - Input: Clinical text with entity markers (`text` field in `data/benchmarks/CLU/RE_Ent/rel_data.json` and `data/benchmarks/CLU/RE_Time/rel_data.json`)
 - Output: Entity/temporal relations (`relation` field in each RE dataset)
 
-#### 9. Document Classification
+#### 9. Document Classification (`CLU/DC_ADE` and `CLU/DC_TMN`)
 
 - ADE Detection
   - Input: clinical document (`text` column of `data/benchmarks/CLU/DC_ADE/data.csv`; medication context in `medication`)
