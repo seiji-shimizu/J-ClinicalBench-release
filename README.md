@@ -1,18 +1,18 @@
 # J-ClinicalBench
 
-This repository contains raw clinical documents, annotated dtasets and evaluation results of the paper "J-ClinicalBench: A Benchmark for Evaluating Large Language Models on Practical Clinical Tasks in Japanese".
+This repository contains raw clinical corpora, annotated dtasets and evaluation results of the paper "J-ClinicalBench: A Benchmark for Evaluating Large Language Models on Practical Clinical Tasks in Japanese" @LREC 2026.
 
 ## Overview
 
 <img src="assets/clinicalbench_intro_v5.png" width="500">
 
-J-ClinicalBench consists of **nine clinical NLP tasks** organized into three capability groups:
+J-ClinicalBench consists of **nine clinical NLP tasks** organized into three groups:
 
 - **Reasoning** (Clinical Code Assignment, Medication Recommendatoin, Exam-style QA)
 - **Generation** (Hospitalization Summarization, Incident Report Summarization, Clinical Text Simplification)
 - **Understanding** (Named Entiry Recognition, Relation Extraction, Document Classification)
 
-## 📂 Folder Structure
+## 📂 Repository Structure
 
 ```text
 J-ClinicalBench-release/
@@ -20,7 +20,7 @@ J-ClinicalBench-release/
 ├── data/
 │   ├── benchmarks/  # annotated datasets
 │   ├──generated/    # generated outputs by LLMs
-│   └── raw/         # raw clinical documents
+│   └── raw/         # raw Japanese clinical corpora
 │   
 ├── results/         # evaluated performance scores
 └── README.md
@@ -28,16 +28,16 @@ J-ClinicalBench-release/
 
 ## 🗂️ `data/raw` Document Types
 
-Raw documents used in the benchmark
+Raw Japanese clinical corpora used in the benchmark
 
-- `CR/`: Case reports
-- `NR/`: Nursing records
-- `RR/`: Radiology reports
-- `DS/`: Discharge summaries
-- `PN/`: Progress notes
-- `IR/`: Incident reports
-- `MH/`: Medication history documents
-- `RN/`: Referral notes
+- `CR/`: Case reports (症例報告)
+- `NR/`: Nursing records (看護記録)
+- `RR/`: Radiology reports (読影レポート)
+- `DS/`: Discharge summaries (退院サマリ)
+- `PN/`: Progress notes (診療録)
+- `IR/`: Incident reports (インシデントレポート)
+- `MH/`: Medication history documents (薬歴)
+- `RN/`: Referral notes (予習サマリ)
 
 ## 📋 Tasks in `data/benchmarks`
 
