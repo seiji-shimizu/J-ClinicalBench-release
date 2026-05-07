@@ -47,7 +47,7 @@ Datasets marked with `⋆` are newly constructed in this benchmark.
 
 ### 🧠 Reasoning Tasks
 
-#### 1. Clinical Code Assignment (CCA) ⋆
+#### 1. Clinical Code Assignment (`CLR/CCA`) ⋆
 
 - Input: Clinical note (`text` column of `data/benchmarks/CLR/CCA/data.csv`)
 - Output: All corresponding diagnostic codes (MedDRA) (`medra_list` column of `data/benchmarks/CLR/CCA/data.csv`)
@@ -55,14 +55,14 @@ Datasets marked with `⋆` are newly constructed in this benchmark.
 
 IAA was 0.80 in accuracy and the final conflict-resolved version is released.
 
-#### 2. Medication Recommendation (MR) ⋆
+#### 2. Medication Recommendation (`CLR/MR`) ⋆
 
 - Input: Clinical note (`text` column of `data/benchmarks/CLR/MR/data.csv`)
 - Output: Recommended medications (`medications` column of `data/benchmarks/CLR/MR/data.csv`)
 
 IAA was 0.92 in accuracy (evaluate_mr_annotation_accuracy.ipynb in results).
 
-#### 3. Exam-style Question Answering (ExamQA)
+#### 3. Exam-style Question Answering (`CLR/MCQA`)
 
 - Source: "Clinical questions" (the ones start with ``The patient is an XX-year-old...'') adapted from igakuQA (the formatting same as JMedBench).
 - Input: Medical exam question (`question` and `options` fields of `data/benchmarks/CLR/MCQA/igakuqa_clinical_test.jsonl` and `data/benchmarks/CLR/MCQA/igakuqa_clinical_train.jsonl`)
@@ -70,7 +70,7 @@ IAA was 0.92 in accuracy (evaluate_mr_annotation_accuracy.ipynb in results).
 
 ### ✍️ Generation Tasks
 
-#### 4. Hospitalization Summarization ⋆
+#### 4. Hospitalization Summarization (`CLG/HS_PN/` and `CLG/HS_DS/`)⋆
 
 - Input:
   - DS setting: hospitalization/discharge text (`text` column of `data/benchmarks/CLG/HS_DS/data_ds.csv`)
@@ -81,12 +81,12 @@ IAA was 0.92 in accuracy (evaluate_mr_annotation_accuracy.ipynb in results).
 
 * Creation of additional DS and PN corpora is in progress and the dataset is soon to be updated
 
-#### 5. Incident Report Summarization ⋆
+#### 5. Incident Report Summarization (`CLG/IRS/`) ⋆
 
 - Input: Incident report (`incident_description` column of `data/benchmarks/CLG/IRS/data.csv`; optional context in `action_token` column)
 - Output: Concise phrase-level summary (`summary` column of `data/benchmarks/CLG/IRS/data.csv`)
 
-#### 6. Clinical Text Simplification ⋆
+#### 6. Clinical Text Simplification (`CLG/CTS/`) ⋆
 
 - Input: Clinical text
   - `input_text` column of `data/benchmarks/CLG/CTS/CR_simplification.csv`
