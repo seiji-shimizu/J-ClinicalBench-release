@@ -94,6 +94,8 @@ IAA was 0.92 in accuracy (evaluate_mr_annotation_accuracy.ipynb in results).
   - `input_text` column of `data/benchmarks/CLG/CTS/RR_simplification.csv`
 - Output: Lay-person oriented rewrite (`simplified_text` column in each CTS file above)
 
+* Technical terms are rewritten in brackets without altering the sentence structure, preserving the formatting of the original clinical documents.
+
 ### 🔍 Understanding Tasks
 
 #### 7. Named Entity Recognition (NER)
