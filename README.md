@@ -1,6 +1,6 @@
 # J-ClinicalBench
 
-This repository contains raw clinical corpora, annotated dtasets and evaluation results of the paper "J-ClinicalBench: A Benchmark for Evaluating Large Language Models on Practical Clinical Tasks in Japanese" @LREC 2026.
+This repository contains raw clinical corpora, annotated dtasets and evaluation results of the paper "J-ClinicalBench: A Benchmark for Evaluating Large Language Models on Practical Clinical Tasks in Japanese" accepted to LREC 2026.
 
 ## Overview
 
