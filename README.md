@@ -36,7 +36,7 @@ Raw Japanese clinical corpora used in the benchmark
 - `DS/`: Discharge summaries (退院サマリ)
 - `PN/`: Progress notes (診療録)
 - `IR/`: Incident reports (インシデントレポート)
-- `MH/`: Medication history documents (薬歴文書)
+- `MH/`: Medication history documents (薬歴)
 - `RN/`: Referral notes (予習サマリ)
 
 * Creation of additional DS and PN corpora is in progress and soon to be updated
