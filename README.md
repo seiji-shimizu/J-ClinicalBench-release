@@ -72,12 +72,14 @@ Datasets marked with `⋆` are newly constructed in this benchmark.
 
 - Input:
   - DS setting: hospitalization/discharge text (`text` column of `data/benchmarks/CLG/HS_DS/data_ds.csv`)
-  - PN setting: note collection (`notes` field of `data/benchmarks/CLG/HS_PN/data.json`)
+  - PN setting:
+    - paper reproduction data: note collection (`notes` field of `data/benchmarks/CLG/HS_PN/data_paper.json`)
+    - release dataset: note collection including additional data (`notes` field of `data/benchmarks/CLG/HS_PN/data_release_full.json`)
 - Output:
   - DS setting: concise summary (`summary` column of `data/benchmarks/CLG/HS_DS/data_summary.csv`)
-  - PN setting: concise summary (`summary` field of `data/benchmarks/CLG/HS_PN/data.json`)
-
-* Creation of additional DS and PN corpora is in progress and the dataset is soon to be updated
+  - PN setting:
+    - paper reproduction data: concise summary (`summary` field of `data/benchmarks/CLG/HS_PN/data_paper.json`)
+    - release dataset: concise summary (`summary` field of `data/benchmarks/CLG/HS_PN/data_release_full.json`)
 
 #### 5. Incident Report Summarization (`CLG/IRS`) ⋆
 
