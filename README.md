@@ -127,7 +127,13 @@ Not intended for direct clinical decision making.
 If you use J-ClinicalBench in your research, please cite:
 
 ```bibtex
-comming soon
+@inproceedings{shimizu2026jclinicalbench,
+  author    = {Seiji Shimizu and Tomohiro Nishiyama and Shohei Hisada and Yamato Himi and Shoko Wakamiya and Yuki Yanagisawa and Masami Tsuchiya and Satoko Hori and Eiji Aramaki},
+  title     = {J-ClinicalBench: A Benchmark for Evaluating Large Language Models on Practical Clinical Tasks in Japanese},
+  booktitle = {Proceedings of the 15th Language Resources and Evaluation Conference (LREC 2026)},
+  pages     = {419--430},
+  year      = {2026}
+}
 ```
 
 ## 🤝 Contributing
