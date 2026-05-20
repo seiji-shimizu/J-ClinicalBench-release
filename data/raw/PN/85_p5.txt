@@ -1,0 +1,5 @@
+S 熱でました。前よりはましだけど呼吸も苦しいです。
+O Vital signs: SpO2 87%（室内気）、HR 100/min、体温 40.0℃。
+A/P #1. 薬剤性肺障害carfilzomib関連）疑い
+carfilzomib再投与36時間で再度呼吸障害が出現。carfilzomibによる再燃と判断。
+Carfilzomibは永久中止。daratumumab維持療法継続。

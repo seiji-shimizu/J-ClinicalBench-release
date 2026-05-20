@@ -1,0 +1,6 @@
+S うう。
+O PS4, BT36.8℃, BP 87/59, HR 108/min, PR 22/min
+  LDH 1053, sIL-2R 5684
+A/P
+#1 DLBCL CS:Ⅳ IPI:high CD5+CD10+
+   リンパ腫に伴い全身状態は不良。本日よりPSL100mg投与開始し、明日よりR-THP-COP療法を開始する。

@@ -1,0 +1,5 @@
+S 苦しいのはだいぶよくなった。熱も出なくなりましたね
+O Vital signs: SpO2 98%（室内気）、HR 66/min、体温 36.3℃。
+胸部CT:両側のすりガラス影は消退傾向
+A/P　#1. 薬剤性肺障害carfilzomib関連）疑い
+daratumumab単剤継続

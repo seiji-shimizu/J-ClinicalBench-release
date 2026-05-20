@@ -1,0 +1,7 @@
+S またよろしくお願いします。
+O BT 36.6℃, BP 134/80, HR 70/min, PR 14/min
+A/P
+#1 急性前骨髄急性白血病 A→D群
+   ATRA 45mg/m2 day38
+   JALSG APL204 Induction day31
+   本日退院。来週入院し地固め療法1コース目開始予定。次回入院時にFISH、PCR確認する。

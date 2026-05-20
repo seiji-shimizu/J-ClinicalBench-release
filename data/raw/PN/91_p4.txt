@@ -1,0 +1,8 @@
+S 昨日は痛かったです。
+O BT 36.3℃, BP 122/72, HR 62/min, PR 16/min
+  WBC 3500 (Neut 70%, Ly 20%, Mono 10%), Hb 10.3, PLT 12万, CRP 0.78
+A/P
+#1急性前骨髄急性白血病 A→D群
+   ATRA 45mg/m2 day35
+   JALSG APL204 Induction day28→hCR以上到達
+   昨日の骨髄検査でhCR以上を確認した。週末退院し、1週間後地固め療法目的に再度入院予定。

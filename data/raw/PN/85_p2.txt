@@ -1,0 +1,7 @@
+S 苦しいのはいくらか楽になりました。
+O Vital signs: SpO2 98%（3Lカヌラ）、HR 80/min、体温 37.2℃。
+呼吸機能検査：DLCO 69%と低下。
+心エコー：三尖弁逆流速度2.9 m/s、肺高血圧疑い。
+A/P
+#1. 薬剤性肺障害carfilzomib関連）疑い
+carfilzomib中止。支持療法で経過観察。daratumumab単剤継続を検討。
