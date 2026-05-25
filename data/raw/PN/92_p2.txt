@@ -1,0 +1,7 @@
+S 特に変わらないな
+O BT37.4℃, vital stable
+　WBC 28000 (path 33.0%), Hb 10.8, PLT 7.2万
+A/P 
+#1 BPDCN
+   VEN/AZA (VEN 200mg) 1コース目 day2
+   治療開始したが明らかなTLSなく経過している。WBC低下しており治療効果みられる。治療継続。

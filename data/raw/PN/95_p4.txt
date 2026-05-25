@@ -1,0 +1,10 @@
+S もうすぐ帰れますか
+O 明らかな出血なし
+　WBC 8800, Hb 11.8, PLT 22.4万
+A/P
+#1　特発性血小板減少性紫斑病
+　　IVIg 15g
+    PSL 50mg/day
+    PSL 40mg/day
+    PSL 30mg/day day1
+    経過良好であり、本日よりPSL30mg/dayに減量する。血小板安定していれば退院とする。

@@ -39,7 +39,6 @@ Raw Japanese clinical corpora used in the benchmark
 - `MH/`: Medication history documents (薬歴)
 - `RN/`: Referral notes (予習サマリ)
 
-* Creation of additional DS and PN corpora is in progress and soon to be updated
 
 ## 📋 Tasks in `data/benchmarks`
 
